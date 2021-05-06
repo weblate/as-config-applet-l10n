@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Beveiligingsrisico accepteren"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Geavanceerde instellingen"
+
+msgid "activesync_bd_continue"
+msgstr "Doorgaan"
+
+msgid "activesync_bd_details"
+msgstr "Details"
+
+msgid "activesync_bd_dont_send"
+msgstr "Niet verzenden"
+
+msgid "activesync_bd_edit"
+msgstr "Antwoord bewerken"
+
+msgid "activesync_bd_ignore"
+msgstr "Negeren"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Handmatig synchroniseren"
+
+msgid "activesync_bd_resync"
+msgstr "Volledig opnieuw synchroniseren"
+
+msgid "activesync_bd_security_policy"
+msgstr "Beveiligingsbeleid naleven"
+
+msgid "activesync_bd_send"
+msgstr "Verzenden"
+
+msgid "activesync_bd_settings"
+msgstr "Instellingen"
+
+msgid "activesync_bd_signature"
+msgstr "Handtekening"
+
+msgid "activesync_bd_stop"
+msgstr "Synchronisatie stoppen"
+
+msgid "activesync_bv_accept"
+msgstr "Accepteren"
+
+msgid "activesync_bv_decline"
+msgstr "Weigeren"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Geaccepteerd:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Geweigerd:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Voorlopig:"
+
+msgid "activesync_bv_remove"
+msgstr "Verwijderen uit kalender"
+
+msgid "activesync_bv_tentative"
+msgstr "Voorlopig"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Geaccepteerd op"
+
+msgid "activesync_fi_account_title"
+msgstr "Accounttitel"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Conflicten oplossen"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Uitgaande e-mails kopiëren"
+
+msgid "activesync_fi_declined_on"
+msgstr "Geweigerd op"
+
+msgid "activesync_fi_domain"
+msgstr "Domein"
+
+msgid "activesync_fi_email_address"
+msgstr "E-mailadres"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Vingerafdruk"
+
+msgid "activesync_fi_invitation"
+msgstr "Uitnodiging"
+
+msgid "activesync_fi_password"
+msgstr "Wachtwoord"
+
+msgid "activesync_fi_port"
+msgstr "Poort"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Beveiligde verbinding"
+
+msgid "activesync_fi_serial_no"
+msgstr "Serienummer"
+
+msgid "activesync_fi_server"
+msgstr "Server"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Onderwerp"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Kalender en taken synchroniseren"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Voltooide taken synchroniseren"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Contactpersonen synchroniseren"
+
+msgid "activesync_fi_sync_email"
+msgstr "E-mail synchroniseren"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Voorlopig geaccepteerd op"
+
+msgid "activesync_fi_username"
+msgstr "Gebruikersnaam"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Tik op 'Volgende' om de eerste synchronisatie te starten of tik buiten de "
+"wizard om de nieuwe account te negeren.\n"
+"\n"
+"Tik op 'Geavanceerde instellingen' om de geavanceerde accountinstellingen te "
+"wijzigen."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"De vingerafdruk van het certificaat van de server %s is gewijzigd.\n"
+"Dit is een beveiligingsrisico; raadpleeg de serverbeheerder."
+
+msgid "activesync_ia_code_change"
+msgstr "De vergrendelingscode moet worden gewijzigd."
+
+msgid "activesync_ia_code_enable"
+msgstr "Automatische apparaatvergrendeling moet zijn ingeschakeld."
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+"De time-out voor de automatische apparaatvergrendeling moet minder dan %d "
+"minuten zijn."
+
+msgid "activesync_ia_enter_password"
+msgstr "Voer een wachtwoord in voor het %s-certificaat"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Het certificaat voor de server %s is ongeldig. Negeer deze waarschuwing als "
+"de server wordt vertrouwd."
+
+msgid "activesync_ia_lock_settings"
+msgstr ""
+"Voor de Exchange-server zijn wijzigingen in de vergrendelingsinstellingen "
+"van het apparaat vereist."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Met de installatiewizard voor Mail for Exchange kunt u een Mail for Exchange-"
+"account definiëren voor het synchroniseren van e-mail, kalender, taken en "
+"contactpersonen tussen uw apparaat en een Exchange-server.\n"
+"\n"
+"Tik op 'Volgende' om door te gaan."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Kan verzenden niet annuleren."
+
+msgid "activesync_in_error_server_type"
+msgstr "De geconfigureerde server is geen Exchange-server"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Het apparaat voldoet niet aan de wijziging in het beveiligingsbeleid. Neem "
+"contact op met uw beheerder."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Let op: het wordt niet aangeraden om PC Suite-synchronisatie tegelijk met "
+"Mail for Exchange te gebruiken."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange-wizard al actief"
+
+msgid "activesync_li_calendar"
+msgstr "Kalender"
+
+msgid "activesync_li_first_sync"
+msgstr "Eerste synchronisatie"
+
+msgid "activesync_li_messages_back"
+msgstr "Berichten synchroniseren tot"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Schema (geen piekschema)"
+
+msgid "activesync_li_peak_days"
+msgstr "Piekdagen"
+
+msgid "activesync_li_peak_end"
+msgstr "Eindtijd (piek)"
+
+msgid "activesync_li_peak_start"
+msgstr "Starttijd (piek)"
+
+msgid "activesync_li_peak_sync"
+msgstr "Piekschema"
+
+msgid "activesync_li_send_policy"
+msgstr "Tijdens het verzenden van e-mails"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"Gewijzigd certificaat accepteren? Raadpleeg de serverbeheerder voordat u het "
+"certificaat accepteert."
+
+msgid "activesync_nc_delete"
+msgstr "Mail for Exchange-account verwijderen?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Eerste synchronisatie annuleren?\n"
+"De accountinstellingen gaan verloren."
+
+msgid "activesync_nc_full_sync"
+msgstr "Weet u zeker dat u de synchronisatie wilt stoppen?"
+
+msgid "activesync_ti_accepting"
+msgstr "Uitnodiging accepteren"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Kalender en taken"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Certificaat gewijzigd"
+
+msgid "activesync_ti_connection"
+msgstr "Verbinding"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Referenties"
+
+msgid "activesync_ti_declining"
+msgstr "Uitnodiging weigeren"
+
+msgid "activesync_ti_details"
+msgstr "Laatste synchronisatie: Details"
+
+msgid "activesync_ti_device_lock"
+msgstr "Vergrendelingsinstellingen apparaat wijzigen"
+
+msgid "activesync_ti_email"
+msgstr "E-mail"
+
+msgid "activesync_ti_first_sync"
+msgstr "Eerste synchronisatie"
+
+msgid "activesync_ti_full_sync"
+msgstr "Volledige synchronisatie"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Ongeldig certificaat"
+
+msgid "activesync_ti_password"
+msgstr "Met wachtwoord beveiligd"
+
+msgid "activesync_ti_resync"
+msgstr "Opnieuw synchroniseren"
+
+msgid "activesync_ti_settings"
+msgstr "Instellingen voor Mail for Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Kalender en taken"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Contactpersonen"
+
+msgid "activesync_ti_sync_email"
+msgstr "E-mail"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Synchronisatieschema"
+
+msgid "activesync_ti_tentatively"
+msgstr "Uitnodiging voorlopig accepteren"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Synchronisatie-inhoud"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Referenties"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Synchronisatie starten"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Serverinstellingen"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Welkom"
+
+msgid "activesync_va_added"
+msgstr "Toegevoegd"
+
+msgid "activesync_va_all_entries"
+msgstr "Alle items"
+
+msgid "activesync_va_all_messages"
+msgstr "Alle berichten"
+
+msgid "activesync_va_always_on"
+msgstr "Altijd aan"
+
+msgid "activesync_va_calendar"
+msgstr "Kalender"
+
+msgid "activesync_va_calendar_back"
+msgstr "Kalender synchroniseren tot"
+
+msgid "activesync_va_changed_policy"
+msgstr "Beveiligingsbeleid gewijzigd"
+
+msgid "activesync_va_connected"
+msgstr "Verbonden"
+
+msgid "activesync_va_contacts"
+msgstr "Contacten"
+
+msgid "activesync_va_create_new"
+msgstr "Nieuwe maken"
+
+msgid "activesync_va_delete_items"
+msgstr "Items op apparaat verwijderen"
+
+msgid "activesync_va_deleted"
+msgstr "Verwijderd"
+
+msgid "activesync_va_device_wins"
+msgstr "Apparaat gaat voor"
+
+msgid "activesync_va_disconnected"
+msgstr "Verbinding verbroken"
+
+msgid "activesync_va_email"
+msgstr "E-mail"
+
+msgid "activesync_va_error_account_full"
+msgstr "Gebruikersaccount van de Exchange-server is vol."
+
+msgid "activesync_va_error_address"
+msgstr "Ongeldig hostadres voor Exchange-server."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Ongeldig servercertificaat. Controleer de datum- en tijdinstellingen van het "
+"apparaat of neem contact op met de serverbeheerder."
+
+msgid "activesync_va_error_communication"
+msgstr "Communicatiefout met Exchange-server."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange-account uitgeschakeld. Toegang geweigerd."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Gebruikeropslag vol"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr ""
+"Ongeldige gebruikersnaam, ongeldig wachtwoord of ongeldig domein voor "
+"Exchange-account."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"Er wordt onderhoud gepleegd aan de Exchange-server. Synchronisatieservice is "
+"niet beschikbaar."
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+"Exchange-server reageert niet. Controleer of de accountinstellingen juist "
+"zijn."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"Interne fout. Verwijder het Exchange-account van het apparaat, start het "
+"apparaat opnieuw op en stel het opnieuw in."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"Fout. Exchange-server vereist een beveiligde verbinding of de account is "
+"uitgeschakeld."
+
+msgid "activesync_va_error_server"
+msgstr "Fout in Exchange-server"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Verplicht beleid voor Exchange-server mislukt. Toegang geweigerd."
+
+msgid "activesync_va_error_sync"
+msgstr "Kan niet synchroniseren met Exchange-server."
+
+msgid "activesync_va_error_system"
+msgstr "Systeemfout bij Exchange-server."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange-server niet beschikbaar"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Niet-ondersteunde softwareversie in Exchange-server."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Elke 12 uur"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Elke 15 minuten"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Elke 30 minuten"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Elke 4 uur"
+
+msgid "activesync_va_every_day"
+msgstr "Elke dag"
+
+msgid "activesync_va_every_hour"
+msgstr "Elk uur"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Synchronisatie initialiseren"
+
+msgid "activesync_va_idle"
+msgstr "Niet-actief"
+
+msgid "activesync_va_keep_items"
+msgstr "Items op apparaat bewaren"
+
+msgid "activesync_va_last_sync"
+msgstr "Laatste synchronisatie"
+
+msgid "activesync_va_manual"
+msgstr "Handmatig"
+
+msgid "activesync_va_never"
+msgstr "Nooit"
+
+msgid "activesync_va_one_day"
+msgstr "1 dag"
+
+msgid "activesync_va_one_month"
+msgstr "1 maand"
+
+msgid "activesync_va_one_week"
+msgstr "1 week"
+
+msgid "activesync_va_online"
+msgstr "Online"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Verzenden bij volgende synchronisatie"
+
+msgid "activesync_va_send_immediately"
+msgstr "Meteen verzenden"
+
+msgid "activesync_va_server_wins"
+msgstr "Server gaat voor"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 maanden"
+
+msgid "activesync_va_status"
+msgstr "Status"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Laatste synchronisatie mislukt"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Synchronisatie: %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Synchroniseren"
+
+msgid "activesync_va_sync_failed"
+msgstr "Synchronisatie mislukt"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Gestopt"
+
+msgid "activesync_va_three_days"
+msgstr "3 dagen"
+
+msgid "activesync_va_three_months"
+msgstr "3 maanden"
+
+msgid "activesync_va_today"
+msgstr "Vandaag"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 weken"
+
+msgid "activesync_va_updated"
+msgstr "Bijgewerkt"

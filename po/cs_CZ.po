@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Přijmout bezpečnostní riziko"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Pokročilé nastavení"
+
+msgid "activesync_bd_continue"
+msgstr "Pokračovat"
+
+msgid "activesync_bd_details"
+msgstr "Podrobnosti"
+
+msgid "activesync_bd_dont_send"
+msgstr "Neodesílat"
+
+msgid "activesync_bd_edit"
+msgstr "Upravit odpověď"
+
+msgid "activesync_bd_ignore"
+msgstr "Ignorovat"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Synchronizovat ručně"
+
+msgid "activesync_bd_resync"
+msgstr "Úplné obnovení synchronizace"
+
+msgid "activesync_bd_security_policy"
+msgstr "Shoda se zásadami bezpečnosti"
+
+msgid "activesync_bd_send"
+msgstr "Odeslat"
+
+msgid "activesync_bd_settings"
+msgstr "Nastavení"
+
+msgid "activesync_bd_signature"
+msgstr "Podpis"
+
+msgid "activesync_bd_stop"
+msgstr "Ukončit synchronizaci"
+
+msgid "activesync_bv_accept"
+msgstr "Přijmout"
+
+msgid "activesync_bv_decline"
+msgstr "Odmítnout"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Příjato:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Odmítnuto:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Předběžné:"
+
+msgid "activesync_bv_remove"
+msgstr "Odstranit z kalendáře"
+
+msgid "activesync_bv_tentative"
+msgstr "Předběžné"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Přijato na"
+
+msgid "activesync_fi_account_title"
+msgstr "Název účtu"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Rozhodnutí konfliktu"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Kopírovat odchozí e-maily"
+
+msgid "activesync_fi_declined_on"
+msgstr "Odmítnuto na"
+
+msgid "activesync_fi_domain"
+msgstr "Doména"
+
+msgid "activesync_fi_email_address"
+msgstr "E-mailová adresa"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Otisk"
+
+msgid "activesync_fi_invitation"
+msgstr "Pozvání"
+
+msgid "activesync_fi_password"
+msgstr "Heslo"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Bezpečné připojení"
+
+msgid "activesync_fi_serial_no"
+msgstr "Sériové číslo"
+
+msgid "activesync_fi_server"
+msgstr "Server"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Předmět"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Synchronizovat kalendář a úkoly"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Synchronizace dokončených úkolů"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Synchronizovat kontakty"
+
+msgid "activesync_fi_sync_email"
+msgstr "Synchronizovat e-mail"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Předběžně přijato na"
+
+msgid "activesync_fi_username"
+msgstr "Uživatelské jméno"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Klepnutím na tlačítko „Další“ zahájíte první synchronizaci nebo nový účet "
+"zrušíte klepnutím mimo průvodce.\n"
+"\n"
+"Klepnutím na možnost „Pokročilé nastavení“ lze upravit pokročilé nastavení "
+"účtu."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"Otisk identifikace serveru %s byl pozměněn.\n"
+"To představuje bezpečnostní riziko. Poraďte se se správcem serveru."
+
+msgid "activesync_ia_code_change"
+msgstr "Kód zámku musí být změněn."
+
+msgid "activesync_ia_code_enable"
+msgstr "Automatický zámek zařízení musí být zapnut."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Doba automatického zámku zařízení musí být méně než %d minut."
+
+msgid "activesync_ia_enter_password"
+msgstr "Vložte heslo pro certifikát %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Certifikát pro server %s je neplatný. Pokud je server důvěryhodný, toto "
+"hlášení ignorujte."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Server Exchange vyžaduje změny nastavení zámku zařízení."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Průvodce vám umožní nastavit účet aplikace Mail for Exchange pro "
+"synchronizaci E-mailu, Kalendáře, Úkolů a Kontaktů mezi vaším přístrojem a "
+"serverem Exchange.\n"
+"\n"
+"Pokračujte klepnutím na tlačítko „Další“."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Odesílání nelze zrušit"
+
+msgid "activesync_in_error_server_type"
+msgstr "Konfigurovaný server není server Exchange"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "Zařízení neodpovídá změně zásad bezpečnosti. Poraďte se se správcem."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Upozorňujeme, že se nedoporučuje používat aplikaci Mail for Exchange v "
+"průběhu synchronizace pomocí PC Suite."
+
+msgid "activesync_in_wizard_open"
+msgstr "Průvodce aplikací Mail for Exchange je již otevřen"
+
+msgid "activesync_li_calendar"
+msgstr "Kalendář"
+
+msgid "activesync_li_first_sync"
+msgstr "První synchronizace"
+
+msgid "activesync_li_messages_back"
+msgstr "Zpětná synchronizace zpráv"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Synchronizace mimo špičku"
+
+msgid "activesync_li_peak_days"
+msgstr "Dny ve špičce"
+
+msgid "activesync_li_peak_end"
+msgstr "Konec špičky"
+
+msgid "activesync_li_peak_start"
+msgstr "Začátek špičky"
+
+msgid "activesync_li_peak_sync"
+msgstr "Synchronizace ve špičce"
+
+msgid "activesync_li_send_policy"
+msgstr "Odesílání e-mailu"
+
+msgid "activesync_nc_certificate"
+msgstr "Přijmout pozměněný certifikát? Nejprve se poraďte se správcem serveru."
+
+msgid "activesync_nc_delete"
+msgstr "Odstranit účet aplikace Mail for Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Zrušit počáteční synchronizaci?\n"
+"Nastavení účtu bude ztraceno."
+
+msgid "activesync_nc_full_sync"
+msgstr "Opravdu chcete synchronizaci ukončit?"
+
+msgid "activesync_ti_accepting"
+msgstr "Přijmout pozvání"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Kalendář a úkoly"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Pozměněný certifikát"
+
+msgid "activesync_ti_connection"
+msgstr "Připojení"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Osobní údaje"
+
+msgid "activesync_ti_declining"
+msgstr "Odmítnout pozvání"
+
+msgid "activesync_ti_details"
+msgstr "Poslední synchronizace: Podrobnosti"
+
+msgid "activesync_ti_device_lock"
+msgstr "Změna nastavení zámku přístroje"
+
+msgid "activesync_ti_email"
+msgstr "E-mail"
+
+msgid "activesync_ti_first_sync"
+msgstr "První synchronizace"
+
+msgid "activesync_ti_full_sync"
+msgstr "Úplná synchronizace"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Neplatný certifikát"
+
+msgid "activesync_ti_password"
+msgstr "Ochrana heslem"
+
+msgid "activesync_ti_resync"
+msgstr "Obnovení synchronizace"
+
+msgid "activesync_ti_settings"
+msgstr "Nastavení aplikace Mail for Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Kalendář a úkoly"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Kontakty"
+
+msgid "activesync_ti_sync_email"
+msgstr "E-mail"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Rozvrh synchronizace"
+
+msgid "activesync_ti_tentatively"
+msgstr "Předběžně přijmout pozvání"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Obsah synchronizace"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Osobní údaje"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Zahájení synchronizace"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Nastavení serveru"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Vítejte"
+
+msgid "activesync_va_added"
+msgstr "Přidáno"
+
+msgid "activesync_va_all_entries"
+msgstr "Všechny položky"
+
+msgid "activesync_va_all_messages"
+msgstr "Všechny zprávy"
+
+msgid "activesync_va_always_on"
+msgstr "Vždy zapnuto"
+
+msgid "activesync_va_calendar"
+msgstr "Kalendář"
+
+msgid "activesync_va_calendar_back"
+msgstr "Zpětná synchronizace položek kalendáře"
+
+msgid "activesync_va_changed_policy"
+msgstr "Změna v zásadách bezpečnosti"
+
+msgid "activesync_va_connected"
+msgstr "Připojeno"
+
+msgid "activesync_va_contacts"
+msgstr "Kontakty"
+
+msgid "activesync_va_create_new"
+msgstr "Vytvořit nový"
+
+msgid "activesync_va_delete_items"
+msgstr "Odstranit položky z přístroje"
+
+msgid "activesync_va_deleted"
+msgstr "Odstraněno"
+
+msgid "activesync_va_device_wins"
+msgstr "Přístroj má prioritu"
+
+msgid "activesync_va_disconnected"
+msgstr "Odpojeno"
+
+msgid "activesync_va_email"
+msgstr "E-mail"
+
+msgid "activesync_va_error_account_full"
+msgstr "Uživatelský účet serveru Exchange je plný."
+
+msgid "activesync_va_error_address"
+msgstr "Neplatná adresa hostitele pro server Exchange."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Certifikát serveru je neplatný. Zkontrolujte čas v zařízení a nastavení data "
+"nebo kontaktujte správce serveru."
+
+msgid "activesync_va_error_communication"
+msgstr "Chyba komunikace se serverem Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "Účet serveru Exchange je vypnutý. Přístup odmítnut."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Paměť je plná"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Neplatné uživatelské jméno, heslo nebo doména pro účet Exchange."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"Na serveru Exchange probíhá údržba. Služba synchronizace není k dispozici."
+
+msgid "activesync_va_error_no_response"
+msgstr "Server Exchange neodpovídá. Ověřte, zda je účet správně nastaven."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"Vnitřní chyba. Odstraňte z přístroje účet serveru Exchange, proveďte restart "
+"přístroje a nastavte jej znovu."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"Chyba. Buď server Exchange vyžaduje zabezpečené připojení, nebo je váš účet "
+"vypnutý."
+
+msgid "activesync_va_error_server"
+msgstr "Chyba na serveru Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Selhání povinných zásad serveru Exchange. Přístup odmítnut."
+
+msgid "activesync_va_error_sync"
+msgstr "Nelze synchronizovat se serverem Exchange."
+
+msgid "activesync_va_error_system"
+msgstr "Systémová chyba na serveru Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Server Exchange není dostupný"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Nepodporovaná verze softwaru na serveru Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Každých 12 hodin"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Každých 15 minut"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Každých 30 minut"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Každé 4 hodiny"
+
+msgid "activesync_va_every_day"
+msgstr "Každý den"
+
+msgid "activesync_va_every_hour"
+msgstr "Každou hodinu"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Inicializace synchronizace"
+
+msgid "activesync_va_idle"
+msgstr "Nečinný"
+
+msgid "activesync_va_keep_items"
+msgstr "Uchovat položky v přístroji"
+
+msgid "activesync_va_last_sync"
+msgstr "Poslední synchronizace"
+
+msgid "activesync_va_manual"
+msgstr "Ruční"
+
+msgid "activesync_va_never"
+msgstr "Nikdy"
+
+msgid "activesync_va_one_day"
+msgstr "starých 1 den"
+
+msgid "activesync_va_one_month"
+msgstr "starých 1 měsíc"
+
+msgid "activesync_va_one_week"
+msgstr "starých 1 týden"
+
+msgid "activesync_va_online"
+msgstr "On-line"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Při příští synchronizaci"
+
+msgid "activesync_va_send_immediately"
+msgstr "Ihned"
+
+msgid "activesync_va_server_wins"
+msgstr "Server má prioritu"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "starých 6 měsíců"
+
+msgid "activesync_va_status"
+msgstr "Stav synchronizace"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Poslední synchronizace selhala"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Synchronizace: %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Synchronizace"
+
+msgid "activesync_va_sync_failed"
+msgstr "Poslední synchronizace selhala"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Zastavena"
+
+msgid "activesync_va_three_days"
+msgstr "starých 3 dny"
+
+msgid "activesync_va_three_months"
+msgstr "starých 3 měsíce"
+
+msgid "activesync_va_today"
+msgstr "Dnes"
+
+msgid "activesync_va_two_weeks"
+msgstr "starých 2 týdny"
+
+msgid "activesync_va_updated"
+msgstr "Aktualizováno"

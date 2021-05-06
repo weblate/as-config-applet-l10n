@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Godta sikkerhetsrisiko"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Avanserte innstillinger"
+
+msgid "activesync_bd_continue"
+msgstr "Fortsett"
+
+msgid "activesync_bd_details"
+msgstr "Detaljer"
+
+msgid "activesync_bd_dont_send"
+msgstr "Ikke send"
+
+msgid "activesync_bd_edit"
+msgstr "Rediger svaret"
+
+msgid "activesync_bd_ignore"
+msgstr "Ignorer"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Synkroniser manuelt"
+
+msgid "activesync_bd_resync"
+msgstr "Full resynkronisering"
+
+msgid "activesync_bd_security_policy"
+msgstr "Overhold sikkerhetspolicy"
+
+msgid "activesync_bd_send"
+msgstr "Send"
+
+msgid "activesync_bd_settings"
+msgstr "Innstillinger"
+
+msgid "activesync_bd_signature"
+msgstr "Signatur"
+
+msgid "activesync_bd_stop"
+msgstr "Stopp synkronisering"
+
+msgid "activesync_bv_accept"
+msgstr "Godta"
+
+msgid "activesync_bv_decline"
+msgstr "Avslå"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Godtatt:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Avslått:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Foreløpig:"
+
+msgid "activesync_bv_remove"
+msgstr "Fjern fra kalenderen"
+
+msgid "activesync_bv_tentative"
+msgstr "Foreløpig"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Godtatt"
+
+msgid "activesync_fi_account_title"
+msgstr "Kontotittel"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Konfliktløsning"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Kopier utgående e-postmeldinger"
+
+msgid "activesync_fi_declined_on"
+msgstr "Avslått"
+
+msgid "activesync_fi_domain"
+msgstr "Domene"
+
+msgid "activesync_fi_email_address"
+msgstr "E-postadresse"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Fingeravtrykk"
+
+msgid "activesync_fi_invitation"
+msgstr "Invitasjon"
+
+msgid "activesync_fi_password"
+msgstr "Passord"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Sikker tilkobling"
+
+msgid "activesync_fi_serial_no"
+msgstr "Serienummer"
+
+msgid "activesync_fi_server"
+msgstr "Server"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Emne"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Synkroniser kalender og oppgaver"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Synkroniser fullførte oppgaver"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Synkroniser kontakter"
+
+msgid "activesync_fi_sync_email"
+msgstr "Synkroniser e-post"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Foreløpig godtatt"
+
+msgid "activesync_fi_username"
+msgstr "Brukernavn"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Trykk Neste for å starte den første synkroniseringen, eller forkast den nye "
+"kontoen ved å trykke utenfor veiviseren.\n"
+"\n"
+"Trykk Avanserte innstillinger for å endre de avanserte kontoinnstillingene."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"Fingeravtrykket for sertifikatet til serveren %s er endret.\n"
+"Dette utgjør en sikkerhetsrisiko, kontakt serveradministratoren"
+
+msgid "activesync_ia_code_change"
+msgstr "Låsekoden må endres."
+
+msgid "activesync_ia_code_enable"
+msgstr "Automatisk enhetslås må være aktivert."
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+"Tidsavbrudd for automatisk enhetslås kan ikke vare i mer enn %d minutter."
+
+msgid "activesync_ia_enter_password"
+msgstr "Skriv inn passord for sertifikat %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Sertifikatet til serveren %s er ugyldig. Ignorer denne advarselen hvis "
+"serveren er klarert."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Exchange-server krever at innstillingene for enhetslås endres."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Med veiviseren for oppsett av Mail for Exchange kan du opprette en Mail for "
+"Exchange-konto og synkronisere e-post, kalender, oppgaver og kontakter "
+"mellom enheten og en Exchange-server.\n"
+"\n"
+"Trykk Neste for å fortsette."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Kan ikke avbryte sending"
+
+msgid "activesync_in_error_server_type"
+msgstr "Konfigurert server er ikke en Exchange-server"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Enheten er ikke i samsvar med sikkerhetspolicyendringen. Kontakt "
+"administratoren."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Vær oppmerksom på at det ikke anbefales å bruke PC Suite-synkronisering "
+"samtidig med Mail for Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Veiviseren for Mail for Exchange er allerede åpen"
+
+msgid "activesync_li_calendar"
+msgstr "Kalender"
+
+msgid "activesync_li_first_sync"
+msgstr "Første synkronisering"
+
+msgid "activesync_li_messages_back"
+msgstr "Synkroniser meldinger tilbake"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Lavtrafikkplan"
+
+msgid "activesync_li_peak_days"
+msgstr "Høytrafikkdager"
+
+msgid "activesync_li_peak_end"
+msgstr "Sluttidspunkt for høytrafikkperiode"
+
+msgid "activesync_li_peak_start"
+msgstr "Starttidspunkt for høytrafikkperiode"
+
+msgid "activesync_li_peak_sync"
+msgstr "Høytrafikkplan"
+
+msgid "activesync_li_send_policy"
+msgstr "Når e-post sendes"
+
+msgid "activesync_nc_certificate"
+msgstr "Godta endret sertifikat? Kontakt serveradministratoren før du godtar."
+
+msgid "activesync_nc_delete"
+msgstr "Slette Mail for Exchange-kontoen?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Avbryte første synkronisering?\n"
+"Kontooppsettet vil gå tapt."
+
+msgid "activesync_nc_full_sync"
+msgstr "Er du sikker på at du vil stoppe synkroniseringen?"
+
+msgid "activesync_ti_accepting"
+msgstr "Godta invitasjonen"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Kalender og oppgaver"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Sertifikatet er endret"
+
+msgid "activesync_ti_connection"
+msgstr "Tilkobling"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Påloggingsinformasjon"
+
+msgid "activesync_ti_declining"
+msgstr "Avslå invitasjonen"
+
+msgid "activesync_ti_details"
+msgstr "Siste synkronisering: Detaljer"
+
+msgid "activesync_ti_device_lock"
+msgstr "Endre innstillinger for enhetslås"
+
+msgid "activesync_ti_email"
+msgstr "E-post"
+
+msgid "activesync_ti_first_sync"
+msgstr "Første synkronisering"
+
+msgid "activesync_ti_full_sync"
+msgstr "Full synkronisering"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Ugyldig sertifikat"
+
+msgid "activesync_ti_password"
+msgstr "Passordbeskyttet"
+
+msgid "activesync_ti_resync"
+msgstr "Resynkronisering"
+
+msgid "activesync_ti_settings"
+msgstr "Innstillinger for Mail for Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Kalender og oppgaver"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Kontakter"
+
+msgid "activesync_ti_sync_email"
+msgstr "E-post"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Synkroniseringsplan"
+
+msgid "activesync_ti_tentatively"
+msgstr "Godta invitasjonen foreløpig"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Synkroniseringsinnhold"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Påloggingsinformasjon"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Start synkronisering"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Serverinnstillinger"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Velkommen"
+
+msgid "activesync_va_added"
+msgstr "Lagt til"
+
+msgid "activesync_va_all_entries"
+msgstr "Alle oppføringer"
+
+msgid "activesync_va_all_messages"
+msgstr "Alle meldinger"
+
+msgid "activesync_va_always_on"
+msgstr "Alltid på"
+
+msgid "activesync_va_calendar"
+msgstr "Kalender"
+
+msgid "activesync_va_calendar_back"
+msgstr "Synkroniser kalender tilbake"
+
+msgid "activesync_va_changed_policy"
+msgstr "Sikkerhetspolicyen er endret"
+
+msgid "activesync_va_connected"
+msgstr "Tilkoblet"
+
+msgid "activesync_va_contacts"
+msgstr "Kontakter"
+
+msgid "activesync_va_create_new"
+msgstr "Opprett ny"
+
+msgid "activesync_va_delete_items"
+msgstr "Slett elementene på enheten"
+
+msgid "activesync_va_deleted"
+msgstr "Slettet"
+
+msgid "activesync_va_device_wins"
+msgstr "Enheten prioriteres"
+
+msgid "activesync_va_disconnected"
+msgstr "Frakoblet"
+
+msgid "activesync_va_email"
+msgstr "E-post"
+
+msgid "activesync_va_error_account_full"
+msgstr "Brukerkontoen på Exchange-serveren er full."
+
+msgid "activesync_va_error_address"
+msgstr "Ugyldig vertsadresse for Exchange-serveren."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Serversertifikatet er ugyldig. Kontroller innstillingene for klokkeslett og "
+"dato på enheten, eller kontakt serveradministratoren."
+
+msgid "activesync_va_error_communication"
+msgstr "Feil ved kommunikasjonen med Exchange-serveren."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange-kontoen er deaktivert. Ingen tilgang."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Brukerlager fullt"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Ugyldig brukernavn, passord eller domene for Exchange-kontoen."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"Det utføres vedlikehold på Exchange-serveren. Synkroniseringstjenesten er "
+"ikke tilgjengelig."
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+"Exchange-serveren svarer ikke. Kontroller at du har riktige "
+"kontoinnstillinger."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"Intern feil. Fjern Exchange-kontoen fra enheten, start enheten på nytt og "
+"konfigurer én gang til."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"Feil. Exchange-serveren krever en sikker tilkobling, eller kontoen er "
+"deaktivert."
+
+msgid "activesync_va_error_server"
+msgstr "Feil på Exchange-serveren"
+
+msgid "activesync_va_error_server_policy"
+msgstr ""
+"En obligatorisk regel for Exchange-servertilgang mislyktes. Ingen tilgang."
+
+msgid "activesync_va_error_sync"
+msgstr "Kan ikke synkronisere med Exchange-serveren."
+
+msgid "activesync_va_error_system"
+msgstr "Systemfeil på Exchange-serveren."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange-serveren er ikke tilgjengelig"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Programvareversjonen til Exchange-serveren støttes ikke."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Hver 12. time"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Hvert 15. minutt"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Hvert 30. minutt"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Hver 4. time"
+
+msgid "activesync_va_every_day"
+msgstr "Hver dag"
+
+msgid "activesync_va_every_hour"
+msgstr "Hver time"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Initialiserer synkronisering"
+
+msgid "activesync_va_idle"
+msgstr "Inaktiv"
+
+msgid "activesync_va_keep_items"
+msgstr "Behold elementene på enheten"
+
+msgid "activesync_va_last_sync"
+msgstr "Siste synkronisering"
+
+msgid "activesync_va_manual"
+msgstr "Manuelt"
+
+msgid "activesync_va_never"
+msgstr "Aldri"
+
+msgid "activesync_va_one_day"
+msgstr "1 dag"
+
+msgid "activesync_va_one_month"
+msgstr "1 måned"
+
+msgid "activesync_va_one_week"
+msgstr "1 uke"
+
+msgid "activesync_va_online"
+msgstr "Tilkoblet"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Send ved neste synkronisering"
+
+msgid "activesync_va_send_immediately"
+msgstr "Send omgående"
+
+msgid "activesync_va_server_wins"
+msgstr "Serveren prioriteres"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 måneder"
+
+msgid "activesync_va_status"
+msgstr "Status"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Siste synkronisering mislyktes"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Siste synkronisering %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Synkronisering"
+
+msgid "activesync_va_sync_failed"
+msgstr "Synkronisering mislyktes"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Stoppet"
+
+msgid "activesync_va_three_days"
+msgstr "3 dager"
+
+msgid "activesync_va_three_months"
+msgstr "3 måneder"
+
+msgid "activesync_va_today"
+msgstr "I dag"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 uker"
+
+msgid "activesync_va_updated"
+msgstr "Oppdatert"

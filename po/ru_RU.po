@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Принять риск безопасности"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Расширенные настройки"
+
+msgid "activesync_bd_continue"
+msgstr "Продолжить"
+
+msgid "activesync_bd_details"
+msgstr "Подробнее"
+
+msgid "activesync_bd_dont_send"
+msgstr "Не отправлять"
+
+msgid "activesync_bd_edit"
+msgstr "Изменить ответ"
+
+msgid "activesync_bd_ignore"
+msgstr "Пропустить"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Синхронизировать вручную"
+
+msgid "activesync_bd_resync"
+msgstr "Провести полную синхронизацию"
+
+msgid "activesync_bd_security_policy"
+msgstr "Согласие с политикой безопасности"
+
+msgid "activesync_bd_send"
+msgstr "Отправить"
+
+msgid "activesync_bd_settings"
+msgstr "Параметры"
+
+msgid "activesync_bd_signature"
+msgstr "Подпись"
+
+msgid "activesync_bd_stop"
+msgstr "Остановить синхронизацию"
+
+msgid "activesync_bv_accept"
+msgstr "Принять"
+
+msgid "activesync_bv_decline"
+msgstr "Отклонить"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Принято:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Отклонено:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Под вопросом:"
+
+msgid "activesync_bv_remove"
+msgstr "Убрать из календаря"
+
+msgid "activesync_bv_tentative"
+msgstr "Под вопросом"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Принято"
+
+msgid "activesync_fi_account_title"
+msgstr "Заголовок уч. записи"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Разрешение конфликтов"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Копировать исходящие сообщения эл. почты"
+
+msgid "activesync_fi_declined_on"
+msgstr "Отклонено"
+
+msgid "activesync_fi_domain"
+msgstr "Домен"
+
+msgid "activesync_fi_email_address"
+msgstr "Адрес эл. почты"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Идентиф. метка"
+
+msgid "activesync_fi_invitation"
+msgstr "Приглашение"
+
+msgid "activesync_fi_password"
+msgstr "Пароль"
+
+msgid "activesync_fi_port"
+msgstr "Порт"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Безопасное соединение"
+
+msgid "activesync_fi_serial_no"
+msgstr "Серийный номер"
+
+msgid "activesync_fi_server"
+msgstr "Сервер"
+
+msgid "activesync_fi_status_menu"
+msgstr "Синхр-ция с Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Тема"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Синхронизировать календарь и задачи"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Синхронизировать выполненные задачи"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Синхронизировать контакты"
+
+msgid "activesync_fi_sync_email"
+msgstr "Синхронизировать электронную почту"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Условно принято"
+
+msgid "activesync_fi_username"
+msgstr "Имя пользователя"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Для запуска синхронизации коснитесь Далее или отмените новую учетную запись, "
+"коснувшись экрана вне окна Мастера.\n"
+"\n"
+"Для изменения дополнительных настроек учетной записи нажмите Расширенные "
+"настройки."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"Идентификационная метка сертификата сервера %s изменена.\n"
+"Это является угрозой безопасности, узнайте подробнее у администратора сервера"
+
+msgid "activesync_ia_code_change"
+msgstr "Код блокировки должен быть изменен."
+
+msgid "activesync_ia_code_enable"
+msgstr "Автоматическая блокировка должна быть включена."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Время автоматической задержки блокировки должно быть менее %d минут."
+
+msgid "activesync_ia_enter_password"
+msgstr "Введите пароль для сертификата %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Сертификат для сервера %s недействителен. Если этот сервер надежный, "
+"предупреждение можно пропустить."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Для сервера Exchange требуются изменения в параметрах блокировки."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Мастер настройки синхронизации с Exchange позволяет создавать для "
+"синхронизации с Exchange новые учетные записи электронной почты, календаря, "
+"задач и контактов вашего устройства с сервером Exchange.\n"
+"\n"
+"Для продолжения нажмите Далее."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Не удается отменить отправку"
+
+msgid "activesync_in_error_server_type"
+msgstr "Настроенный сервер не является сервером Exchange"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Устройство не соответствует изменениям политике безопасности. Обратитесь к "
+"администратору."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Обратите внимание, что не рекомендуется сихронизировать одни и те же данные "
+"через Exchange и PC Suite."
+
+msgid "activesync_in_wizard_open"
+msgstr "Мастер настройки синхронизации с Exchange уже открыт"
+
+msgid "activesync_li_calendar"
+msgstr "Календарь"
+
+msgid "activesync_li_first_sync"
+msgstr "Первая синхронизация"
+
+msgid "activesync_li_messages_back"
+msgstr "Синхронизировать сообщения"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Расписание внепиковых периодов"
+
+msgid "activesync_li_peak_days"
+msgstr "Дни пиковой нагрузки"
+
+msgid "activesync_li_peak_end"
+msgstr "Время окончания пиковой нагрузки"
+
+msgid "activesync_li_peak_start"
+msgstr "Время начала пиковой нагрузки"
+
+msgid "activesync_li_peak_sync"
+msgstr "Расписание пиковых периодов"
+
+msgid "activesync_li_send_policy"
+msgstr "При отправке эл. сообщения"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"Принять измененный сертификат? Перед принятием обратитесь к администратору."
+
+msgid "activesync_nc_delete"
+msgstr "Удалить учетную запись синхронизации с Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Отменить первоначальную синхронизацию?\n"
+"Настройки учетной записи не будут сохранены."
+
+msgid "activesync_nc_full_sync"
+msgstr "Остановить синхронизацию?"
+
+msgid "activesync_ti_accepting"
+msgstr "Принять приглашение"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Календарь и задачи"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Измененный сертификат"
+
+msgid "activesync_ti_connection"
+msgstr "Соединение"
+
+msgid "activesync_ti_cpa"
+msgstr "Синхронизация с Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Параметры учетной записи"
+
+msgid "activesync_ti_declining"
+msgstr "Отклонить приглашение"
+
+msgid "activesync_ti_details"
+msgstr "Последняя синхронизация: подробнее"
+
+msgid "activesync_ti_device_lock"
+msgstr "Изменить параметры блокировки"
+
+msgid "activesync_ti_email"
+msgstr "Эл. почта"
+
+msgid "activesync_ti_first_sync"
+msgstr "Первая синхронизация"
+
+msgid "activesync_ti_full_sync"
+msgstr "Полная синхронизация"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Недействительный сертификат"
+
+msgid "activesync_ti_password"
+msgstr "Защита паролем"
+
+msgid "activesync_ti_resync"
+msgstr "Полная синхронизация"
+
+msgid "activesync_ti_settings"
+msgstr "Настройки синхронизации с Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Календарь и задачи"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Контакты"
+
+msgid "activesync_ti_sync_email"
+msgstr "Эл. почта"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Расписание синхронизации"
+
+msgid "activesync_ti_tentatively"
+msgstr "Условно принять приглашение"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Синхронизация содержимого"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Параметры учетной записи"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Начать синхронизацию"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Настройки сервера"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Приветствие"
+
+msgid "activesync_va_added"
+msgstr "Добавлено"
+
+msgid "activesync_va_all_entries"
+msgstr "Все данные"
+
+msgid "activesync_va_all_messages"
+msgstr "Все сообщения"
+
+msgid "activesync_va_always_on"
+msgstr "Всегда включен"
+
+msgid "activesync_va_calendar"
+msgstr "Календарь"
+
+msgid "activesync_va_calendar_back"
+msgstr "Синхронизировать календарь"
+
+msgid "activesync_va_changed_policy"
+msgstr "Изменения в политике безопасности"
+
+msgid "activesync_va_connected"
+msgstr "Подключен"
+
+msgid "activesync_va_contacts"
+msgstr "Контакты"
+
+msgid "activesync_va_create_new"
+msgstr "Создать новый"
+
+msgid "activesync_va_delete_items"
+msgstr "Удалить объекты с устройства"
+
+msgid "activesync_va_deleted"
+msgstr "Удалено"
+
+msgid "activesync_va_device_wins"
+msgstr "В пользу устройства"
+
+msgid "activesync_va_disconnected"
+msgstr "Отключен"
+
+msgid "activesync_va_email"
+msgstr "Эл. почта"
+
+msgid "activesync_va_error_account_full"
+msgstr "Учетная запись сервера Exchange занята."
+
+msgid "activesync_va_error_address"
+msgstr "Неверный адрес сервера Exchange"
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Сертификат сервера недействителен. Проверьте параметры времени и даты "
+"устройства или обратитесь к администратору сервера."
+
+msgid "activesync_va_error_communication"
+msgstr "Ошибка соединения с сервером Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "Отключена учетная запись сервера Exchange. В доступе отказано."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Хранилище пользователя заполнено"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr ""
+"Неверное имя пользователя, пароль или домен для учетной записи сервера "
+"Exchange."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"Выполняется техническое обслуживание сервера Exchange. Синхронизация "
+"недоступна."
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+"Сервер Exchange не отвечает. Убедитесь в правильности параметров учетной "
+"записи."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"Внутренняя ошибка. Удалите учетную запись Exchange на устройстве, "
+"перезапустите устройство и настройте снова."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"Ошибка. Либо серверу Exchange требуется безопасное соединение, либо "
+"отключена учетная запись."
+
+msgid "activesync_va_error_server"
+msgstr "Ошибка сервера Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Сбой обязательной политики сервера Exchange. В доступе отказано."
+
+msgid "activesync_va_error_sync"
+msgstr "Синхронизация с сервером Exchange невозможна."
+
+msgid "activesync_va_error_system"
+msgstr "Системная ошибка на сервере Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Сервер Exchange недоступен"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Версия программного обеспечения не поддерживается сервером Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Каждые 12 часов"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Каждые 15 минут"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Каждые 30 минут"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Каждые 4 часа"
+
+msgid "activesync_va_every_day"
+msgstr "Ежедневно"
+
+msgid "activesync_va_every_hour"
+msgstr "Каждый час"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Начало синхронизации"
+
+msgid "activesync_va_idle"
+msgstr "Состояние ожидания"
+
+msgid "activesync_va_keep_items"
+msgstr "Оставить объекты на устройстве"
+
+msgid "activesync_va_last_sync"
+msgstr "Последняя синхронизация"
+
+msgid "activesync_va_manual"
+msgstr "Вручную"
+
+msgid "activesync_va_never"
+msgstr "Никогда"
+
+msgid "activesync_va_one_day"
+msgstr "за последний день"
+
+msgid "activesync_va_one_month"
+msgstr "за последний месяц"
+
+msgid "activesync_va_one_week"
+msgstr "за последнюю неделю"
+
+msgid "activesync_va_online"
+msgstr "В сети"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Отправить при следующей синхронизации"
+
+msgid "activesync_va_send_immediately"
+msgstr "Отправить немедленно"
+
+msgid "activesync_va_server_wins"
+msgstr "В пользу сервера"
+
+msgid "activesync_va_service_provider"
+msgstr "Синхр-ция с Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "за последние 6 месяцев"
+
+msgid "activesync_va_status"
+msgstr "Состояние"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Сбой последней синхронизации"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Синхрониз-но - %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Синхронизация"
+
+msgid "activesync_va_sync_failed"
+msgstr "Синхронизация не выполнена"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Остановлено"
+
+msgid "activesync_va_three_days"
+msgstr "за последние 3 дня"
+
+msgid "activesync_va_three_months"
+msgstr "за последние 3 месяца"
+
+msgid "activesync_va_today"
+msgstr "Сегодня"
+
+msgid "activesync_va_two_weeks"
+msgstr "за последние 2 недели"
+
+msgid "activesync_va_updated"
+msgstr "Обновлено"

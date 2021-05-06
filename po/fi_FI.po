@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Hyväksy tietosuojariski"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Lisäasetukset"
+
+msgid "activesync_bd_continue"
+msgstr "Jatka"
+
+msgid "activesync_bd_details"
+msgstr "Tiedot"
+
+msgid "activesync_bd_dont_send"
+msgstr "Älä lähetä"
+
+msgid "activesync_bd_edit"
+msgstr "Muokkaa vastausta"
+
+msgid "activesync_bd_ignore"
+msgstr "Ohita"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Manuaalinen synkronointi"
+
+msgid "activesync_bd_resync"
+msgstr "Täydellinen uudelleensynkronointi"
+
+msgid "activesync_bd_security_policy"
+msgstr "Suojauskäytännön noudattaminen"
+
+msgid "activesync_bd_send"
+msgstr "Lähetä"
+
+msgid "activesync_bd_settings"
+msgstr "Asetukset"
+
+msgid "activesync_bd_signature"
+msgstr "Allekirjoitus"
+
+msgid "activesync_bd_stop"
+msgstr "Lopeta synkronointi"
+
+msgid "activesync_bv_accept"
+msgstr "Hyväksy"
+
+msgid "activesync_bv_decline"
+msgstr "Hylkää"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Hyväksytty:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Hylätty:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Alustava:"
+
+msgid "activesync_bv_remove"
+msgstr "Poista kalenterista"
+
+msgid "activesync_bv_tentative"
+msgstr "Alustava"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Hyväksytty"
+
+msgid "activesync_fi_account_title"
+msgstr "Tilin nimi"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Ristiriidan ratkaisu"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Kopioi lähtevät sähköpostit"
+
+msgid "activesync_fi_declined_on"
+msgstr "Hylätty"
+
+msgid "activesync_fi_domain"
+msgstr "Toimialue"
+
+msgid "activesync_fi_email_address"
+msgstr "S-postiosoite"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Sormenjälki"
+
+msgid "activesync_fi_invitation"
+msgstr "Kutsu"
+
+msgid "activesync_fi_password"
+msgstr "Salasana"
+
+msgid "activesync_fi_port"
+msgstr "Portti"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Suojattu yhteys"
+
+msgid "activesync_fi_serial_no"
+msgstr "Sarjanumero"
+
+msgid "activesync_fi_server"
+msgstr "Palvelin"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Aihe"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Synkronoi kalenteri ja tehtävät"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Synkronoi valmiit tehtävät"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Synkronoi yhteystiedot"
+
+msgid "activesync_fi_sync_email"
+msgstr "Synkronoi sähköposti"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Alustavasti hyväksytty"
+
+msgid "activesync_fi_username"
+msgstr "Käyttäjänimi"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Käynnistä ensimmäinen synkronointi valitsemalla Seuraava tai hylkää uusi "
+"tili napauttamalla näyttöä ohjatun toiminnon ulkopuolella.\n"
+"Muokkaa tilin lisäasetuksia valitsemalla Lisäasetukset."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"Palvelimen %s varmenteen sormenjälki on muuttunut.\n"
+"Tämä on tietosuojariski. Ota yhteys palvelimen järjestelmänvalvojaan."
+
+msgid "activesync_ia_code_change"
+msgstr "Lukituskoodi on vaihdettava."
+
+msgid "activesync_ia_code_enable"
+msgstr "Laitteen automaattisen lukituksen on oltava käytössä."
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+"Laitteen automaattisen lukituksen aikakatkaisun on oltava alle %d minuuttia."
+
+msgid "activesync_ia_enter_password"
+msgstr "Kirjoita varmenteen %s salasana"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Palvelimen %s varmenne ei kelpaa. Jos palvelin on luotettava, ohita tämä "
+"varoitus."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Exchange-palvelin edellyttää muutoksia laitteen lukitusasetuksiin."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Mail for Exchange -ohjatulla toiminnolla voit määrittää Mail for Exchange -"
+"tilin, jolla voit synkronoida sähköpostin, kalenterin, tehtävät ja "
+"yhteystiedot laitteesi ja Exchange-palvelimen välillä.\n"
+"\n"
+"Jatka valitsemalla seuraava."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Lähetystä ei voi peruuttaa"
+
+msgid "activesync_in_error_server_type"
+msgstr "Määritetty palvelin ei ole Exchange-palvelin"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Laite ei noudata tietosuojakäytännön muutosta. Ota yhteys "
+"järjestelmänvalvojaan."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Huomaa, että PC Suiten synkronointia ei suositella käytettäväksi "
+"samanaikaisesti Mail for Exchangen kanssa."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange -ohjattu toiminto on auki"
+
+msgid "activesync_li_calendar"
+msgstr "Kalenteri"
+
+msgid "activesync_li_first_sync"
+msgstr "Ensimmäinen synkronointi"
+
+msgid "activesync_li_messages_back"
+msgstr "Synkronoi viestit"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Vapaa-aika-asetuksen aikataulu"
+
+msgid "activesync_li_peak_days"
+msgstr "Työaika-asetuksen päivät"
+
+msgid "activesync_li_peak_end"
+msgstr "Työaika-asetuksen loppu"
+
+msgid "activesync_li_peak_start"
+msgstr "Työaika-asetuksen alku"
+
+msgid "activesync_li_peak_sync"
+msgstr "Työaika-asetuksen aikataulu"
+
+msgid "activesync_li_send_policy"
+msgstr "Sähköpostia lähetettäessä"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"Hyväksy muuttunut varmenne? Ota yhteys palvelimen järjestelmänvalvojaan "
+"ennen hyväksymistä."
+
+msgid "activesync_nc_delete"
+msgstr "Poistetaanko Mail for Exchange -tili?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Peruutetaanko ensimmäinen synkronointi?\n"
+"Tilin asetukset menetetään."
+
+msgid "activesync_nc_full_sync"
+msgstr "Haluatko varmasti keskeyttää synkronoinnin?"
+
+msgid "activesync_ti_accepting"
+msgstr "Hyväksy kutsu"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Kalenteri ja tehtävät"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Muuttunut varmenne"
+
+msgid "activesync_ti_connection"
+msgstr "Yhteys"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Kirjautumistiedot"
+
+msgid "activesync_ti_declining"
+msgstr "Hylkää kutsu"
+
+msgid "activesync_ti_details"
+msgstr "Viimeksi synkronoitu: Tiedot"
+
+msgid "activesync_ti_device_lock"
+msgstr "Muuta laitteen lukitusasetuksia"
+
+msgid "activesync_ti_email"
+msgstr "Sähköposti"
+
+msgid "activesync_ti_first_sync"
+msgstr "Ensimmäinen synkronointi"
+
+msgid "activesync_ti_full_sync"
+msgstr "Täydellinen synkronointi"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Varmenne ei kelpaa"
+
+msgid "activesync_ti_password"
+msgstr "Salasanasuojaus"
+
+msgid "activesync_ti_resync"
+msgstr "Uudelleensynkronointi"
+
+msgid "activesync_ti_settings"
+msgstr "Mail for Exchange -asetukset"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Kalenteri ja tehtävät"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Yhteystiedot"
+
+msgid "activesync_ti_sync_email"
+msgstr "Sähköposti"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Synkronoinnin ajoitus"
+
+msgid "activesync_ti_tentatively"
+msgstr "Hyväksy kutsu alustavasti"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Synkronoinnin sisältö"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Kirjautumistiedot"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Synkronoinnin käynnistys"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Palvelinasetukset"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Tervetuloa"
+
+msgid "activesync_va_added"
+msgstr "Lisätty"
+
+msgid "activesync_va_all_entries"
+msgstr "Kaikki merkinnät"
+
+msgid "activesync_va_all_messages"
+msgstr "Kaikki viestit"
+
+msgid "activesync_va_always_on"
+msgstr "Aina käytössä"
+
+msgid "activesync_va_calendar"
+msgstr "Kalenteri"
+
+msgid "activesync_va_calendar_back"
+msgstr "Synkronoi kalenteri"
+
+msgid "activesync_va_changed_policy"
+msgstr "Suojauskäytännön muutos"
+
+msgid "activesync_va_connected"
+msgstr "Yhdistetty"
+
+msgid "activesync_va_contacts"
+msgstr "Yhteystiedot"
+
+msgid "activesync_va_create_new"
+msgstr "Luo uusi"
+
+msgid "activesync_va_delete_items"
+msgstr "Poista kohteet laitteesta"
+
+msgid "activesync_va_deleted"
+msgstr "Poistettu"
+
+msgid "activesync_va_device_wins"
+msgstr "Laite ensisijainen"
+
+msgid "activesync_va_disconnected"
+msgstr "Yhteys katkaistu"
+
+msgid "activesync_va_email"
+msgstr "Sähköposti"
+
+msgid "activesync_va_error_account_full"
+msgstr "Exchange-palvelimen käyttäjätili on täynnä."
+
+msgid "activesync_va_error_address"
+msgstr "Exchange-palvelimen osoitevirhe."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Palvelinvarmenne on virheellinen. Tarkista laitteen päivämäärä- ja aika-"
+"asetukset tai ota yhteys palvelimen järjestelmänvalvojaan."
+
+msgid "activesync_va_error_communication"
+msgstr "Exchange-palvelimen yhteysvirhe."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange-tili poistettu käytöstä. Käyttö estettiin."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Käyttäjän tallennustila täynnä"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Virheellinen Exchange-tilin käyttäjänimi, salasana tai toimialue."
+
+msgid "activesync_va_error_maintenance"
+msgstr "Exchange-palvelinta huolletaan. Synkronointi ei ole käytettävissä."
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+"Exchange-palvelin ei vastaa. Varmista, että tilin asetukset ovat oikein."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"Sisäinen virhe. Poista Exchange-tili laitteesta, käynnistä laite uudelleen "
+"ja määritä asetukset."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"Virhe. Exchange-palvelin joko edellyttää suojattua yhteyttä tai tili on "
+"poistettu käytöstä."
+
+msgid "activesync_va_error_server"
+msgstr "Exchange-palvelimen virhe"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Pakollinen Exchange-palvelinkäytäntö epäonnistui. Käyttö estettiin."
+
+msgid "activesync_va_error_sync"
+msgstr "Ei voi synkronoida Exchange-palvelimen kanssa."
+
+msgid "activesync_va_error_system"
+msgstr "Exchange-palvelimen järjestelmävirhe."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange-palvelin ei ole käytettävissä"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Ohjelmistoversiota ei tueta Exchange-palvelimessa."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Joka 12. tunti"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Joka 15. minuutti"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Joka 30. minuutti"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Joka 4. tunti"
+
+msgid "activesync_va_every_day"
+msgstr "Päivittäin"
+
+msgid "activesync_va_every_hour"
+msgstr "Joka tunti"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Alustetaan synkronointi"
+
+msgid "activesync_va_idle"
+msgstr "Valmiustila"
+
+msgid "activesync_va_keep_items"
+msgstr "Pidä kohteet laitteessa"
+
+msgid "activesync_va_last_sync"
+msgstr "Viimeksi synkronoitu"
+
+msgid "activesync_va_manual"
+msgstr "Manuaalinen"
+
+msgid "activesync_va_never"
+msgstr "Ei koskaan"
+
+msgid "activesync_va_one_day"
+msgstr "1 päivän ajalta"
+
+msgid "activesync_va_one_month"
+msgstr "1 kuukauden ajalta"
+
+msgid "activesync_va_one_week"
+msgstr "1 viikon ajalta"
+
+msgid "activesync_va_online"
+msgstr "Online"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Lähetä seuraavalla synkronointikerralla"
+
+msgid "activesync_va_send_immediately"
+msgstr "Lähetä heti"
+
+msgid "activesync_va_server_wins"
+msgstr "Palvelin ensisijainen"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 kuukauden ajalta"
+
+msgid "activesync_va_status"
+msgstr "Tila"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Synkronointi epäonnistui"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Viim. synkronoitu %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Synkronoidaan"
+
+msgid "activesync_va_sync_failed"
+msgstr "Synkronointi epäonnistui"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Keskeytetty"
+
+msgid "activesync_va_three_days"
+msgstr "3 päivän ajalta"
+
+msgid "activesync_va_three_months"
+msgstr "3 kuukauden ajalta"
+
+msgid "activesync_va_today"
+msgstr "Tänään"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 viikon ajalta"
+
+msgid "activesync_va_updated"
+msgstr "Päivitetty"

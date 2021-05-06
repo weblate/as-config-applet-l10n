@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Akceptuj zagrożenie dla bezpieczeństwa"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Ustawienia zaawansowane"
+
+msgid "activesync_bd_continue"
+msgstr "Kontynuuj"
+
+msgid "activesync_bd_details"
+msgstr "Szczegóły"
+
+msgid "activesync_bd_dont_send"
+msgstr "Nie wysyłaj"
+
+msgid "activesync_bd_edit"
+msgstr "Edytuj odpowiedź"
+
+msgid "activesync_bd_ignore"
+msgstr "Ignoruj"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Synchronizuj w trybie ręcznym"
+
+msgid "activesync_bd_resync"
+msgstr "Pełna synchronizacja"
+
+msgid "activesync_bd_security_policy"
+msgstr "Zgodność z zasadami bezpieczeństwa"
+
+msgid "activesync_bd_send"
+msgstr "Wyślij"
+
+msgid "activesync_bd_settings"
+msgstr "Ustawienia"
+
+msgid "activesync_bd_signature"
+msgstr "Podpis"
+
+msgid "activesync_bd_stop"
+msgstr "Zatrzymaj synchronizację"
+
+msgid "activesync_bv_accept"
+msgstr "Akceptuj"
+
+msgid "activesync_bv_decline"
+msgstr "Odrzuć"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Zaakceptowane:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Odrzucone:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Wstępnie:"
+
+msgid "activesync_bv_remove"
+msgstr "Usuń z kalendarza"
+
+msgid "activesync_bv_tentative"
+msgstr "Wstępnie"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Zaakceptowano dnia"
+
+msgid "activesync_fi_account_title"
+msgstr "Tytuł konta"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Rozw. konfliktu"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Kopiuj wiadomości wysyłane"
+
+msgid "activesync_fi_declined_on"
+msgstr "Odrzucono dnia"
+
+msgid "activesync_fi_domain"
+msgstr "Domena"
+
+msgid "activesync_fi_email_address"
+msgstr "Adres e-mail"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Odcisk palca"
+
+msgid "activesync_fi_invitation"
+msgstr "Zaproszenie"
+
+msgid "activesync_fi_password"
+msgstr "Hasło"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Bezp. poł."
+
+msgid "activesync_fi_serial_no"
+msgstr "Numer seryjny"
+
+msgid "activesync_fi_server"
+msgstr "Serwer"
+
+msgid "activesync_fi_status_menu"
+msgstr "Apl. Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Temat"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Synchr. kalendarz i zadania"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Synchr. wykonane"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Synchr. kontakty"
+
+msgid "activesync_fi_sync_email"
+msgstr "Sychronizuj e-mail"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Wstępnie zaakcepotwano dnia"
+
+msgid "activesync_fi_username"
+msgstr "Użytkownik"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Dotknij opcji Dalej, aby rozpocząć synchronizację wstępną lub odrzuć "
+"ustawienia nowego konta, dotykając ekranu poza kreatorem.\n"
+"\n"
+"Dotknij opcji Ustawienia zaawansowane, aby dostosować te ustawienia konta."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"Odcisk palca certyfikatu serwera %s zmienił się.\n"
+"Jest to zagrożenie dla bezpieczeństwa, skontaktuj się z administratorem "
+"serwera"
+
+msgid "activesync_ia_code_change"
+msgstr "Należy zmienić kod blokady."
+
+msgid "activesync_ia_code_enable"
+msgstr "Należy włączyć automatyczną blokadę urządzenia."
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+"Limit czasu automatycznej blokady urządzenia musi być krótszy niż %d min."
+
+msgid "activesync_ia_enter_password"
+msgstr "Wpisz hasło serwera %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Certyfikat serwera %s jest nieprawidłowy. Jeśli serwer jest serwerem "
+"zaufanym, zignoruj to ostrzeżenie."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Serwer Exchange wymaga zmian w ustawieniach blokady urządzenia."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Kreator konfiguracji apl. Mail for Exchange umożliwia wybór ustawień konta "
+"Mail for Exchange do synchronizacji poczty e-mail, kalendarza, zadań i "
+"kontaktów pomiędzy urządzeniem i serwerem Exchange.\n"
+"\n"
+"Dotknij opcji Dalej, aby kontynuować."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Nie można anulować wysyłania"
+
+msgid "activesync_in_error_server_type"
+msgstr "Skonfigurowany serwer nie jest serwerem Exchange"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Urządzenie nie jest zgodne ze zmienionymi zasadami bezpieczeństwa. "
+"Skontaktuj się z administratorem."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Nie jest zalecane jednoczesne korzystanie z synchronizacji PC Suite i apl. "
+"Mail for Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Kreator apl. Mail for Exchange jest już uruchomiony"
+
+msgid "activesync_li_calendar"
+msgstr "Kalendarz"
+
+msgid "activesync_li_first_sync"
+msgstr "Pierwsza synchronizacja"
+
+msgid "activesync_li_messages_back"
+msgstr "Synchr. wiad. z poprz. okresu"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Plan poza godz. szczytu"
+
+msgid "activesync_li_peak_days"
+msgstr "Dni szczytu"
+
+msgid "activesync_li_peak_end"
+msgstr "Koniec godz. szczytu"
+
+msgid "activesync_li_peak_start"
+msgstr "Pocz. godz. szczytu"
+
+msgid "activesync_li_peak_sync"
+msgstr "Plan w godz. szczytu"
+
+msgid "activesync_li_send_policy"
+msgstr "Wysyłanie wiadomości e-mail"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"Zaakceptować zmieniony certyfikat? Przed zaakceptowaniem skonsultuj się z "
+"administratorem serwera."
+
+msgid "activesync_nc_delete"
+msgstr "Usunąć konto apl. Mail for Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Anulować synchronizację wstępną?\n"
+"Dane konfiguracji konta zostaną utracone."
+
+msgid "activesync_nc_full_sync"
+msgstr "Czy na pewno chcesz przerwać synchronizację?"
+
+msgid "activesync_ti_accepting"
+msgstr "Zaakceptuj zaproszenie"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Kalendarz i zadania"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Zmieniono certyfikat"
+
+msgid "activesync_ti_connection"
+msgstr "Połączenie"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Dane uwierzytelniania"
+
+msgid "activesync_ti_declining"
+msgstr "Odrzuć zaproszenie"
+
+msgid "activesync_ti_details"
+msgstr "Ostatnia synchronizacja: Szczegóły"
+
+msgid "activesync_ti_device_lock"
+msgstr "Zmień ustawienia blokady urządzenia"
+
+msgid "activesync_ti_email"
+msgstr "Wiadomości e-mail"
+
+msgid "activesync_ti_first_sync"
+msgstr "Pierwsza synchronizacja"
+
+msgid "activesync_ti_full_sync"
+msgstr "Pełna synchronizacja"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Nieprawidłowy certyfikat"
+
+msgid "activesync_ti_password"
+msgstr "Ochrona hasłem"
+
+msgid "activesync_ti_resync"
+msgstr "Ponowna synchr."
+
+msgid "activesync_ti_settings"
+msgstr "Ustawienia apl. Mail for Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Kalendarz i zadania"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Kontakty"
+
+msgid "activesync_ti_sync_email"
+msgstr "Wiadomości e-mail"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Plan synchr."
+
+msgid "activesync_ti_tentatively"
+msgstr "Wstępnie zaakceptuj zaproszenie"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Zawartość do synchronizacji"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Dane uwierzytelniania"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Rozpocznij synchronizację"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Ustawienia serwera"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Witamy!"
+
+msgid "activesync_va_added"
+msgstr "Dodano"
+
+msgid "activesync_va_all_entries"
+msgstr "Wszystkie"
+
+msgid "activesync_va_all_messages"
+msgstr "Wszystkie"
+
+msgid "activesync_va_always_on"
+msgstr "Zawsze wł."
+
+msgid "activesync_va_calendar"
+msgstr "Kalendarz"
+
+msgid "activesync_va_calendar_back"
+msgstr "Synchr. kalendarza z poprz. okresu"
+
+msgid "activesync_va_changed_policy"
+msgstr "Zmiany zasad bezpieczeństwa"
+
+msgid "activesync_va_connected"
+msgstr "Połączony"
+
+msgid "activesync_va_contacts"
+msgstr "Kontakty"
+
+msgid "activesync_va_create_new"
+msgstr "Utwórz nowy"
+
+msgid "activesync_va_delete_items"
+msgstr "Usuń elementy z urządzenia"
+
+msgid "activesync_va_deleted"
+msgstr "Usunięto"
+
+msgid "activesync_va_device_wins"
+msgstr "Pierwszeństwo urządzenia"
+
+msgid "activesync_va_disconnected"
+msgstr "Rozłączony"
+
+msgid "activesync_va_email"
+msgstr "Wiadomości e-mail"
+
+msgid "activesync_va_error_account_full"
+msgstr "Brak miejsca na koncie użytkownika na serwerze Exchange."
+
+msgid "activesync_va_error_address"
+msgstr "Nieprawidłowy adres hosta dla serwera Exchange."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Nieprawidłowy certyfikat serwera. Sprawdź ustawienia daty i godziny lub "
+"skontaktuj się z administratorem serwera."
+
+msgid "activesync_va_error_communication"
+msgstr "Błąd łączenia z serwerem Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "Konto Exchange dezaktywowane. Odmowa dostępu."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Pamięć użytkownika pełna"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Nieprawidłowa nazwa użytkownika, hasło lub domena konta Exchange."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"Trwa konserwacja serwera Exchange. Usługa synchronizacji jest niedostępna."
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+"Serwer Exchange nie odpowiada. Sprawdź, czy ustawienia konta są prawidłowe."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"Błąd wewnętrzny. Usuń konto Exchange z urządzenia, uruchom ponownie "
+"urządzenie i skonfiguruj konto."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"Błąd. Serwer Exchange wymaga bezpiecznego połączenia lub konto zostało "
+"dezaktywowane."
+
+msgid "activesync_va_error_server"
+msgstr "Błąd serwera Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Błąd obowiązującej polityki serwera Exchange. Odmowa dostępu."
+
+msgid "activesync_va_error_sync"
+msgstr "Nie można zsynchronizować z serwerem Exchange."
+
+msgid "activesync_va_error_system"
+msgstr "Błąd systemowy serwera Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Serwer Exchange niedostępny"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Nieobsługiwana wersja oprogramowania na serwerze Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Co 12 godzin"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Co 15 minut"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Co 30 minut"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Co 4 godziny"
+
+msgid "activesync_va_every_day"
+msgstr "Codziennie"
+
+msgid "activesync_va_every_hour"
+msgstr "Co godzinę"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Inicjalizacja synchronizacji"
+
+msgid "activesync_va_idle"
+msgstr "Tryb bezczynności"
+
+msgid "activesync_va_keep_items"
+msgstr "Zachowaj elementy w urządzeniu"
+
+msgid "activesync_va_last_sync"
+msgstr "Ostatnia synchronizacja"
+
+msgid "activesync_va_manual"
+msgstr "Ręcznie"
+
+msgid "activesync_va_never"
+msgstr "Nigdy"
+
+msgid "activesync_va_one_day"
+msgstr "1 dzień"
+
+msgid "activesync_va_one_month"
+msgstr "1 miesiąc"
+
+msgid "activesync_va_one_week"
+msgstr "1 tydzień"
+
+msgid "activesync_va_online"
+msgstr "Podłączony"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Przy nast. synchr."
+
+msgid "activesync_va_send_immediately"
+msgstr "Wyślij teraz"
+
+msgid "activesync_va_server_wins"
+msgstr "Pierwszeństwo serwera"
+
+msgid "activesync_va_service_provider"
+msgstr "Apl. Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 miesięcy"
+
+msgid "activesync_va_status"
+msgstr "Stan"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Ostatnia synchr. nieudana"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Ostatnia synchr. %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Trwa synchronizacja"
+
+msgid "activesync_va_sync_failed"
+msgstr "Błąd synchronizacji"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Zatrzymano"
+
+msgid "activesync_va_three_days"
+msgstr "3 dni"
+
+msgid "activesync_va_three_months"
+msgstr "3 miesiące"
+
+msgid "activesync_va_today"
+msgstr "Dzisiaj"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 tygodnie"
+
+msgid "activesync_va_updated"
+msgstr "Zaktualizowano"

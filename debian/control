@@ -1,0 +1,119 @@
+Source: as-config-applet-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: as-config-applet-l10n-mr0
+Section: misc
+Architecture: all
+Provides: as-config-applet-l10n-mr
+Depends: as-config-applet-l10n-ruru, as-config-applet-l10n-frfr, as-config-applet-l10n-frca, as-config-applet-l10n-dadk, as-config-applet-l10n-itit, as-config-applet-l10n-svse, as-config-applet-l10n-nono, as-config-applet-l10n-fifi, as-config-applet-l10n-nlnl, as-config-applet-l10n-enus, as-config-applet-l10n-dede, as-config-applet-l10n-esmx, as-config-applet-l10n-eses, as-config-applet-l10n-cscz, as-config-applet-l10n-ptpt, as-config-applet-l10n-engb, as-config-applet-l10n-plpl
+Description: as-config-applet marketing release package
+ This is a metapackage for as-config-applet to pull all the l10n packages.
+ Application developers of as-config-applet should depend on
+ "as-config-applet-l10n-mr0 | as-config-applet-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: as-config-applet-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (cs_CZ)
+ Language files for cs_CZ as-config-applet.
+
+Package: as-config-applet-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (da_DK)
+ Language files for da_DK as-config-applet.
+
+Package: as-config-applet-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (de_DE)
+ Language files for de_DE as-config-applet.
+
+Package: as-config-applet-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (en_GB)
+ Language files for en_GB as-config-applet.
+
+Package: as-config-applet-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (en_US)
+ Language files for en_US as-config-applet.
+
+Package: as-config-applet-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (es_ES)
+ Language files for es_ES as-config-applet.
+
+Package: as-config-applet-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (es_MX)
+ Language files for es_MX as-config-applet.
+
+Package: as-config-applet-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (fi_FI)
+ Language files for fi_FI as-config-applet.
+
+Package: as-config-applet-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (fr_CA)
+ Language files for fr_CA as-config-applet.
+
+Package: as-config-applet-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (fr_FR)
+ Language files for fr_FR as-config-applet.
+
+Package: as-config-applet-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (it_IT)
+ Language files for it_IT as-config-applet.
+
+Package: as-config-applet-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (nl_NL)
+ Language files for nl_NL as-config-applet.
+
+Package: as-config-applet-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (no_NO)
+ Language files for no_NO as-config-applet.
+
+Package: as-config-applet-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (pl_PL)
+ Language files for pl_PL as-config-applet.
+
+Package: as-config-applet-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (pt_PT)
+ Language files for pt_PT as-config-applet.
+
+Package: as-config-applet-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (ru_RU)
+ Language files for ru_RU as-config-applet.
+
+Package: as-config-applet-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for as-config-applet (sv_SE)
+ Language files for sv_SE as-config-applet.
