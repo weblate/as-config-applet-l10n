@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-04-22 19:35+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: Adib <shami585@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "إعدادات متقدمة"
+
+msgid "activesync_bd_details"
+msgstr "تفاصيل"
+
+msgid "activesync_bd_manual_sync"
+msgstr "مزامنة يدوياً"
+
+msgid "activesync_bd_resync"
+msgstr "إعادة مزامنة كاملة"
+
+msgid "activesync_bd_settings"
+msgstr "الإعدادات"
+
+msgid "activesync_bd_signature"
+msgstr "التوقيع"
+
+msgid "activesync_bd_stop"
+msgstr "وقف المزامنة"
+
+msgid "activesync_fi_account_title"
+msgstr "عنوان الحساب"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "تصحيح الخطأ"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "نسخ البريد الصادر"
+
+msgid "activesync_fi_domain"
+msgstr "النطاق"
+
+msgid "activesync_fi_email_address"
+msgstr "البريد الإلكتروني"
+
+msgid "activesync_fi_password"
+msgstr "كلمة السر"
+
+msgid "activesync_fi_port"
+msgstr "المنفذ"
+
+msgid "activesync_fi_secure_connection"
+msgstr "إتصال آمن"
+
+msgid "activesync_fi_server"
+msgstr "الخادم"
+
+msgid "activesync_fi_status_menu"
+msgstr "التبادل الإلكتروني"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "مزامنة التقويم والمهام"
+
+msgid "activesync_fi_sync_completed"
+msgstr "مزامنة المهام المكتملة"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "مزامنة جهات الإتصال"
+
+msgid "activesync_fi_sync_email"
+msgstr "مزامنة البريد الإلكتروني"
+
+msgid "activesync_fi_username"
+msgstr "اسم المستخدم"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"اضغط 'التالي' لبدء عملية التزامن أو إلغي الحساب الجديد بالضغط خارج الواجهة.\n"
+"\n"
+"اضغط 'الإعدادات المتقدمة' للتعديل على الحساب."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"إعداد التبادل الإلكتروني يسمح لك بمزامنة كل من البريد الإلكتروني, التقويم, المهام وجهات الإتصال بين جهازك وبريد التبادل.\n"
+"\n"
+"اضغط 'التالي' للمتابعة."
+
+msgid "activesync_in_error_attachment"
+msgstr "لا يوجد مساحة كافية لتحميل المرفقات"
+
+msgid "activesync_in_error_server_type"
+msgstr "الخادم المعرف لا يصلح كخادم تبادل"
+
+msgid "activesync_in_pcsuite"
+msgstr "Pc suite لا ينصح بأستخدام تزامن البريد الألكتروني مع تزامن "
+
+msgid "activesync_in_wizard_open"
+msgstr "إعداد التزامن الإلكتروني مفتوح حالياً"
+
+msgid "activesync_li_calendar"
+msgstr "التقويم"
+
+msgid "activesync_li_first_sync"
+msgstr "تزامن أولي"
+
+msgid "activesync_li_messages_back"
+msgstr "مزامنة الرسائل"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "الجدولة في العطل"
+
+msgid "activesync_li_peak_days"
+msgstr "أيام العمل"
+
+msgid "activesync_li_peak_end"
+msgstr "انتهاء أيام العمل"
+
+msgid "activesync_li_peak_start"
+msgstr "بداية ايام العمل"
+
+msgid "activesync_li_peak_sync"
+msgstr "جدولة ايام العمل"
+
+msgid "activesync_li_send_policy"
+msgstr "عند بعث البريد الإلكتروني"
+
+msgid "activesync_nc_delete"
+msgstr "حذف حساب المبادلة الإلكترونية؟"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"إلغاء عملية التزامن؟\n"
+"ستمحى إعدادات الحساب."
+
+msgid "activesync_nc_full_sync"
+msgstr "هل أنت متأكد من توقيف عملية التزامن؟"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "التقويم والمهام"
+
+msgid "activesync_ti_connection"
+msgstr "ضبط الإتصال"
+
+msgid "activesync_ti_cpa"
+msgstr "بريد المزامنة الإلكترونية"
+
+msgid "activesync_ti_credentials"
+msgstr "أوراق اعتماد"
+
+msgid "activesync_ti_details"
+msgstr "التزامن النهائي: التفاصيل"
+
+msgid "activesync_ti_email"
+msgstr "البريد الإلكتروني"
+
+msgid "activesync_ti_first_sync"
+msgstr "التزامن الأولي"
+
+msgid "activesync_ti_full_sync"
+msgstr "تزامن شامل"
+
+msgid "activesync_ti_resync"
+msgstr "إعادة التزامن"
+
+msgid "activesync_ti_settings"
+msgstr "إعدادات بريد التزامن الإلكتروني"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "التقويم والمهام"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "جهات الإتصال"
+
+msgid "activesync_ti_sync_email"
+msgstr "البريد الإلكتروني"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "مزامنة جدول المواعيد"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "محتوى التزامن"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "أوراق الإعتماد"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "بدء التزامن"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "اعدادات مركز الخدمة"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "مرحباً"
+
+msgid "activesync_va_added"
+msgstr "تمت الإضافة"
+
+msgid "activesync_va_all_entries"
+msgstr "كل التفاصيل"
+
+msgid "activesync_va_all_messages"
+msgstr "كل الرسائل"
+
+msgid "activesync_va_always_on"
+msgstr "تشغيل بشكل دائم"
+
+msgid "activesync_va_calendar"
+msgstr "التقويم"
+
+msgid "activesync_va_calendar_back"
+msgstr "إعادة مزامنة التقويم"
+
+msgid "activesync_va_complete"
+msgstr "تم بنجاح"
+
+msgid "activesync_va_connected"
+msgstr "متصل"
+
+msgid "activesync_va_connecting"
+msgstr "جاري الإتصال"
+
+msgid "activesync_va_contacts"
+msgstr "جهات الإتصال"
+
+msgid "activesync_va_create_new"
+msgstr "انشاء جديد"
+
+msgid "activesync_va_delete_items"
+msgstr "حذف ملفات من الجهاز"
+
+msgid "activesync_va_deleted"
+msgstr "تم الحذف"
+
+msgid "activesync_va_device_wins"
+msgstr "الأولوية للجهاز"
+
+msgid "activesync_va_disconnected"
+msgstr "تم فصل الإتصال"
+
+msgid "activesync_va_email"
+msgstr "البريد الإلكتروني"
+
+msgid "activesync_va_error_account_full"
+msgstr "حساب التبادل الإلكتروني ممتلئ"
+
+msgid "activesync_va_error_address"
+msgstr "عنوان مركز الخدمة للتبادل الإلكتروني غير صحيح"
+
+msgid "activesync_va_error_certificate"
+msgstr "شهادة مركز الخدمة غير صالحة. تحقق من إعدادات التاريخ والوقت أو قم بالإتصال بالمسؤول"
+
+msgid "activesync_va_error_communication"
+msgstr "خطأ في التواصل مع بريد التبادل."
+
+msgid "activesync_va_error_disabled"
+msgstr "تم تعطيل حساب التبادل. الوصول مرفوض"
+
+msgid "activesync_va_error_disk_full"
+msgstr "سعة تخزين المستخدم ممتلئة"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "اسم المستخدم, كلمة السر, أو نطاق بريد التبادل غير صحيح."
+
+msgid "activesync_va_error_no_response"
+msgstr "بريد التبادل لا يستجيب, تأكد من صحة إعدادات الحساب."
+
+msgid "activesync_va_error_reinstall"
+msgstr "خطأ داخلي, قم بإلغاء حساب بريد التبادل, أعد تشغيل الجهاز وحاول مرة اخرى"
+
+msgid "activesync_va_error_secure"
+msgstr "خطأ. إما خادم التبادل يحتاج لإتصال آمن أو الحساب معطل"
+
+msgid "activesync_va_error_server"
+msgstr "خطأ في خادم التبادل"
+
+msgid "activesync_va_error_server_policy"
+msgstr "فشل إلزامي في خادم التبادل الإلكتروني. الوصول مرفوض."
+
+msgid "activesync_va_error_sync"
+msgstr "التزامن مع خادم التبادل غير ممكن."
+
+msgid "activesync_va_error_system"
+msgstr "خطأ في النظام مع خادم التبادل."
+
+msgid "activesync_va_error_unavailable"
+msgstr "خادم التبادل غير متوفر"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "رقم إصدار خادم التبادل غير مدعوم."
+
+msgid "activesync_va_every_12_hour"
+msgstr "كل 12 ساعة"
+
+msgid "activesync_va_every_15_mins"
+msgstr "كل 15 دقيقة"
+
+msgid "activesync_va_every_30_mins"
+msgstr "كل 30 دقيقة"
+
+msgid "activesync_va_every_4_hours"
+msgstr "كل 4 ساعات"
+
+msgid "activesync_va_every_day"
+msgstr "كل يوم"
+
+msgid "activesync_va_every_hour"
+msgstr "كل ساعة"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "جاري تهيئة التزامن"
+
+msgid "activesync_va_idle"
+msgstr "وضع الخمول"
+
+msgid "activesync_va_keep_items"
+msgstr "إبقاء الملفات على الجهاز"
+
+msgid "activesync_va_last_sync"
+msgstr "آخر مزامنة"
+
+msgid "activesync_va_manual"
+msgstr "يدوي"
+
+msgid "activesync_va_never"
+msgstr "أبداً"
+
+msgid "activesync_va_one_day"
+msgstr "يوم واحد"
+
+msgid "activesync_va_one_month"
+msgstr "شهر واحد"
+
+msgid "activesync_va_one_week"
+msgstr "اسبوع واحد"
+
+msgid "activesync_va_online"
+msgstr "متواجد"
+
+msgid "activesync_va_send_at_sync"
+msgstr "ابعث في عملية المزامنة القادمة"
+
+msgid "activesync_va_send_immediately"
+msgstr "البدء فوراً"
+
+msgid "activesync_va_server_wins"
+msgstr "الخادم له الأولوية"
+
+msgid "activesync_va_service_provider"
+msgstr "تبادل الرسائل الإلكترونية"
+
+msgid "activesync_va_six_months"
+msgstr "6 أشهر"
+
+msgid "activesync_va_status"
+msgstr "الحالة"
+
+msgid "activesync_va_status_menu_error"
+msgstr "آخر عملية تزامن لم تكمل بنجاح"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "اخر عملية تزامن %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "جاري التزامن"
+
+msgid "activesync_va_sync_failed"
+msgstr "فشلت عملية التزامن"
+
+msgid "activesync_va_sync_stopped"
+msgstr "تم التوقيف"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "جاري مزامنة التقويم: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "جاري مزامنة جهات الإتصال: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "جاري مزامنة البريد الإلكتروني: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 أيام"
+
+msgid "activesync_va_three_months"
+msgstr "3 أشهر"
+
+msgid "activesync_va_today"
+msgstr "اليوم"
+
+msgid "activesync_va_two_weeks"
+msgstr "أسبوعان"
+
+msgid "activesync_va_updated"
+msgstr "تم التحديث"
+
