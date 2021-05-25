@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 09:50+0300\n"
+"PO-Revision-Date: 2010.04.26 21:09+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Güvenlik riskini kabul et"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Gelişmiş ayarlar"
+
+msgid "activesync_bd_continue"
+msgstr "Devam et"
+
+msgid "activesync_bd_details"
+msgstr "Ayrıntılar"
+
+msgid "activesync_bd_dont_send"
+msgstr "Gönderme"
+
+msgid "activesync_bd_edit"
+msgstr "Cevabı düzenle"
+
+msgid "activesync_bd_ignore"
+msgstr "Yoksay"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Elle senkronla"
+
+msgid "activesync_bd_resync"
+msgstr "Tam senkronizasyon"
+
+msgid "activesync_bd_security_policy"
+msgstr "Güvenlik politikasına uy"
+
+msgid "activesync_bd_send"
+msgstr "Gönder"
+
+msgid "activesync_bd_settings"
+msgstr "Ayarlar"
+
+msgid "activesync_bd_signature"
+msgstr "İmza"
+
+msgid "activesync_bd_stop"
+msgstr "Senkronizasyonu durdur"
+
+msgid "activesync_bv_accept"
+msgstr "Kabul et"
+
+msgid "activesync_bv_decline"
+msgstr "Reddet"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Kabul edildi:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Reddedildi:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Geçici:"
+
+msgid "activesync_bv_remove"
+msgstr "Takvimden kaldır"
+
+msgid "activesync_bv_tentative"
+msgstr "Geçici"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Kabul edildi"
+
+msgid "activesync_fi_account_title"
+msgstr "Hesap başlığı"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Çakışma çözümü"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Giden e-postaları kopyala"
+
+msgid "activesync_fi_declined_on"
+msgstr "Reddedildi"
+
+msgid "activesync_fi_domain"
+msgstr "Alan adı"
+
+msgid "activesync_fi_email_address"
+msgstr "E-posta adresi"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Parmakizi"
+
+msgid "activesync_fi_invitation"
+msgstr "Davetiye"
+
+msgid "activesync_fi_password"
+msgstr "Parola"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Güvenli bağlantı"
+
+msgid "activesync_fi_serial_no"
+msgstr "Seri numarası"
+
+msgid "activesync_fi_server"
+msgstr "Sunucu"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Konu"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Takvim ve görevleri senkronla"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Tamamlanmış görevleri senkronla"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Kişileri senkronla"
+
+msgid "activesync_fi_sync_email"
+msgstr "E-postaları senkronla"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Geçici kabul edildi"
+
+msgid "activesync_fi_use_default_port"
+msgstr "Varsayılan portu kullan"
+
+msgid "activesync_fi_username"
+msgstr "Kullanıcı adı"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"İlk senkronizasyon için 'Sonraki' tuşuna veya çıkmak için sihirbazın dışına basın.\n"
+"\n"
+"Gelişmiş hesap ayarları için 'Gelişmiş ayarlar' tıklayın."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"%s sunucu sertifikasının parmakizi değişmiş.\n"
+"Bu bir güvenlik riskidir, lütfen sunucu yöneticisini bilgilendirin"
+
+msgid "activesync_ia_code_change"
+msgstr "Kilit kodu mutlaka değiştirilmeli."
+
+msgid "activesync_ia_code_enable"
+msgstr "Otomatik cihaz kilidi mutlaka aktifleştirilmeli."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Otomatik cihaz kilidi zaman aşımı %d dakikadan az olmalı."
+
+msgid "activesync_ia_enter_password"
+msgstr "%s sertifika için parolayı girin"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"% sunucu sertifikası geçersiz. Eğer sunucuya güveniyorsanız bu mesajı "
+"yoksayın."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Exchange sunucusu cihaz kilit ayarlarında değişiklik gerektiriyor."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Mail for Exchange kurulum sihirbazı cihazınız ve Exchange sunucusu arasında e-posta, takvim, görev ve kişi senkronizasyonları için Mail for Exchange hesabı tanımlama olanağı sağlar. \n"
+"\n"
+"Devam için 'Sonraki' tıklayın."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Gönderim iptal edilemiyor"
+
+msgid "activesync_ib_incorrect_password"
+msgstr "Geçersiz parola"
+
+msgid "activesync_in_error_attachment"
+msgstr "Eki indirmek için yeterli alan kalmadı."
+
+msgid "activesync_in_error_server_type"
+msgstr "Ayarlanan sunucu Exchange sunucusu değil"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Cihaz güvenlik politikası değişikliklerine uymuyor. Sistem yöneticinize "
+"ulaşın."
+
+msgid "activesync_in_pcsuite"
+msgstr "Mail for Exchange ile PC Suite senkronizasyonunun aynı anda yapılması önerilmemektedir."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange sihirbazı zaten açık"
+
+msgid "activesync_li_calendar"
+msgstr "Takvim"
+
+msgid "activesync_li_first_sync"
+msgstr "İlk senkronizasyon"
+
+msgid "activesync_li_messages_back"
+msgstr "Mesajları geri senkronla"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Yoğun-olmayan zamanlama"
+
+msgid "activesync_li_peak_days"
+msgstr "Yoğun günler"
+
+msgid "activesync_li_peak_end"
+msgstr "Yoğun bitiş zamanı"
+
+msgid "activesync_li_peak_start"
+msgstr "Yoğun başlangıç zamanı"
+
+msgid "activesync_li_peak_sync"
+msgstr "Yoğun zamanlama"
+
+msgid "activesync_li_send_policy"
+msgstr "E-posta gönderilirken"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"Değişmiş sertifikayı kabul et? Yapmadan önce sunucu yöneticisiyle irtibat kurun."
+
+msgid "activesync_nc_delete"
+msgstr "Mail for Exchange hesabı silinsin mi?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"İlk senkronizasyon iptal edilsin mi?\n"
+" Hesap ayarları kaybedilecek."
+
+msgid "activesync_nc_full_sync"
+msgstr "Senkronizasyonu durdurmak istediğinize emin misiniz?"
+
+msgid "activesync_ti_accepting"
+msgstr "Daveti kabul et"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Takvim ve görevler"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Değişmiş sertifika"
+
+msgid "activesync_ti_connection"
+msgstr "Bağlantı"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Kayıtlar"
+
+msgid "activesync_ti_declining"
+msgstr "Daveti reddet"
+
+msgid "activesync_ti_details"
+msgstr "Son senkronizasyon: Detaylar"
+
+msgid "activesync_ti_device_lock"
+msgstr "Cihaz kilit ayarlarını değiştir"
+
+msgid "activesync_ti_email"
+msgstr "E-posta"
+
+msgid "activesync_ti_first_sync"
+msgstr "İlk senkronizasyon"
+
+msgid "activesync_ti_full_sync"
+msgstr "Tam senkronizasyon"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Geçersiz sertifika"
+
+msgid "activesync_ti_password"
+msgstr "Parola korumalı"
+
+msgid "activesync_ti_resync"
+msgstr "Tekrar senkronizasyon"
+
+msgid "activesync_ti_settings"
+msgstr "Mail for Exchange ayarları"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Takvim ve görevler"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Kişiler"
+
+msgid "activesync_ti_sync_email"
+msgstr "E-posta"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Senkron çizelgesi"
+
+msgid "activesync_ti_tentatively"
+msgstr "Daveti geçici kabul et"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Senkronizasyon içeriği"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Kayıtlar"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Senkronizasyona başla"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Sunucu ayarları"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Hoşgeldiniz"
+
+msgid "activesync_va_added"
+msgstr "Eklendi"
+
+msgid "activesync_va_all_entries"
+msgstr "Tüm girdiler"
+
+msgid "activesync_va_all_messages"
+msgstr "Tüm mesajlar"
+
+msgid "activesync_va_always_on"
+msgstr "Hep açık"
+
+msgid "activesync_va_calendar"
+msgstr "Takvim"
+
+msgid "activesync_va_calendar_back"
+msgstr "Takvimi geri senkronla"
+
+msgid "activesync_va_changed_policy"
+msgstr "Güvenlik politikasında değişiklik"
+
+msgid "activesync_va_complete"
+msgstr "Tamamla"
+
+msgid "activesync_va_connected"
+msgstr "Bağlandı"
+
+msgid "activesync_va_connecting"
+msgstr "Bağlanıyor"
+
+msgid "activesync_va_contacts"
+msgstr "Kişiler"
+
+msgid "activesync_va_create_new"
+msgstr "Yeni oluştur"
+
+msgid "activesync_va_delete_items"
+msgstr "Cihazdaki öğeleri sil"
+
+msgid "activesync_va_deleted"
+msgstr "Silindi"
+
+msgid "activesync_va_device_wins"
+msgstr "Cihaz önceliği alır"
+
+msgid "activesync_va_disconnected"
+msgstr "Bağlantı kesildi"
+
+msgid "activesync_va_email"
+msgstr "E-posta"
+
+msgid "activesync_va_error_account_full"
+msgstr "Exchange sunucusu kullanıcı hesabı dolu."
+
+msgid "activesync_va_error_address"
+msgstr "Exchange sunucusu host adresi geçersiz."
+
+msgid "activesync_va_error_certificate"
+msgstr "Sunucu sertifikası geçersiz. Cihazın tarih ve zaman ayarlarını kontrol edin veya sunucu yöneticisiyle irtibata geçin."
+
+msgid "activesync_va_error_communication"
+msgstr "Exchange sunucusuyla iletişim hatası."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange hesabı devre dışı. Erişim reddedildi."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Kullanıcı alanı dolu"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Exchange hesabı için geçersiz kullanıcı adı, parola veya alanadı."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"Exchange sunucusu bakıma giriyor. Senkronizasyon servisi "
+"hizmet dışı.."
+
+msgid "activesync_va_error_no_response"
+msgstr "Exchange sunucusu cevap vermiyor."
+
+msgid "activesync_va_error_reinstall"
+msgstr "İç hata. Exchange hesabını cihazdan silin, cihazı yeniden başlatın ve tekrar ayarlayın."
+
+msgid "activesync_va_error_secure"
+msgstr "Hata. Exchange sunucusu güvenli bağlantı gerektiriyor veya hesap devre dışı."
+
+msgid "activesync_va_error_server"
+msgstr "Exchange sunucusunda hata."
+
+msgid "activesync_va_error_server_policy"
+msgstr "Zorunlu Exchange sunucu politikası başarısız oldu. Erişim reddedildi."
+
+msgid "activesync_va_error_sync"
+msgstr "Exchange sunucusuyla senkronlanamıyor."
+
+msgid "activesync_va_error_system"
+msgstr "Exchange sunucusunda sistem hatası."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange sunucusu müsait değil"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Exchange sunucusunda desteklenmeyen yazılım sürümü."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Her 12 saatte"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Her 15 dakikada"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Her 30 dakikada"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Her 4 saatte"
+
+msgid "activesync_va_every_day"
+msgstr "Her gün"
+
+msgid "activesync_va_every_hour"
+msgstr "Her saat"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Senkronizasyon başlatılıyor"
+
+msgid "activesync_va_idle"
+msgstr "Boşta"
+
+msgid "activesync_va_keep_items"
+msgstr "Öğeleri cihazda sakla"
+
+msgid "activesync_va_last_sync"
+msgstr "Son senkronizasyon"
+
+msgid "activesync_va_manual"
+msgstr "Elle"
+
+msgid "activesync_va_never"
+msgstr "Asla"
+
+msgid "activesync_va_one_day"
+msgstr "1 gün"
+
+msgid "activesync_va_one_month"
+msgstr "1 ay"
+
+msgid "activesync_va_one_week"
+msgstr "1 hafta"
+
+msgid "activesync_va_online"
+msgstr "Çevrimiçi"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Bir sonraki senkronizasyonda gönder"
+
+msgid "activesync_va_send_immediately"
+msgstr "Hemen gönder"
+
+msgid "activesync_va_server_wins"
+msgstr "Sunucu önceliği alır"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 ay"
+
+msgid "activesync_va_status"
+msgstr "Durum"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Son senkronizasyon başarısız"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Son senkronizasyon  %"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Senkronlanıyor"
+
+msgid "activesync_va_sync_failed"
+msgstr "Senkronizasyon başarısız"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Durduruldu"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Takvim senkronlanıyor: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Kişiler senkronlanıyor: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "E-posta senkronlanıyor: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 gün"
+
+msgid "activesync_va_three_months"
+msgstr "3 ay"
+
+msgid "activesync_va_today"
+msgstr "Bugün"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 hafta"
+
+msgid "activesync_va_updated"
+msgstr "Güncellendi"
+
