@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-02-21 20:27+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Haladó beállítások"
+
+msgid "activesync_bd_details"
+msgstr "Részletek"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Manuális szinkronizálás"
+
+msgid "activesync_bd_resync"
+msgstr "Teljes újra szinkronizálás"
+
+msgid "activesync_bd_settings"
+msgstr "Beállítások"
+
+msgid "activesync_bd_signature"
+msgstr "Aláírás"
+
+msgid "activesync_bd_stop"
+msgstr "Szinkronizálás leállítása"
+
+msgid "activesync_fi_account_title"
+msgstr "Fiók név"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Ütközések feloldása"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Kimenő email-ek másolása"
+
+msgid "activesync_fi_domain"
+msgstr "Tartomány"
+
+msgid "activesync_fi_email_address"
+msgstr "E-mail címek"
+
+msgid "activesync_fi_password"
+msgstr "Jelszó"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Biztonságos kapcsolat"
+
+msgid "activesync_fi_server"
+msgstr "Szerver"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Naptár és feladatok szinkronizálása"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Teljesített feladatok szinkronizálása"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Névjegyzék szinkronizálása"
+
+msgid "activesync_fi_sync_email"
+msgstr "E-mail-ek szinkronizálása"
+
+msgid "activesync_fi_username"
+msgstr "Felhasználó név"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Érintsd meg a  'Tovább' gombot, hogy elkezd a szinkronizálást vagy érints üres területet a varázslón kivül,hogy töröld az új fiókot.\n"
+"\n"
+"Érintsd meg a 'Haladó beállítások' gombot, hogy módosítsd a haladó beállításokat."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"A Mail for Exchange beállítás varázsló segít beállítani egy Mail for Exchange fiókot, hogy e-maileit, naptár bejegyzéseit, feladatait és névjegyzékét szinkronizálhassa eszköze és egy Exchange szerver között.\n"
+"\n"
+"Érintsd meg a 'Tovább' gombot a folytatáshoz."
+
+msgid "activesync_in_error_attachment"
+msgstr "Nincs elég hely a melléklet letöltéséhez"
+
+msgid "activesync_in_error_server_type"
+msgstr "A konfigurált szerver nem Exchange szerver"
+
+msgid "activesync_in_pcsuite"
+msgstr "Figyelem a PC Suit és a Mail for Exchange egyidejű szinkronizálása nem ajánlott."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange varázsló már megnyitva"
+
+msgid "activesync_li_calendar"
+msgstr "Naptár"
+
+msgid "activesync_li_first_sync"
+msgstr "Első szinkronizálás"
+
+msgid "activesync_li_messages_back"
+msgstr "Üzenetek vissza szinkronizálása"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Csúcsidőn kívüli ütemezés"
+
+msgid "activesync_li_peak_days"
+msgstr "Csúcs napok"
+
+msgid "activesync_li_peak_end"
+msgstr "Csúcsidő vége"
+
+msgid "activesync_li_peak_start"
+msgstr "Csúcsidő kezdete"
+
+msgid "activesync_li_peak_sync"
+msgstr "Csúcsidő ütemezése"
+
+msgid "activesync_li_send_policy"
+msgstr "Amikor e-mailt küldesz"
+
+msgid "activesync_nc_delete"
+msgstr "Törlöd a Mail for Exchange fiókot?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Törlöd az elkezdett szinkronizálást?\n"
+"Fiók beállítások elvesznek."
+
+msgid "activesync_nc_full_sync"
+msgstr "Biztosan leállítod a szonkronizálást?"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Naptár és feladatok"
+
+msgid "activesync_ti_connection"
+msgstr "Kapcsolat"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Bizonyítványok"
+
+msgid "activesync_ti_details"
+msgstr "Utolsó szinkronizálás: Részletek"
+
+msgid "activesync_ti_email"
+msgstr "E-mail"
+
+msgid "activesync_ti_first_sync"
+msgstr "Első szinkronizálás"
+
+msgid "activesync_ti_full_sync"
+msgstr "Teljes szinkronizálás"
+
+msgid "activesync_ti_resync"
+msgstr "Újra szinkronizálás"
+
+msgid "activesync_ti_settings"
+msgstr "Mail for Exchange beállítások"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Naptár és feladatok"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Névjegyzék"
+
+msgid "activesync_ti_sync_email"
+msgstr "E-mail"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Ütemezett szinkronizálás"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Szinkronizálás tartalma"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Bizonyítványok"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Szinkronizálás elkezdése"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Szerver beállítások"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Üdvözöllek"
+
+msgid "activesync_va_added"
+msgstr "Hozzáadott"
+
+msgid "activesync_va_all_entries"
+msgstr "Mindet"
+
+msgid "activesync_va_all_messages"
+msgstr "Minden üzenet"
+
+msgid "activesync_va_always_on"
+msgstr "Mindig be"
+
+msgid "activesync_va_calendar"
+msgstr "Naptár"
+
+msgid "activesync_va_calendar_back"
+msgstr "Naptár vissza szinkronizálása"
+
+msgid "activesync_va_complete"
+msgstr "Kész"
+
+msgid "activesync_va_connected"
+msgstr "Kapcsolódva"
+
+msgid "activesync_va_connecting"
+msgstr "Kapcsolódás"
+
+msgid "activesync_va_contacts"
+msgstr "Névjegyzék"
+
+msgid "activesync_va_create_new"
+msgstr "Új"
+
+msgid "activesync_va_delete_items"
+msgstr "Elemek törlése az eszközön"
+
+msgid "activesync_va_deleted"
+msgstr "Törölve"
+
+msgid "activesync_va_device_wins"
+msgstr "Az eszköz elsőbbséget élvez"
+
+msgid "activesync_va_disconnected"
+msgstr "Megszakítva"
+
+msgid "activesync_va_email"
+msgstr "E-mail"
+
+msgid "activesync_va_error_account_full"
+msgstr "Exchange szerver felhasználói fiókja tele."
+
+msgid "activesync_va_error_address"
+msgstr "Érvénytelen kiszolgalói cím az Exchange szerverhez."
+
+msgid "activesync_va_error_certificate"
+msgstr "Érvénytelen szerver tanúsítvány. Ellenőrizd az idő és dátum beállításokat vagy lépj kapcsolatba szerver adminisztrátorral."
+
+msgid "activesync_va_error_communication"
+msgstr "Hiba az Exchange szerverrel való kommunikációban."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange fiók kikapcsolva. Hozzáférés megszakítva."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Felhasználói tárhely tele"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Érvénytelen felhasználó név vagy jelszó az Exchange fiókhoz."
+
+msgid "activesync_va_error_no_response"
+msgstr "Exchange szerver nem válaszol. Ellenőrizd a fiók beállítások helyességét."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Belső hiba. Távolítsd el az Exchange fiókot az eszközről, inditsd újra az eszközt és kezd a fiók beállítást újra ."
+
+msgid "activesync_va_error_secure"
+msgstr "Hiba. Az Exchange szerver biztonságos kapcsolatot igényel vagy a fiók ki van kapcsolva."
+
+msgid "activesync_va_error_server"
+msgstr "Hiba az Exchange szerveren"
+
+msgid "activesync_va_error_server_policy"
+msgstr "A kötelező Exchange szerver irányelv érvénytelen. Hozzáférés megtagadva."
+
+msgid "activesync_va_error_sync"
+msgstr "Nem lehet szinkronizálni az Exchange szerverrel."
+
+msgid "activesync_va_error_system"
+msgstr "Rendszer hiba az Exchange szerveren."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange szerver nem elérhető"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Nem támogatott szoftver verzió az Exchange szerveren."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Minden 12. órában"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Minden 15 percben"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Minden 30 percben"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Minden 4. órában"
+
+msgid "activesync_va_every_day"
+msgstr "Minden nap"
+
+msgid "activesync_va_every_hour"
+msgstr "Minden órában"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Szinkronizálás inicializálása"
+
+msgid "activesync_va_idle"
+msgstr "Üres járat"
+
+msgid "activesync_va_keep_items"
+msgstr "Elemek eszközön tartása"
+
+msgid "activesync_va_last_sync"
+msgstr "Utolsó szinkronizálás"
+
+msgid "activesync_va_manual"
+msgstr "Manuális"
+
+msgid "activesync_va_never"
+msgstr "Soha"
+
+msgid "activesync_va_one_day"
+msgstr "1 nap"
+
+msgid "activesync_va_one_month"
+msgstr "1 hónap"
+
+msgid "activesync_va_one_week"
+msgstr "1 hét"
+
+msgid "activesync_va_online"
+msgstr "Online"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Küldés a következő szinkronizáláskor"
+
+msgid "activesync_va_send_immediately"
+msgstr "Azonnali küldés"
+
+msgid "activesync_va_server_wins"
+msgstr "A szerver elsőbbséget élvez"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 hónap"
+
+msgid "activesync_va_status"
+msgstr "Állapot"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Utolsó szinkronizálás sikertelen"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Utolsó szinronizálás %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Szinkronizálás folyamatban"
+
+msgid "activesync_va_sync_failed"
+msgstr "Szinkronizálás sikertelen"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Megállítva"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Naptár szinkronizálása: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Névjegyzék szinkronizálása: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "E-mail-ek szinkronizálása: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 nap"
+
+msgid "activesync_va_three_months"
+msgstr "3 hónap"
+
+msgid "activesync_va_today"
+msgstr "Ma"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 hét"
+
+msgid "activesync_va_updated"
+msgstr "Frissítve"
+
