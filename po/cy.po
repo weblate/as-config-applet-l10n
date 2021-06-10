@@ -1,0 +1,514 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2012-02-07 09:59+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Derbyn y risg diogelwch"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Gosodiadau Uwch"
+
+msgid "activesync_bd_continue"
+msgstr "Parhau"
+
+msgid "activesync_bd_details"
+msgstr "Manylion"
+
+msgid "activesync_bd_dont_send"
+msgstr "Peidio â gyrru"
+
+msgid "activesync_bd_edit"
+msgstr "Golygu'r ymateb"
+
+msgid "activesync_bd_ignore"
+msgstr "Anwybyddu"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Cydamseru â llaw"
+
+msgid "activesync_bd_resync"
+msgstr "Cydamseriad Llawn"
+
+msgid "activesync_bd_security_policy"
+msgstr "Cydymffurfio a'r polisi diogelwch"
+
+msgid "activesync_bd_send"
+msgstr "Gyrru"
+
+msgid "activesync_bd_settings"
+msgstr "Gosodiadau"
+
+msgid "activesync_bd_signature"
+msgstr "Llofnod"
+
+msgid "activesync_bd_stop"
+msgstr "Atal cydamseru"
+
+msgid "activesync_bv_accept"
+msgstr "Derbyn"
+
+msgid "activesync_bv_decline"
+msgstr "Gwrthod"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Derbyniwyd:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Gwrthodwyd:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Ansicr:"
+
+msgid "activesync_bv_remove"
+msgstr "Tynnu o'r calendr"
+
+msgid "activesync_bv_tentative"
+msgstr "Ansicr"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Derbyniwyd ar"
+
+msgid "activesync_fi_account_title"
+msgstr "Enw cyfrif"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Datrys gwrthdrawiadau"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Copïo e-byst a yrrir"
+
+msgid "activesync_fi_declined_on"
+msgstr "Gwrthodwyd ar"
+
+msgid "activesync_fi_domain"
+msgstr "Parth"
+
+msgid "activesync_fi_email_address"
+msgstr "Cyfeiriad e-bost"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Ôl bys"
+
+msgid "activesync_fi_invitation"
+msgstr "Gwahoddiad"
+
+msgid "activesync_fi_password"
+msgstr "Cyfrinair"
+
+msgid "activesync_fi_port"
+msgstr "Porth"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Cysylltiad diogel"
+
+msgid "activesync_fi_serial_no"
+msgstr "Rhif cyfresol"
+
+msgid "activesync_fi_server"
+msgstr "Gweinydd"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Testun"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Cydamseru calendr a thasgau"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Cydamseru tasgau a gyflawnwyd"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Cydamseru cysylltiadau"
+
+msgid "activesync_fi_sync_email"
+msgstr "Cydamseru e-bost"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Derbyn yn ansicr ymlaen"
+
+msgid "activesync_fi_username"
+msgstr "Enw defnyddiwr"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Tarwch 'Nesaf' i ddechrau cydamseriad agoriadol neu gwaredwch a'r cyfrif newydd wrth daro y tu allan i'r dewin. Tarwch 'Gosodiadau Uwch' i addasu gosodiadau uwch y cyfrif."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "Mae ôl bys y gweinydd %s wedi newid. Mae hyn yn risg diogelwch: dylech gysylltu â rheolwr y gweinydd"
+
+msgid "activesync_ia_code_change"
+msgstr "Rhaid newid y cod cloi."
+
+msgid "activesync_ia_code_enable"
+msgstr "Rhaid i gloi awtomatig fod wedi ei alluogi."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Rhaid i'r ystod cloi awtomatig fod yn llai na %d munud."
+
+msgid "activesync_ia_enter_password"
+msgstr "Rhowch y cyfrinair ar gyfer tystysgrif %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "Mae'r tystysgrif ar gyfer gweinydd %s yn annilys. Os ydych yn ymddiried yn y gweinydd, gallwch anwybyddu'r rhybudd yma."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Mae'r gweinydd Exchange angen newidiadau i osodiadau cloi'r dyfais."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Mae dewin gosod Mail for Exchange yn eich galluogi i ddiffinio cyfrif Mail for Exchange ar gyfer cydamseru e-byst, calendr, tasgau a chysylltiadau rhwng eich dyfais a gweinydd Exchange. Tarwch 'Nesaf' i barhau."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Methu atal gyrru"
+
+msgid "activesync_in_error_attachment"
+msgstr "Nid oes digon o le i lawrlwytho'r ymlyniad."
+
+msgid "activesync_in_error_server_type"
+msgstr "Nid yw'r gweinydd a gyfluniwyd yn weinydd Exchange"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "Nid yw'r dyfais yn cydymffurfio gyda'r newid polisi diogelwch. Cysylltwch a'ch rheolwr system."
+
+msgid "activesync_in_pcsuite"
+msgstr "Nodwch nad yw'n argymelledig i ddefnyddio cydamseru PC Suite ynghyd â Mail for Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange eisoes ar agor"
+
+msgid "activesync_li_calendar"
+msgstr "Calendr"
+
+msgid "activesync_li_first_sync"
+msgstr "Cydamseriad agoriadol"
+
+msgid "activesync_li_messages_back"
+msgstr "Cydamseru negeseuon yn ôl"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Amserlen oriau trai"
+
+msgid "activesync_li_peak_days"
+msgstr "Dyddiau brig"
+
+msgid "activesync_li_peak_end"
+msgstr "Diwedd oriau brig"
+
+msgid "activesync_li_peak_start"
+msgstr "Dechrau oriau brig"
+
+msgid "activesync_li_peak_sync"
+msgstr "Amserlen oriau brig"
+
+msgid "activesync_li_send_policy"
+msgstr "Pan yn gyrru e-bost"
+
+msgid "activesync_nc_certificate"
+msgstr "Derbyn tystysgrif addasedig? Cysylltwch â rheolwr y gweinydd yn gyntaf."
+
+msgid "activesync_nc_delete"
+msgstr "Dileu cyfrif Mail for Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr "Atal y cydamseriad agoriadol? Dilëir gosodiadau'r cyfrif."
+
+msgid "activesync_nc_full_sync"
+msgstr "A ydych yn siŵr eich bod am atal y cydamseriad?"
+
+msgid "activesync_ti_accepting"
+msgstr "Derbyn gwahoddiad"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Calendr a thasgau"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Tystysgrif wedi ei newid"
+
+msgid "activesync_ti_connection"
+msgstr "Cysylltiad"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Cymwysterau"
+
+msgid "activesync_ti_declining"
+msgstr "Gwrthod gwahoddiad"
+
+msgid "activesync_ti_details"
+msgstr "Cydamseriad diwethaf: Manylion"
+
+msgid "activesync_ti_device_lock"
+msgstr "Newid gosodiadau cloi'r dyfais"
+
+msgid "activesync_ti_email"
+msgstr "E-bost"
+
+msgid "activesync_ti_first_sync"
+msgstr "Cydamseriad cyntaf"
+
+msgid "activesync_ti_full_sync"
+msgstr "Cydamseriad llawn"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Tystysgrif annilys"
+
+msgid "activesync_ti_password"
+msgstr "Diogelwyd â chyfrinair"
+
+msgid "activesync_ti_resync"
+msgstr "Ail gydamseru"
+
+msgid "activesync_ti_settings"
+msgstr "Gosodiadau Mail for Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Calendr a thasgau"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Cysylltiadau"
+
+msgid "activesync_ti_sync_email"
+msgstr "E-bost"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Amserlen cydamseru"
+
+msgid "activesync_ti_tentatively"
+msgstr "Derbyn gwahoddiad yn ansicr"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Cynnwys cydamseru"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Cymwysterau"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Dechrau cydamseru"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Gosodiadau gweinydd"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Croeso"
+
+msgid "activesync_va_added"
+msgstr "Ychwanegwyd"
+
+msgid "activesync_va_all_entries"
+msgstr "Pob cofnod"
+
+msgid "activesync_va_all_messages"
+msgstr "Pob neges"
+
+msgid "activesync_va_always_on"
+msgstr "Wastad ymlaen"
+
+msgid "activesync_va_calendar"
+msgstr "Calendr"
+
+msgid "activesync_va_calendar_back"
+msgstr "Cydamseru calendr yn ôl"
+
+msgid "activesync_va_changed_policy"
+msgstr "Newid mewn polisi diogelwch"
+
+msgid "activesync_va_complete"
+msgstr "Cwblhawyd"
+
+msgid "activesync_va_connected"
+msgstr "Cysylltwyd"
+
+msgid "activesync_va_connecting"
+msgstr "Yn cysylltu"
+
+msgid "activesync_va_contacts"
+msgstr "Cysylltiadau"
+
+msgid "activesync_va_create_new"
+msgstr "Creu"
+
+msgid "activesync_va_delete_items"
+msgstr "Dileu eitemau ar y dyfais"
+
+msgid "activesync_va_deleted"
+msgstr "Dileuwyd"
+
+msgid "activesync_va_device_wins"
+msgstr "Dyfais sydd â blaenoriaeth"
+
+msgid "activesync_va_disconnected"
+msgstr "Datgysylltwyd"
+
+msgid "activesync_va_email"
+msgstr "E-bost"
+
+msgid "activesync_va_error_account_full"
+msgstr "Mae'r cyfrif defnyddiwr ar y gweinydd Exchange yn llawn."
+
+msgid "activesync_va_error_address"
+msgstr "Cyfeiriad annilys ar gyfer gweinydd Exchange."
+
+msgid "activesync_va_error_certificate"
+msgstr "Tystysgrif gweinydd annilys. Gwiriwch eich gosodiadau amser a dyddiad, neu cysylltwch a'ch rheolwr system."
+
+msgid "activesync_va_error_communication"
+msgstr "Gwall wrth gyfathrebu a'r gweinydd Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "Analluogwyd y cyfrif Exchange. Gwrthodir mynediad."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Storfa defnyddiwr yn llawn"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Enw, cyfrinair neu barth annilys ar gyfer y cyfrif Exchange."
+
+msgid "activesync_va_error_maintenance"
+msgstr "Mae'r gweinydd Exchange yn derbyn gwaith cynnal. Nid yw'r gwasanaeth cydamseru ar gael."
+
+msgid "activesync_va_error_no_response"
+msgstr "Nid yw'r gweinydd Exchange yn ymateb. Gwiriwch fod gosodiadau'r cyfrif yn gywir."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Gwall mewnol. Tynnwch y cyfrif Exchange o'r dyfais, ailddechreuwch y dyfais, yna ail-grëwch y cyfrif."
+
+msgid "activesync_va_error_secure"
+msgstr "Gwall. Naill ai mae'r gweinydd Exchange yn mynnu cysylltiad diogel neu mae'r cyfrif wedi ei analluogi."
+
+msgid "activesync_va_error_server"
+msgstr "Gwall yn y gweinydd Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Methodd polisi diogelwch ofynnol y gweinydd Exchange. Gwrthodir mynediad."
+
+msgid "activesync_va_error_sync"
+msgstr "Methu cydamseru gyda'r gweinydd Exchange."
+
+msgid "activesync_va_error_system"
+msgstr "Gwall system ar y gweinydd Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Nid yw'r gweinydd Exchange ar gael"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Fersiwn meddalwedd anghydnaws ar y gweinydd Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Bob 12 awr"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Bob 15 munud"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Bob 30 munud"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Bob 4 awr"
+
+msgid "activesync_va_every_day"
+msgstr "Yn dyddiol"
+
+msgid "activesync_va_every_hour"
+msgstr "Bob awr"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Yn dechrau cydamseru"
+
+msgid "activesync_va_idle"
+msgstr "Segur"
+
+msgid "activesync_va_keep_items"
+msgstr "Cadw eitemau ar y dyfais"
+
+msgid "activesync_va_last_sync"
+msgstr "Cydamseriad diwethaf"
+
+msgid "activesync_va_manual"
+msgstr "Â llaw"
+
+msgid "activesync_va_never"
+msgstr "Byth"
+
+msgid "activesync_va_one_day"
+msgstr "1 diwrnod"
+
+msgid "activesync_va_one_month"
+msgstr "1 mis"
+
+msgid "activesync_va_one_week"
+msgstr "1 wythnos"
+
+msgid "activesync_va_online"
+msgstr "Ar-lein"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Gyrru ar y cydamseriad nesaf"
+
+msgid "activesync_va_send_immediately"
+msgstr "Gyrru ar unwaith"
+
+msgid "activesync_va_server_wins"
+msgstr "Gweinydd sydd â blaenoriaeth"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 mis"
+
+msgid "activesync_va_status"
+msgstr "Statws"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Methodd y cydamseriad diwethaf"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Cydamseriad diwethaf %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Cydamseru"
+
+msgid "activesync_va_sync_failed"
+msgstr "Methodd y cydamseru"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Aros"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Yn cydamseru calendr: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Yn cydamseru cysylltiadau: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "Yn cydamseru e-bost: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 diwrnod"
+
+msgid "activesync_va_three_months"
+msgstr "3 mis"
+
+msgid "activesync_va_today"
+msgstr "Heddiw"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 wythnos"
+
+msgid "activesync_va_updated"
+msgstr "Diweddarwyd"
