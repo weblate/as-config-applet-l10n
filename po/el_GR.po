@@ -1,0 +1,513 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Αποδοχή ρίσκου ασφαλείας"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Προχωρημένες ρυθμίσεις"
+
+msgid "activesync_bd_continue"
+msgstr "Συνέχεια"
+
+msgid "activesync_bd_details"
+msgstr "Λεπτομέρειες"
+
+msgid "activesync_bd_dont_send"
+msgstr "Να μην αποσταλεί"
+
+msgid "activesync_bd_edit"
+msgstr "Επεξεργασία απάντησης"
+
+msgid "activesync_bd_ignore"
+msgstr "Αγνόησε"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Χειροκίνητος συγχρονισμός"
+
+msgid "activesync_bd_resync"
+msgstr "Επανάληψη συγχρονισμού"
+
+msgid "activesync_bd_security_policy"
+msgstr "Συμμόρφωση με πολιτική ασφαλείας"
+
+msgid "activesync_bd_send"
+msgstr "Αποστολή"
+
+msgid "activesync_bd_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "activesync_bd_signature"
+msgstr "Υπογραφή"
+
+msgid "activesync_bd_stop"
+msgstr "Διακοπή συγχρονισμού"
+
+msgid "activesync_bv_accept"
+msgstr "Αποδοχή"
+
+msgid "activesync_bv_decline"
+msgstr "Απόρριψη"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Αποδέχτηκαν:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Απέρριψαν:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Διστακτικά:"
+
+msgid "activesync_bv_remove"
+msgstr "Διαγραφή από το ημερολόγιο"
+
+msgid "activesync_bv_tentative"
+msgstr "Διστακτικά"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Αποδέχτηκαν την"
+
+msgid "activesync_fi_account_title"
+msgstr "Όνομα λογαριασμού"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Διευθέτηση των συγκρουόμενων αλλαγών"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Αντιγραφή εξερχόμενων e-mail"
+
+msgid "activesync_fi_declined_on"
+msgstr "Απέρριψαν την"
+
+msgid "activesync_fi_domain"
+msgstr "Τομέας"
+
+msgid "activesync_fi_email_address"
+msgstr "Διεύθυνση e-mail"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Αποτύπωμα πιστοποιητικού"
+
+msgid "activesync_fi_invitation"
+msgstr "Πρόσκληση"
+
+msgid "activesync_fi_password"
+msgstr "Κωδικός"
+
+msgid "activesync_fi_port"
+msgstr "Θύρα"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Ασφαλής σύνδεση"
+
+msgid "activesync_fi_serial_no"
+msgstr "Σειριακός αριθμός"
+
+msgid "activesync_fi_server"
+msgstr "Διακομιστής"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Θέμα"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Συγχρονισμός ημερολογίου και εργασιών"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Συγχρονισμός ολοκληρωμένων εργασιών"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Συγχρονισμός επαφών"
+
+msgid "activesync_fi_sync_email"
+msgstr "Συγχρονισμός e-mail"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Διστακτικά αποδέχθει την"
+
+msgid "activesync_fi_username"
+msgstr "Όνομα χρήστη"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Επιλέξτε 'Επόμενο' για να ξεκινήσετε τον πρώτο συγχρονισμό ή πατήστε έξω από τον οδηγό για ακύρωση του νέου λογαριασμού.\n\nΕπιλέξτε 'Προχωρημένες ρυθμίσεις' για να τροποποιήσετε τις προχωρημένες ρυθμίσεις του λογαριασμού."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "Το αποτύπωμα πιστοποιητικού του διακομιστή %s έχει αλλάξει.\nΠιθανό πρόβλημα ασφαλείας, επικοινωνήστε με τον διαχειριστή"
+
+msgid "activesync_ia_code_change"
+msgstr "Ο κωδικός κλειδώματος πρέπει να αλλαχθεί."
+
+msgid "activesync_ia_code_enable"
+msgstr "Το αυτόματο κλείδωμα συσκευής πρέπει να είναι ενεργοποιημένο."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Ο χρόνος αυτόματου κλειδώματος συσκευής πρέπει να είναι μικρότερος από %d λεπτά."
+
+msgid "activesync_ia_enter_password"
+msgstr "Εισάγετε τον κωδικό πρόσβασης για το πιστοποιητικό %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "Το πιστοποιητικό για τον διακομιστή %s είναι μη έγκυρο. Εάν ο διακομιστής είναι αξιόπιστος, αγνοήστε αυτή την προειδοποίηση."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Ο διακομιστής Exchange απαιτεί αλλαγές στις ρυθμίσεις κλειδώματος της συσκευής."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Ο οδηγός ρύθμισης του Mail for Exchange σας επιτρέπει να ορίσετε ένα λογαριασμό για e-mail, ημερολόγιο, εργασίες και συγχρονισμό επαφών ανάμεσα στη συσκευή σας και στον εξυπηρετητή Exchange.\n\nΕπιλέξτε 'Επόμενο' για να συνεχίσετε."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Ανικανότητα ακύρωσης της αποστολής"
+
+msgid "activesync_in_error_attachment"
+msgstr "Δεν επαρκεί ο χώρος για την λήψη της επισύναψης."
+
+msgid "activesync_in_error_server_type"
+msgstr "Ο διαμορφωμένος διακομιστής δεν είναι διακομιστής Exchange"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "H συσκευή δεν συμμορφώνεται με την αλλαγή της πολιτικής ασφάλειας. Επικοινωνήστε με το διαχειριστή σας."
+
+msgid "activesync_in_pcsuite"
+msgstr "Σημειώστε ότι δεν συνιστάται να χρησιμοποιείτε το συγχρονισμό του PC Suite και του Mail for Exchange ταυτόχρονα."
+
+msgid "activesync_in_wizard_open"
+msgstr "Ο οδηγός για το Mail for Exchange είναι ήδη ανοιχτός."
+
+msgid "activesync_li_calendar"
+msgstr "Ημερολόγιο"
+
+msgid "activesync_li_first_sync"
+msgstr "Πρώτος συγχρονισμός"
+
+msgid "activesync_li_messages_back"
+msgstr "Συγχρονισμός παλαιότερων μηνυμάτων"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Χρονοδιάγραμμα μη αιχμής"
+
+msgid "activesync_li_peak_days"
+msgstr "Ημέρες αιχμής"
+
+msgid "activesync_li_peak_end"
+msgstr "Τέλος χρόνου αιχμής"
+
+msgid "activesync_li_peak_start"
+msgstr "Αρχή χρόνου αιχμής"
+
+msgid "activesync_li_peak_sync"
+msgstr "Χρονοδιάγραμμα αιχμής"
+
+msgid "activesync_li_send_policy"
+msgstr "Αποστολή e-mail"
+
+msgid "activesync_nc_certificate"
+msgstr "Να γίνει αποδοχή της αλλαγής πιστοποιητικού; Συμβουλευτείτε τον διαχειριστή του διακομιστή πριν από την αποδοχή."
+
+msgid "activesync_nc_delete"
+msgstr "Διαγραφή μηνύματος για τον λογαριασμό Exchange;"
+
+msgid "activesync_nc_first_sync"
+msgstr "Ακύρωση πρώτου συγχρονισμού;\nΤα στοιχεία του λογαριασμού θα χαθούν."
+
+msgid "activesync_nc_full_sync"
+msgstr "Είστε βέβαιος ότι θέλετε να σταματήσει ο συγχρονισμός;"
+
+msgid "activesync_ti_accepting"
+msgstr "Αποδοχή της πρόσκλησης"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Ημερολόγιο και εργασίες"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Έγινε αλλαγή πιστοποιητικού"
+
+msgid "activesync_ti_connection"
+msgstr "Σύνδεση"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Πιστοποιητικά"
+
+msgid "activesync_ti_declining"
+msgstr "Απόρριψη της πρόσκλησης"
+
+msgid "activesync_ti_details"
+msgstr "Τελευταίος συγχρονισμός: Λεπτομέρειες"
+
+msgid "activesync_ti_device_lock"
+msgstr "Αλλαγή των ρυθμίσεων κλειδώματος συσκευής"
+
+msgid "activesync_ti_email"
+msgstr "Μηνύματα"
+
+msgid "activesync_ti_first_sync"
+msgstr "Πρώτος συγχρονισμός"
+
+msgid "activesync_ti_full_sync"
+msgstr "Πλήρης συγχρονισμός"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Μη έγκυρο πιστοποιητικό"
+
+msgid "activesync_ti_password"
+msgstr "Προστατευόμενο με κωδικό"
+
+msgid "activesync_ti_resync"
+msgstr "Επανάληψη συγχρονισμού"
+
+msgid "activesync_ti_settings"
+msgstr "Ρυθμίσεις του Mail for Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Ημερολόγιο και εργασίες"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Επαφές"
+
+msgid "activesync_ti_sync_email"
+msgstr "Διεύθυνση e-mail"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Προγραμματισμός συγχρονισμού"
+
+msgid "activesync_ti_tentatively"
+msgstr "Διστακτική αποδοχή της πρόσκλησης"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Περιεχόμενο συγχρονισμού"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Πιστοποιητικά"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Εκκίνηση συγχρονισμού"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Ρυθμίσεις διακομιστή"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Καλώς ήρθατε"
+
+msgid "activesync_va_added"
+msgstr "Προστέθηκε"
+
+msgid "activesync_va_all_entries"
+msgstr "Όλες οι καταχωρήσεις"
+
+msgid "activesync_va_all_messages"
+msgstr "Όλα τα μηνύματα"
+
+msgid "activesync_va_always_on"
+msgstr "Πάντα ενεργοποιημένο"
+
+msgid "activesync_va_calendar"
+msgstr "Ημερολόγιο"
+
+msgid "activesync_va_calendar_back"
+msgstr "Συγχρονισμός του ημερολογίου εως "
+
+msgid "activesync_va_changed_policy"
+msgstr "Αλλαγή στην πολιτική ασφαλείας"
+
+msgid "activesync_va_complete"
+msgstr "Ολοκληρωμένο"
+
+msgid "activesync_va_connected"
+msgstr "Συνδεδεμένο"
+
+msgid "activesync_va_connecting"
+msgstr "Σύνδεση"
+
+msgid "activesync_va_contacts"
+msgstr "Επαφές"
+
+msgid "activesync_va_create_new"
+msgstr "Δημιουργία νέου"
+
+msgid "activesync_va_delete_items"
+msgstr "Διαγραφή αντικειμένων στη συσκευή"
+
+msgid "activesync_va_deleted"
+msgstr "Διαγράφηκε"
+
+msgid "activesync_va_device_wins"
+msgstr "Η συσκευή έχει προτεραιότητα"
+
+msgid "activesync_va_disconnected"
+msgstr "Αποσυνδέθηκε"
+
+msgid "activesync_va_email"
+msgstr "E-mail"
+
+msgid "activesync_va_error_account_full"
+msgstr "Ο λογαριασμός του χρήστη στον διακομιστή Exchange είναι πλήρης."
+
+msgid "activesync_va_error_address"
+msgstr "Άκυρη τοπική διεύθυνση για τον διακομιστή Exchange."
+
+msgid "activesync_va_error_certificate"
+msgstr "Το πιστοποιητικό του διακομιστή είναι άκυρο. Ελέγξτε την ώρα της συσκευής ή επικοινωνήστε με τον διαχειριστή του διακομιστή."
+
+msgid "activesync_va_error_communication"
+msgstr "Σφάλμα στην επικοινωνία με τον διακομιστή Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "Ο λογαριασμός Exchange είναι απενεργοποιημένος. Μη δυνατή η πρόσβαση."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Ο αποθηκευτικός χώρος του χρήστη είναι πλήρης"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Λάθος όνομα χρήστη, κωδικός ή τομέας για τον λογαριασμό Exchange."
+
+msgid "activesync_va_error_maintenance"
+msgstr "Ο διακομιστής Exchange βρίσκεται στο στάδιο συντήρησης. Η υπηρεσία συγχρονισμού δεν είναι διαθέσιμη."
+
+msgid "activesync_va_error_no_response"
+msgstr "Ο διακομιστής Exchange δεν ανταποκρίνεται. Βεβαιωθείτε ότι οι ρυθμίσεις του λογαριασμού είναι σωστές."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Εσωτερικό σφάλμα. Διαγράψτε τον λογαριασμό Exchange, κάντε επανεκκίνηση τη συσκευή και κάντε τις ρυθμίσεις από την αρχή."
+
+msgid "activesync_va_error_secure"
+msgstr "Σφάλμα. Είτε ο διακομιστής Exchange χρειάζεται ασφαλή σύνδεση ή ο λογαριασμός είναι απενεργοποιημένος."
+
+msgid "activesync_va_error_server"
+msgstr "Σφάλμα στον διακομιστή Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Η προσπέλαση του συμβολαίου ασφάλειας του διακομιστή Exchange απέτυχε. Η πρόσβαση είναι αδύνατη."
+
+msgid "activesync_va_error_sync"
+msgstr "Αδυναμία συγχρονισμού με τον διακομιστή Exchange."
+
+msgid "activesync_va_error_system"
+msgstr "Σφάλμα του συστήματος στον διακομιστή Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Ο διακομιστής Exchange δεν είναι διαθέσιμος."
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Δεν υποστηρίζεται η έκδοση του λογισμικού στον διακομιστή Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Κάθε 12 ώρες"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Κάθε 15 λεπτά"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Κάθε 30 λεπτά"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Κάθε 4 ώρες"
+
+msgid "activesync_va_every_day"
+msgstr "Κάθε μέρα"
+
+msgid "activesync_va_every_hour"
+msgstr "Κάθε ώρα"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Γίνεται συγχρονισμός"
+
+msgid "activesync_va_idle"
+msgstr "Αδρανής"
+
+msgid "activesync_va_keep_items"
+msgstr "Διατήρηση αντικειμένων στη συσκευή"
+
+msgid "activesync_va_last_sync"
+msgstr "Τελευταίος συγχρονισμός"
+
+msgid "activesync_va_manual"
+msgstr "Χειροκίνητα"
+
+msgid "activesync_va_never"
+msgstr "Ποτέ"
+
+msgid "activesync_va_one_day"
+msgstr "1 ημέρα"
+
+msgid "activesync_va_one_month"
+msgstr "1 μήνα"
+
+msgid "activesync_va_one_week"
+msgstr "1 εβδομάδα"
+
+msgid "activesync_va_online"
+msgstr "Διαθέσιμος"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Αποστολή με τον επόμενο συγχρονισμό"
+
+msgid "activesync_va_send_immediately"
+msgstr "Άμεση αποστολή"
+
+msgid "activesync_va_server_wins"
+msgstr "Ο διακομιστής έχει προτεραιότητα"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 μήνες"
+
+msgid "activesync_va_status"
+msgstr "Κατάσταση"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Ο τελευταίος συγχρονισμός απέτυχε"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Τελ. συγχρονισμός %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Γίνεται συγχρονισμός"
+
+msgid "activesync_va_sync_failed"
+msgstr "Ο συγχρονισμός απέτυχε"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Διακόπηκε"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Συγχρονισμός ημερολογίου: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Συγχρονισμός επαφών: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "Συγχρονισμός e-mail: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 ημέρες"
+
+msgid "activesync_va_three_months"
+msgstr "3 μήνες"
+
+msgid "activesync_va_today"
+msgstr "Σήμερα"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 εβδομάδες"
+
+msgid "activesync_va_updated"
+msgstr "Ενημερώθηκε"
