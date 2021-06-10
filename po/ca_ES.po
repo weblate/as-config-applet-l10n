@@ -1,0 +1,514 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2011-03-22 15:31+0000\n"
+"Last-Translator: Toni Hermoso Pulido <toniher@softcatala.cat>\n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Accepta el risc de seguretat"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Configuració avançada"
+
+msgid "activesync_bd_continue"
+msgstr "Continua"
+
+msgid "activesync_bd_details"
+msgstr "Detalls"
+
+msgid "activesync_bd_dont_send"
+msgstr "No enviïs"
+
+msgid "activesync_bd_edit"
+msgstr "Edita la resposta"
+
+msgid "activesync_bd_ignore"
+msgstr "Ignora"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Sincronitza manualment"
+
+msgid "activesync_bd_resync"
+msgstr "Resincronització completa"
+
+msgid "activesync_bd_security_policy"
+msgstr "Compleix amb la política de seguretat"
+
+msgid "activesync_bd_send"
+msgstr "Envia"
+
+msgid "activesync_bd_settings"
+msgstr "Configuració"
+
+msgid "activesync_bd_signature"
+msgstr "Signatura"
+
+msgid "activesync_bd_stop"
+msgstr "Atura la sincronització"
+
+msgid "activesync_bv_accept"
+msgstr "Accepta"
+
+msgid "activesync_bv_decline"
+msgstr "Refusa"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Acceptat:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Refusat:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Intentat:"
+
+msgid "activesync_bv_remove"
+msgstr "Esborra del calendari"
+
+msgid "activesync_bv_tentative"
+msgstr "Intenta"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Acceptat a"
+
+msgid "activesync_fi_account_title"
+msgstr "Titol del compte"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Resolució del conlicte"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Copia correu-e sortint"
+
+msgid "activesync_fi_declined_on"
+msgstr "Refusat a"
+
+msgid "activesync_fi_domain"
+msgstr "Domini"
+
+msgid "activesync_fi_email_address"
+msgstr "Adreça de correu-e"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Empremta"
+
+msgid "activesync_fi_invitation"
+msgstr "Invitació"
+
+msgid "activesync_fi_password"
+msgstr "Contrassenya"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Connexió segura"
+
+msgid "activesync_fi_serial_no"
+msgstr "Número de serie"
+
+msgid "activesync_fi_server"
+msgstr "Servidor"
+
+msgid "activesync_fi_status_menu"
+msgstr "Correu de l'Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Tema"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Sincronitza calendari i tasques"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Sincronitza tasques acomplertes"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Sincronitza contactes"
+
+msgid "activesync_fi_sync_email"
+msgstr "Sincronitza correu-e"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Intent acceptat a:"
+
+msgid "activesync_fi_username"
+msgstr "Nom d'usuari"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Toqueu 'Següent' per començar la sincronització inicial o descartar el nou compte prement fora de l'assistent.\n\nToqueu 'Paràmetres avançats' per modificar els paràmetres avançats del compte."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "L'empremta del certificat del servidor %s ha canviat.\nAixò és un risc de seguretat, si-vos-plau contacteu el vostre administrador de sistemes."
+
+msgid "activesync_ia_code_change"
+msgstr "El codi de bloqueig ha de ser canviat."
+
+msgid "activesync_ia_code_enable"
+msgstr "El bloqueig automàtic del dispositiu ha d'estar activat."
+
+msgid "activesync_ia_code_timeout"
+msgstr "El temps de bloqueig automàtic del dispositiu ha de ser de menys de %d minuts."
+
+msgid "activesync_ia_enter_password"
+msgstr "Introduiu la contrassenya pel vertificat %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "El certificat pel servidor %s és invàlid. Si el servidor és confiable, ignoreu aquest avís."
+
+msgid "activesync_ia_lock_settings"
+msgstr "El servidor d'Exchange requereix canvis en la configuració de bloqueig del dispositiu."
+
+msgid "activesync_ia_wizard_text"
+msgstr "L'auxiliar de configuració del correu del l'Exchange us permet definir un compte de d'Exchange per a la sincronització del correu-e, el calendari, les tasques i les tasques entre el seu dispositiu i un servidor Exchange.\n\nToqueu 'Següent' per continuar."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "És impossible cancel·lar l'enviament."
+
+msgid "activesync_in_error_attachment"
+msgstr "no hi ha espai suicient per baixar l'adjunt."
+
+msgid "activesync_in_error_server_type"
+msgstr "El servidor configurat no és un servidor Exchange."
+
+msgid "activesync_in_incompatible_policy"
+msgstr "El dispositiu no acompleix el canvi de polítiques de seguretat, contacti el seu administrador."
+
+msgid "activesync_in_pcsuite"
+msgstr "Preneu nota que no es recomana l'ús de la sincornització PC Suite simultàniament amb el correu de l0Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "L'auxiliar de correu de l'Exchange ja és obert"
+
+msgid "activesync_li_calendar"
+msgstr "Calendari"
+
+msgid "activesync_li_first_sync"
+msgstr "Primera sincronització"
+
+msgid "activesync_li_messages_back"
+msgstr "Sincronitza missatges un altre cop"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Programació fora d'hores punta"
+
+msgid "activesync_li_peak_days"
+msgstr "dies punta"
+
+msgid "activesync_li_peak_end"
+msgstr "Hora de fi d'hora punta"
+
+msgid "activesync_li_peak_start"
+msgstr "Hora d'inici d'hora punta"
+
+msgid "activesync_li_peak_sync"
+msgstr "Programació en hora punta"
+
+msgid "activesync_li_send_policy"
+msgstr "En enviar per correu-e"
+
+msgid "activesync_nc_certificate"
+msgstr "Accepteu el certiicat modificat? Consulteu l'administrador del servidor abans d'acceptar."
+
+msgid "activesync_nc_delete"
+msgstr "Voleu eliminar el compte de l'Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr "Es cancel·la la sincronització inicial?\nEs perdrà la configuració del compte."
+
+msgid "activesync_nc_full_sync"
+msgstr "Esteu segur que voleu aturar la sincronització?"
+
+msgid "activesync_ti_accepting"
+msgstr "Accepta la invitació"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Calendari i tasques"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Certificat canviat"
+
+msgid "activesync_ti_connection"
+msgstr "Connexió"
+
+msgid "activesync_ti_cpa"
+msgstr "Correu de l'Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Credencials"
+
+msgid "activesync_ti_declining"
+msgstr "Declina la invitació"
+
+msgid "activesync_ti_details"
+msgstr "Última sincronització: Detalls"
+
+msgid "activesync_ti_device_lock"
+msgstr "Canvia els paràmetres de bloqueig del dispositiu"
+
+msgid "activesync_ti_email"
+msgstr "Correu electrònic"
+
+msgid "activesync_ti_first_sync"
+msgstr "Primera sincronització"
+
+msgid "activesync_ti_full_sync"
+msgstr "Plena sincronització"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "El certificat no és vàlid"
+
+msgid "activesync_ti_password"
+msgstr "Protegida amb contrasenya"
+
+msgid "activesync_ti_resync"
+msgstr "Resincronització"
+
+msgid "activesync_ti_settings"
+msgstr "Pàrametres del correu de l'Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Calendari i contactes"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Contactes"
+
+msgid "activesync_ti_sync_email"
+msgstr "Correu electrònic"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Sincronitza l'horari"
+
+msgid "activesync_ti_tentatively"
+msgstr "Accepta la invitació provisionalment"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Contingut de sincronització"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Credencials"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Inicia la sincronització"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Paràmetres del servidor"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Benvinguda"
+
+msgid "activesync_va_added"
+msgstr "S'ha afegit"
+
+msgid "activesync_va_all_entries"
+msgstr "Totes les entrades"
+
+msgid "activesync_va_all_messages"
+msgstr "Tots els missatges"
+
+msgid "activesync_va_always_on"
+msgstr "Sempre activat"
+
+msgid "activesync_va_calendar"
+msgstr "Calendari"
+
+msgid "activesync_va_calendar_back"
+msgstr "Torna a sincronitzar el calendari"
+
+msgid "activesync_va_changed_policy"
+msgstr "Canvi en la política de seguretat"
+
+msgid "activesync_va_complete"
+msgstr "S'ha acabat"
+
+msgid "activesync_va_connected"
+msgstr "S'ha connectat"
+
+msgid "activesync_va_connecting"
+msgstr "S'està connectant"
+
+msgid "activesync_va_contacts"
+msgstr "Contactes"
+
+msgid "activesync_va_create_new"
+msgstr "Crea'n una nova"
+
+msgid "activesync_va_delete_items"
+msgstr "Suprimeix els elements en el dispositiu"
+
+msgid "activesync_va_deleted"
+msgstr "S'ha suprimit"
+
+msgid "activesync_va_device_wins"
+msgstr "El dispositiu té prioritat"
+
+msgid "activesync_va_disconnected"
+msgstr "S'ha desconnectat"
+
+msgid "activesync_va_email"
+msgstr "Correu electrònic"
+
+msgid "activesync_va_error_account_full"
+msgstr "El compte d'usuari del servidor Exchange està ple."
+
+msgid "activesync_va_error_address"
+msgstr "L'adreça del servidor intermediari d'Exchange no és vàlida."
+
+msgid "activesync_va_error_certificate"
+msgstr "El certificat del servidor no és vàlid. Comproveu l'hora del dispositiu i els paràmetres de data o contacteu amb l'administrador del servidor."
+
+msgid "activesync_va_error_communication"
+msgstr "Error de comunicació amb el servidor Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "El compte d'Exchange és inhabilitat. Rebutjat l'accés."
+
+msgid "activesync_va_error_disk_full"
+msgstr "L'emmagatzemament d'usuari està ple"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "El nom d'usuari, la contrasenya o el domini del compte d'Exchange no són vàlids."
+
+msgid "activesync_va_error_maintenance"
+msgstr "El servidor d'Exchange és en manteniment. El servei de sincronització no és disponible."
+
+msgid "activesync_va_error_no_response"
+msgstr "El servidor Exchange no respon. Verifiqueu que els paràmetres del compte són correctes."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Error intern. Suprimiu el compte d'Exchange del dispositiu, reinicieu-lo i configureu-lo de nou."
+
+msgid "activesync_va_error_secure"
+msgstr "Error. O el servidor d'Exchange necessita connexió segura o el compte és inhabilitat."
+
+msgid "activesync_va_error_server"
+msgstr "S'ha produït un error en el servidor Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "La política obligatòria del servidor Exchange ha fallat. S'ha rebutjat l'accés."
+
+msgid "activesync_va_error_sync"
+msgstr "No s'ha pogut sincronitzar amb el servidor Exchange."
+
+msgid "activesync_va_error_system"
+msgstr "Error de sistema en el servidor Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "El servidor Exchange no està disponible"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "La versió del programari no acceptada en el servidor Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Cada 12 hores"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Cada 15 minuts"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Cada 30 minuts"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Cada 4 hores"
+
+msgid "activesync_va_every_day"
+msgstr "Cada dia"
+
+msgid "activesync_va_every_hour"
+msgstr "Cada hora"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "S'està inicialitzant la sincronització"
+
+msgid "activesync_va_idle"
+msgstr "Inactiu"
+
+msgid "activesync_va_keep_items"
+msgstr "Conserva els elements en el dispositiu"
+
+msgid "activesync_va_last_sync"
+msgstr "Darrera sincronització"
+
+msgid "activesync_va_manual"
+msgstr "Manual"
+
+msgid "activesync_va_never"
+msgstr "Mai"
+
+msgid "activesync_va_one_day"
+msgstr "1 dia"
+
+msgid "activesync_va_one_month"
+msgstr "1 mes"
+
+msgid "activesync_va_one_week"
+msgstr "1 setmana"
+
+msgid "activesync_va_online"
+msgstr "En línia"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Envia a la sincronització següent"
+
+msgid "activesync_va_send_immediately"
+msgstr "Envia immediatamanet"
+
+msgid "activesync_va_server_wins"
+msgstr "El servidor pren la prioritat"
+
+msgid "activesync_va_service_provider"
+msgstr "Correu de l'Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 mesos"
+
+msgid "activesync_va_status"
+msgstr "Estat"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Ha fallat la darrera sincronització"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Darrera sincronització %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "S'està sincronitzant"
+
+msgid "activesync_va_sync_failed"
+msgstr "La sincronització ha fallat"
+
+msgid "activesync_va_sync_stopped"
+msgstr "S'ha aturat"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Sincronització del calendari: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Sincronització dels contactes: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "Sincronització del correu: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 dies"
+
+msgid "activesync_va_three_months"
+msgstr "3 mesos"
+
+msgid "activesync_va_today"
+msgstr "Avui"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 setmanes"
+
+msgid "activesync_va_updated"
+msgstr "S'ha actualitzat"
