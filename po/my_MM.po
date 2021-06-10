@@ -1,0 +1,513 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: my\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Accept security risk"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "အထူး ဆက္တင္"
+
+msgid "activesync_bd_continue"
+msgstr "Continue"
+
+msgid "activesync_bd_details"
+msgstr "အေသးစိတ္"
+
+msgid "activesync_bd_dont_send"
+msgstr "Don’t send"
+
+msgid "activesync_bd_edit"
+msgstr "Edit response"
+
+msgid "activesync_bd_ignore"
+msgstr "Ignore"
+
+msgid "activesync_bd_manual_sync"
+msgstr "ကိုယ္တိုင္ ကူးေျပာင္းမည္"
+
+msgid "activesync_bd_resync"
+msgstr "အျပည့္ ျပန္လည္ကူးေျပာင္းမည္"
+
+msgid "activesync_bd_security_policy"
+msgstr "Comply with security policy"
+
+msgid "activesync_bd_send"
+msgstr "Send"
+
+msgid "activesync_bd_settings"
+msgstr "ဆက္တင္"
+
+msgid "activesync_bd_signature"
+msgstr "လက္မွတ္"
+
+msgid "activesync_bd_stop"
+msgstr "ကူးေျပာင္းျခင္း ရပ္မည္"
+
+msgid "activesync_bv_accept"
+msgstr "Accept"
+
+msgid "activesync_bv_decline"
+msgstr "Decline"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Accepted:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Declined:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Tentative:"
+
+msgid "activesync_bv_remove"
+msgstr "Remove from calendar"
+
+msgid "activesync_bv_tentative"
+msgstr "Tentative"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Accepted on"
+
+msgid "activesync_fi_account_title"
+msgstr "စာရင္း အမည္"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "ဆံုးျဖတ္ခ်က္ ကြဲလြဲေနသည္"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "ပို့မည့္ လွ်ပ္စစ္စာကို ကူးယူရန္"
+
+msgid "activesync_fi_declined_on"
+msgstr "Declined on"
+
+msgid "activesync_fi_domain"
+msgstr "ဒိုမိန္း"
+
+msgid "activesync_fi_email_address"
+msgstr "လွ်ပ္စစ္စာ လိပ္စာ"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Fingerprint"
+
+msgid "activesync_fi_invitation"
+msgstr "Invitation"
+
+msgid "activesync_fi_password"
+msgstr "လွ်ိဳ႕ဝွက္ အမွတ္အသား"
+
+msgid "activesync_fi_port"
+msgstr "port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "လံုျခံဳစြာ ဆက္သြယ္မႈ"
+
+msgid "activesync_fi_serial_no"
+msgstr "Serial number"
+
+msgid "activesync_fi_server"
+msgstr "ဆာဗာ"
+
+msgid "activesync_fi_status_menu"
+msgstr "လဲလွယ္ရန္အတြက္ စာ"
+
+msgid "activesync_fi_subject"
+msgstr "Subject"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "ျပကၡဒိန္ ႏွင့္ တာဝန္မ်ားကူးေျပာင္းမည္"
+
+msgid "activesync_fi_sync_completed"
+msgstr "ကူးေျပာင္းျခင္း လုပ္ငန္းမ်ား ျပီး၏"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "ဆက္သြယ္ေရးစာရင္းအား ကူးေျပာင္းမည္"
+
+msgid "activesync_fi_sync_email"
+msgstr "လွ်ပ္စစ္စာမ်ား ကူးေျပာင္းမည္"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Tentatively accepted on"
+
+msgid "activesync_fi_username"
+msgstr "အသံုးျပဳသူ အမည္"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Tap 'Next' to start initial synchronization or discard new account by tapping outside the wizard.\n\nTap 'Advanced settings' to modify the advanced account settings."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "The fingerprint of the server %s certificate has changed.\nThis is a security risk, please consult the server administrator"
+
+msgid "activesync_ia_code_change"
+msgstr "The lock code must be changed."
+
+msgid "activesync_ia_code_enable"
+msgstr "Automatic device lock must be enabled."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Automatic device lock timeout must be less than %d minutes."
+
+msgid "activesync_ia_enter_password"
+msgstr "Enter password for certificate %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "The certificate for server %s is invalid. If the server is trusted, ignore this warning."
+
+msgid "activesync_ia_lock_settings"
+msgstr "The Exchange server requires changes in device lock settings."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Mail for Exchange setup wizard allows you to define a Mail for Exchange account for e-mail, calendar, task and contact synchronization between your device and an Exchange server.\n\nTap 'Next' to continue."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Unable to cancel sending"
+
+msgid "activesync_in_error_attachment"
+msgstr "Not enough storage left to download attachment."
+
+msgid "activesync_in_error_server_type"
+msgstr "Configured server is not an Exchange server"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "Device does not comply with the security policy change. Contact your administrator."
+
+msgid "activesync_in_pcsuite"
+msgstr "Note that it is not recommended to use PC Suite synchronization simultaneously with Mail for Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange wizard already open"
+
+msgid "activesync_li_calendar"
+msgstr "ျပကၡဒိန္"
+
+msgid "activesync_li_first_sync"
+msgstr "ပထမ ကူးေျပာင္းျခင္း"
+
+msgid "activesync_li_messages_back"
+msgstr "messages မ်ားအား စက္ထဲ ျပန္လည္ကူးယူမည္"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Off-peak schedule"
+
+msgid "activesync_li_peak_days"
+msgstr "Peak days"
+
+msgid "activesync_li_peak_end"
+msgstr "Peak end time"
+
+msgid "activesync_li_peak_start"
+msgstr "Peak start time"
+
+msgid "activesync_li_peak_sync"
+msgstr "Peak schedule"
+
+msgid "activesync_li_send_policy"
+msgstr "လွ်ပ္စစ္စာ ပို့ေနခ်ိန္တြင္"
+
+msgid "activesync_nc_certificate"
+msgstr "Accept changed certificate? Consult server administrator before accepting."
+
+msgid "activesync_nc_delete"
+msgstr "Exchange account ရွိ စာမ်ားကို ဖ်က္ပစ္မည္လား?"
+
+msgid "activesync_nc_first_sync"
+msgstr "Cancel initial synchronization?\nAccount setup will be lost."
+
+msgid "activesync_nc_full_sync"
+msgstr "ကူးေျပာင္းျခင္းအား ရပ္တန့္မည္ကို ၾကိမ္းေသပါသလား။"
+
+msgid "activesync_ti_accepting"
+msgstr "Accept invitation"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "ျပကၡဒိန္ ႏွင့္ တာဝန္မ်ား"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Changed certificate"
+
+msgid "activesync_ti_connection"
+msgstr "ဆက္သြယ္မႈ "
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Credentials"
+
+msgid "activesync_ti_declining"
+msgstr "Decline invitation"
+
+msgid "activesync_ti_details"
+msgstr "ေနာက္ဆံုး ကူးေျပာင္းျခင္းလုပ္ငန္းမ်ား: အေသးစိတ္"
+
+msgid "activesync_ti_device_lock"
+msgstr "Change device lock settings"
+
+msgid "activesync_ti_email"
+msgstr "လွ်ပ္စစ္စာ"
+
+msgid "activesync_ti_first_sync"
+msgstr "First synchronization"
+
+msgid "activesync_ti_full_sync"
+msgstr "Full synchronization"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Invalid certificate"
+
+msgid "activesync_ti_password"
+msgstr "Password protected"
+
+msgid "activesync_ti_resync"
+msgstr "Resynchronization"
+
+msgid "activesync_ti_settings"
+msgstr "Mail for Exchange settings"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "ျပကၡဒိန္ ႏွင့္ တာဝန္မ်ား"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "အဆက္အသြယ္မ်ား"
+
+msgid "activesync_ti_sync_email"
+msgstr "လွ်ပ္စစ္စာ"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Sync schedule"
+
+msgid "activesync_ti_tentatively"
+msgstr "Tentatively accept invitation"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Synchronization content"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Credentials"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "ကူးေျပာင္းျခင္းလုပ္ငန္းမ်ား စမည္"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "ဆာဗာ ဆက္တင္"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "ၾကိဳဆိုပါ၏"
+
+msgid "activesync_va_added"
+msgstr "ထည့္ျပီးျပီ ျဖစ္သည္။"
+
+msgid "activesync_va_all_entries"
+msgstr "All entries"
+
+msgid "activesync_va_all_messages"
+msgstr "message မ်ား အားလံုး"
+
+msgid "activesync_va_always_on"
+msgstr "အျမဲ အသံုးျပဳမည္"
+
+msgid "activesync_va_calendar"
+msgstr "ျပကၡဒိန္"
+
+msgid "activesync_va_calendar_back"
+msgstr "ျပကၡဒိန္အား Synchronize ျပန္လည္ထည့္သြင္းမည္"
+
+msgid "activesync_va_changed_policy"
+msgstr "Change in security policy"
+
+msgid "activesync_va_complete"
+msgstr "ျပီဆံုး၏"
+
+msgid "activesync_va_connected"
+msgstr "ခ်ိတ္ဆက္ျပီးျပီ"
+
+msgid "activesync_va_connecting"
+msgstr "ခ်ိတ္ဆက္ေနသည္"
+
+msgid "activesync_va_contacts"
+msgstr "Contacts"
+
+msgid "activesync_va_create_new"
+msgstr "အသစ္ ျပဳလုပ္မည္"
+
+msgid "activesync_va_delete_items"
+msgstr "စက္ထဲရွိ အရာမ်ား ဖ်က္ပစ္မည္"
+
+msgid "activesync_va_deleted"
+msgstr "ဖ်က္ျပီးျပီ"
+
+msgid "activesync_va_device_wins"
+msgstr "Device takes priority"
+
+msgid "activesync_va_disconnected"
+msgstr "ခ်ိတ္ဆက္မႈမွ ျဖတ္ေတာက္လိုက္သည္"
+
+msgid "activesync_va_email"
+msgstr "လွ်ပ္စစ္စာ"
+
+msgid "activesync_va_error_account_full"
+msgstr "Exchange server user account is full."
+
+msgid "activesync_va_error_address"
+msgstr "Invalid host address for Exchange server."
+
+msgid "activesync_va_error_certificate"
+msgstr "Server certificate invalid. Check device time and date settings or contact server administrator."
+
+msgid "activesync_va_error_communication"
+msgstr "Error in communication with Exchange server."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange account disabled. Access refused."
+
+msgid "activesync_va_error_disk_full"
+msgstr "အသံုးျပဳသူ၏ သိုေလာင္ႏိုင္မႈေနရာ ျပည့္ေနပါသည္။"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "အသံုးျပဳသူ အမည္၊ လ်ိဳ့ဝွက္ သေကၤတ သို႔ ဒိုမိန္းသည္ Exchange account အက်ံဳးမဝင္ပါ။"
+
+msgid "activesync_va_error_maintenance"
+msgstr "Exchange server is undergoing maintenance. Synchronization service is unavailable."
+
+msgid "activesync_va_error_no_response"
+msgstr "Exchange ဆာဗာမွ ဆက္သြက္မႈ ျပန္မလုပ္ပါ။ ထည့္သြင္းထားေသာ အခ်က္အလက္မ်ား မွန္ကန္သလား ျပန္စစ္ပါ "
+
+msgid "activesync_va_error_reinstall"
+msgstr "Internal error. Remove Exchange account from device, restart device and set up again."
+
+msgid "activesync_va_error_secure"
+msgstr "Error. Either Exchange server requires secure connection or account is disabled."
+
+msgid "activesync_va_error_server"
+msgstr "Exchange ဆာဗာတြင္ ျပႆနာမ်ား ရွိသည္။"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Mandatory Exchange server policy failed. Access refused."
+
+msgid "activesync_va_error_sync"
+msgstr "Unable to synchronize with Exchange server."
+
+msgid "activesync_va_error_system"
+msgstr "System error on Exchange server."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange server unavailable"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Exchange ဆာဗာရွိ.software version  အား ေထာက္ပံ့မႈ မျပဳလုပ္ေတာ့ပါ။"
+
+msgid "activesync_va_every_12_hour"
+msgstr "၁၂ နာရီလ်င္ တစ္ၾကိမ္"
+
+msgid "activesync_va_every_15_mins"
+msgstr "၁၅ မိနစ္လ်င္ တစ္ၾကိမ္"
+
+msgid "activesync_va_every_30_mins"
+msgstr "၃၀ မိနစ္လ်င္ တစ္ၾကိမ္"
+
+msgid "activesync_va_every_4_hours"
+msgstr "၄ နာရီလ်င္ တစ္ၾကိမ္"
+
+msgid "activesync_va_every_day"
+msgstr "ေန႔တိုင္း"
+
+msgid "activesync_va_every_hour"
+msgstr "တစ္နာရီျပည့္တိုင္း"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Initializing synchronization"
+
+msgid "activesync_va_idle"
+msgstr "ခဏရပ္နားထားမည္"
+
+msgid "activesync_va_keep_items"
+msgstr "စက္ထဲတြင္ အခ်က္မ်ား သိမ္းထားမည္"
+
+msgid "activesync_va_last_sync"
+msgstr "ေနာက္ဆံုး synchronize လုပ္ထားေသာ"
+
+msgid "activesync_va_manual"
+msgstr "ကိုယ္တိုင္ျပဳလုပ္မည္"
+
+msgid "activesync_va_never"
+msgstr "လံုးဝ အသံုးမျပဳ"
+
+msgid "activesync_va_one_day"
+msgstr "၁ ရက္"
+
+msgid "activesync_va_one_month"
+msgstr "၁ လ"
+
+msgid "activesync_va_one_week"
+msgstr "တစ္ပါတ္"
+
+msgid "activesync_va_online"
+msgstr "အြန္လိုင္း"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Send at next synchronization"
+
+msgid "activesync_va_send_immediately"
+msgstr "ခ်က္ျခင္း ပို့မည္"
+
+msgid "activesync_va_server_wins"
+msgstr "Server takes priority"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "၆ လ"
+
+msgid "activesync_va_status"
+msgstr "အေျခအေန"
+
+msgid "activesync_va_status_menu_error"
+msgstr "ေနာက္ဆံုး sync လုပ္ျခင္း မေအာင္ျမင္ပါ"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "ေနာက္ဆံုး sync %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Synchronize လုပ္ေနသည္"
+
+msgid "activesync_va_sync_failed"
+msgstr "Synchronize လုပ္ျခင္း မေအာင္ျမင္ပါ"
+
+msgid "activesync_va_sync_stopped"
+msgstr "ရပ္ေနသည္"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "ကလဒၤါအား Synchronize လုပ္ေနသည္ : %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "အဆက္အသြယ္မ်ား Synchronize လုပ္ေနသည္: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "လွ်ပ္စစ္စာမ်ား Synchronize လုပ္ေနသည္ : %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "၃ ရက္"
+
+msgid "activesync_va_three_months"
+msgstr "၃ လ"
+
+msgid "activesync_va_today"
+msgstr "ယေန႔"
+
+msgid "activesync_va_two_weeks"
+msgstr "၂ ပါတ္"
+
+msgid "activesync_va_updated"
+msgstr "ျပဳျပင္ မြန္းမံျပီးျပီျဖစ္သည္"
