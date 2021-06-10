@@ -1,0 +1,513 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Accept security risk"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "ਤਕਨੀਕੀ ਸੈਟਿੰਗ"
+
+msgid "activesync_bd_continue"
+msgstr "Continue"
+
+msgid "activesync_bd_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "activesync_bd_dont_send"
+msgstr "Don’t send"
+
+msgid "activesync_bd_edit"
+msgstr "Edit response"
+
+msgid "activesync_bd_ignore"
+msgstr "Ignore"
+
+msgid "activesync_bd_manual_sync"
+msgstr "ਖੁਦ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ"
+
+msgid "activesync_bd_resync"
+msgstr "ਪੂਰਾ ਮੁੜ-ਸੈਕਰੋਨਾਈਜ਼"
+
+msgid "activesync_bd_security_policy"
+msgstr "Comply with security policy"
+
+msgid "activesync_bd_send"
+msgstr "Send"
+
+msgid "activesync_bd_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "activesync_bd_signature"
+msgstr "ਦਸਤਖਤ"
+
+msgid "activesync_bd_stop"
+msgstr "ਸੈਕਰੋਨਾਈਜ਼ੇਸ਼ਨ ਰੋਕੋ"
+
+msgid "activesync_bv_accept"
+msgstr "Accept"
+
+msgid "activesync_bv_decline"
+msgstr "Decline"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Accepted:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Declined:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Tentative:"
+
+msgid "activesync_bv_remove"
+msgstr "Remove from calendar"
+
+msgid "activesync_bv_tentative"
+msgstr "Tentative"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Accepted on"
+
+msgid "activesync_fi_account_title"
+msgstr "ਅਕਾਊਂਟ ਟਾਈਟਲ"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "ਟਕਰਾ ਦਾ ਹੱਲ਼"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "ਬਾਹਰ ਜਾਣ ਵਾਲੀਆਂ ਈਮੇਲ ਕਾਪੀ ਕਰੋ"
+
+msgid "activesync_fi_declined_on"
+msgstr "Declined on"
+
+msgid "activesync_fi_domain"
+msgstr "ਡੋਮੇਨ"
+
+msgid "activesync_fi_email_address"
+msgstr "ਈਮੇਲ ਐਡਰੈੱਸ"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Fingerprint"
+
+msgid "activesync_fi_invitation"
+msgstr "Invitation"
+
+msgid "activesync_fi_password"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "activesync_fi_port"
+msgstr "ਪੋਰਟ"
+
+msgid "activesync_fi_secure_connection"
+msgstr "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ"
+
+msgid "activesync_fi_serial_no"
+msgstr "Serial number"
+
+msgid "activesync_fi_server"
+msgstr "ਸਰਵਰ"
+
+msgid "activesync_fi_status_menu"
+msgstr "ਐਕਸਚੇਜ਼ ਲਈ ਮੇਲ"
+
+msgid "activesync_fi_subject"
+msgstr "Subject"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "ਕੈਲੰਡਰ ਅਤੇ ਟਾਸਕ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ"
+
+msgid "activesync_fi_sync_completed"
+msgstr "ਪੂਰੀਆਂ ਹੋਈਆਂ ਟਾਸਕ ਸੈਕਰੋਨਾਈਜ਼"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "ਸੰਪਰਕ ਸੈਕਰੋਨਾਈਜ਼"
+
+msgid "activesync_fi_sync_email"
+msgstr "ਈਮੇਲ ਸੈਕਰੋਨਾਈਜ਼"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Tentatively accepted on"
+
+msgid "activesync_fi_username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Tap 'Next' to start initial synchronization or discard new account by tapping outside the wizard.\n\nTap 'Advanced settings' to modify the advanced account settings."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "The fingerprint of the server %s certificate has changed.\nThis is a security risk, please consult the server administrator"
+
+msgid "activesync_ia_code_change"
+msgstr "The lock code must be changed."
+
+msgid "activesync_ia_code_enable"
+msgstr "Automatic device lock must be enabled."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Automatic device lock timeout must be less than %d minutes."
+
+msgid "activesync_ia_enter_password"
+msgstr "Enter password for certificate %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "The certificate for server %s is invalid. If the server is trusted, ignore this warning."
+
+msgid "activesync_ia_lock_settings"
+msgstr "The Exchange server requires changes in device lock settings."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Mail for Exchange setup wizard allows you to define a Mail for Exchange account for e-mail, calendar, task and contact synchronization between your device and an Exchange server.\n\nTap 'Next' to continue."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Unable to cancel sending"
+
+msgid "activesync_in_error_attachment"
+msgstr "ਅਟੈਚਮੈਂਟ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਸਟੋਰੇਜ਼ ਥਾਂ ਨਹੀਂ ਹੈ।"
+
+msgid "activesync_in_error_server_type"
+msgstr "Configured server is not an Exchange server"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "Device does not comply with the security policy change. Contact your administrator."
+
+msgid "activesync_in_pcsuite"
+msgstr "Note that it is not recommended to use PC Suite synchronization simultaneously with Mail for Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange wizard already open"
+
+msgid "activesync_li_calendar"
+msgstr "ਕੈਲੰਡਰ"
+
+msgid "activesync_li_first_sync"
+msgstr "ਪਹਿਲਾਂ ਸੈਕਰੋਨਾਈਜ਼"
+
+msgid "activesync_li_messages_back"
+msgstr "Synchronize messages back"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Off-peak schedule"
+
+msgid "activesync_li_peak_days"
+msgstr "Peak days"
+
+msgid "activesync_li_peak_end"
+msgstr "Peak end time"
+
+msgid "activesync_li_peak_start"
+msgstr "Peak start time"
+
+msgid "activesync_li_peak_sync"
+msgstr "Peak schedule"
+
+msgid "activesync_li_send_policy"
+msgstr "ਜਦੋਂ ਈਮੇਲ ਭੇਜੀ ਜਾ ਰਹੀ ਹੋਵੇ"
+
+msgid "activesync_nc_certificate"
+msgstr "Accept changed certificate? Consult server administrator before accepting."
+
+msgid "activesync_nc_delete"
+msgstr "Delete Mail for Exchange account?"
+
+msgid "activesync_nc_first_sync"
+msgstr "Cancel initial synchronization?\nAccount setup will be lost."
+
+msgid "activesync_nc_full_sync"
+msgstr "Are you sure you want to stop synchronization?"
+
+msgid "activesync_ti_accepting"
+msgstr "Accept invitation"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "ਕੈਲੰਡਰ ਅਤੇ ਟਾਸਕ"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Changed certificate"
+
+msgid "activesync_ti_connection"
+msgstr "ਕੁਨੈਕਸ਼ਨ"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail for Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "ਸਨਦ"
+
+msgid "activesync_ti_declining"
+msgstr "Decline invitation"
+
+msgid "activesync_ti_details"
+msgstr "Last synchronization: Details"
+
+msgid "activesync_ti_device_lock"
+msgstr "Change device lock settings"
+
+msgid "activesync_ti_email"
+msgstr "ਈਮੇਲ"
+
+msgid "activesync_ti_first_sync"
+msgstr "ਪਹਿਲਾਂ ਸੈਕਰੋਨਾਈਜੇਸ਼ਨ"
+
+msgid "activesync_ti_full_sync"
+msgstr "ਪੂਰਾ ਸੈਕਰੋਨਾਈਜੇਸ਼ਨ"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Invalid certificate"
+
+msgid "activesync_ti_password"
+msgstr "Password protected"
+
+msgid "activesync_ti_resync"
+msgstr "Resynchronization"
+
+msgid "activesync_ti_settings"
+msgstr "Mail for Exchange settings"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "ਕੈਲੰਡਰ ਅਤੇ ਟਾਸਕ"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "ਸੰਪਰਕ"
+
+msgid "activesync_ti_sync_email"
+msgstr "ਈਮੇਲ"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Sync schedule"
+
+msgid "activesync_ti_tentatively"
+msgstr "Tentatively accept invitation"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Synchronization content"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "ਸਨਦ"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Start synchronization"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "ਸਰਵਰ ਸੈਟਿੰਗ"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "ਜੀ ਆਇਆਂ ਨੂੰ"
+
+msgid "activesync_va_added"
+msgstr "ਸ਼ਾਮਲ ਕੀਤੇ"
+
+msgid "activesync_va_all_entries"
+msgstr "ਸਭ ਐਂਟਰੀਆਂ"
+
+msgid "activesync_va_all_messages"
+msgstr "ਸਭ ਸੁਨੇਹੇ"
+
+msgid "activesync_va_always_on"
+msgstr "ਹਮੇਸ਼ਾ ਚਾਲੂ"
+
+msgid "activesync_va_calendar"
+msgstr "ਕੈਲੰਡਰ"
+
+msgid "activesync_va_calendar_back"
+msgstr "Synchronize calendar back"
+
+msgid "activesync_va_changed_policy"
+msgstr "Change in security policy"
+
+msgid "activesync_va_complete"
+msgstr "ਪੂਰਾ"
+
+msgid "activesync_va_connected"
+msgstr "ਕੁਨੈਕਟ ਹੈ"
+
+msgid "activesync_va_connecting"
+msgstr "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "activesync_va_contacts"
+msgstr "ਸੰਪਰਕ"
+
+msgid "activesync_va_create_new"
+msgstr "ਨਵਾਂ ਬਣਾਓ"
+
+msgid "activesync_va_delete_items"
+msgstr "Delete items on device"
+
+msgid "activesync_va_deleted"
+msgstr "ਹਟਾਏ"
+
+msgid "activesync_va_device_wins"
+msgstr "Device takes priority"
+
+msgid "activesync_va_disconnected"
+msgstr "ਡਿਸ-ਕੁਨੈਕਟ ਹੈ"
+
+msgid "activesync_va_email"
+msgstr "ਈਮੇਲ"
+
+msgid "activesync_va_error_account_full"
+msgstr "Exchange server user account is full."
+
+msgid "activesync_va_error_address"
+msgstr "Invalid host address for Exchange server."
+
+msgid "activesync_va_error_certificate"
+msgstr "Server certificate invalid. Check device time and date settings or contact server administrator."
+
+msgid "activesync_va_error_communication"
+msgstr "Error in communication with Exchange server."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange account disabled. Access refused."
+
+msgid "activesync_va_error_disk_full"
+msgstr "ਯੂਜ਼ਰ ਸਟੋਰੇਜ਼ ਭਰੀ ਹੋਈ ਹੈ"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Invalid user name, password or domain for Exchange account."
+
+msgid "activesync_va_error_maintenance"
+msgstr "Exchange server is undergoing maintenance. Synchronization service is unavailable."
+
+msgid "activesync_va_error_no_response"
+msgstr "Exchange server is not responding. Verify that account settings are correct."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Internal error. Remove Exchange account from device, restart device and set up again."
+
+msgid "activesync_va_error_secure"
+msgstr "Error. Either Exchange server requires secure connection or account is disabled."
+
+msgid "activesync_va_error_server"
+msgstr "Error in Exchange server"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Mandatory Exchange server policy failed. Access refused."
+
+msgid "activesync_va_error_sync"
+msgstr "Unable to synchronize with Exchange server."
+
+msgid "activesync_va_error_system"
+msgstr "System error on Exchange server."
+
+msgid "activesync_va_error_unavailable"
+msgstr "ਐਕਸਚੇਜ਼ ਸਰਵਰ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Unsupported software version in Exchange server."
+
+msgid "activesync_va_every_12_hour"
+msgstr "ਹਰੇਕ ੧੨ ਘੰਟੇ"
+
+msgid "activesync_va_every_15_mins"
+msgstr "ਹਰੇਕ ੧੫ ਮਿੰਟ"
+
+msgid "activesync_va_every_30_mins"
+msgstr "ਹਰੇਕ ੩੦ ਮਿੰਟ"
+
+msgid "activesync_va_every_4_hours"
+msgstr "ਹਰੇਕ ੪ ਘੰਟੇ"
+
+msgid "activesync_va_every_day"
+msgstr "ਹਰ ਰੋਜ਼"
+
+msgid "activesync_va_every_hour"
+msgstr "ਹਰ ਘੰਟੇ"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Initializing synchronization"
+
+msgid "activesync_va_idle"
+msgstr "ਵੇਹਲਾ"
+
+msgid "activesync_va_keep_items"
+msgstr "Keep items on device"
+
+msgid "activesync_va_last_sync"
+msgstr "Last synchronization"
+
+msgid "activesync_va_manual"
+msgstr "ਖੁਦ"
+
+msgid "activesync_va_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "activesync_va_one_day"
+msgstr "੧ ਦਿਨ"
+
+msgid "activesync_va_one_month"
+msgstr "੧ ਮਹੀਨਾ"
+
+msgid "activesync_va_one_week"
+msgstr "੧ ਹਫ਼ਤਾ"
+
+msgid "activesync_va_online"
+msgstr "ਆਨਲਾਈਨ"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Send at next synchronization"
+
+msgid "activesync_va_send_immediately"
+msgstr "Send immediately"
+
+msgid "activesync_va_server_wins"
+msgstr "Server takes priority"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "੬ ਮਹੀਨੇ"
+
+msgid "activesync_va_status"
+msgstr "ਹਾਲਤ"
+
+msgid "activesync_va_status_menu_error"
+msgstr "ਆਖਰੀ ਸੈਕਰੋਨਾਈਜ਼ ਫੇਲ੍ਹ"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Last sync %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Synchronizing"
+
+msgid "activesync_va_sync_failed"
+msgstr "Synchronization failed"
+
+msgid "activesync_va_sync_stopped"
+msgstr "ਰੁਕਿਆ"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "ਕੈਲੰਡਰ ਸੈਕਰੋਨਾਈਜ਼ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "ਸੰਪਰਕ ਸੈਕਰੋਨਾਈਜ਼ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "ਈਮੇਲ ਸੈਕਰੋਨਾਈਜ਼ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "੩ ਦਿਨ"
+
+msgid "activesync_va_three_months"
+msgstr "੩ ਮਹੀਨੇ"
+
+msgid "activesync_va_today"
+msgstr "ਅੱਜ"
+
+msgid "activesync_va_two_weeks"
+msgstr "੨ ਹਫ਼ਤੇ"
+
+msgid "activesync_va_updated"
+msgstr "ਅੱਪਡੇਟ ਹੈ"
