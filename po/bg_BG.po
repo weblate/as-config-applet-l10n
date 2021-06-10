@@ -1,0 +1,513 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Приемане на риска за сигурността"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Допълнителни настройки"
+
+msgid "activesync_bd_continue"
+msgstr "Продължение"
+
+msgid "activesync_bd_details"
+msgstr "Информация"
+
+msgid "activesync_bd_dont_send"
+msgstr "Да не се изпраща"
+
+msgid "activesync_bd_edit"
+msgstr "Редактиране на отговора"
+
+msgid "activesync_bd_ignore"
+msgstr "Игнориране"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Ръчно синхронизиране"
+
+msgid "activesync_bd_resync"
+msgstr "Пълно ресинхронизиране"
+
+msgid "activesync_bd_security_policy"
+msgstr "Спазване на политиката за сигурност"
+
+msgid "activesync_bd_send"
+msgstr "Изпращане"
+
+msgid "activesync_bd_settings"
+msgstr "Настройки"
+
+msgid "activesync_bd_signature"
+msgstr "Подпис"
+
+msgid "activesync_bd_stop"
+msgstr "Спиране на синхронизирането"
+
+msgid "activesync_bv_accept"
+msgstr "Приемане"
+
+msgid "activesync_bv_decline"
+msgstr "Отказване"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Прието:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Отказано:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Еднократно:"
+
+msgid "activesync_bv_remove"
+msgstr "Премахване от календара"
+
+msgid "activesync_bv_tentative"
+msgstr "Еднократно"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Прието на"
+
+msgid "activesync_fi_account_title"
+msgstr "Заглавие на регистрация"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Разрешаване на конфликти"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Копиране на изходящите писма"
+
+msgid "activesync_fi_declined_on"
+msgstr "Отказано на"
+
+msgid "activesync_fi_domain"
+msgstr "Домейн"
+
+msgid "activesync_fi_email_address"
+msgstr "Пощенски адрес"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Отпечатък"
+
+msgid "activesync_fi_invitation"
+msgstr "Покана"
+
+msgid "activesync_fi_password"
+msgstr "Парола"
+
+msgid "activesync_fi_port"
+msgstr "Порт"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Защитена връзка"
+
+msgid "activesync_fi_serial_no"
+msgstr "Сериен номер"
+
+msgid "activesync_fi_server"
+msgstr "Сървър"
+
+msgid "activesync_fi_status_menu"
+msgstr "Поща към Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Тема"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Синхронизиране на календар и задачи"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Синхронизиране на изпълнени задачи"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Синхронизиране на контакти"
+
+msgid "activesync_fi_sync_email"
+msgstr "Синхронизиране на е-поща"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Еднократно прието на"
+
+msgid "activesync_fi_username"
+msgstr "Потребителско име"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Натиснете 'Следващ' за да започне първоначалното синхронизиране или натиснете извън прозореца за да отхвърлите новата регистрация.\n\nНатиснете 'Допълнителни настройки' за да редактирате допълнителните настройки на регистрацията."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "Отпечатъкът на удостоверението на %s сървъра е променено.\nТова е риск на сигурността, моля консултирайте се със администратора на сървъра."
+
+msgid "activesync_ia_code_change"
+msgstr "Кодът за заключване трябва да бъде сменен."
+
+msgid "activesync_ia_code_enable"
+msgstr "Автоматичното заключване на устройството трябва да бъде активно."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Времето за автоматично заключване на устройството трябва да бъде по-малко от %d минути."
+
+msgid "activesync_ia_enter_password"
+msgstr "Въвеждане на парола за удостоверение %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "Удостоверението на сървъра %s е невалидно. Ако сървърът е доверрен, игнорирайте това предупреждение."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Exchange сървърът изисква промени в настройките на заключване на устройството."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Помощникът на Поща към Exchange Ви позволява да дефинирате Exchange регистрация за синхронизиране на е-поща, календар, задачи и контакти между Вашето устройстово и Exchange сървър.\n\nНатиснете 'Следващ' за да продължите."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Неуспешно отказване на изпращането"
+
+msgid "activesync_in_error_attachment"
+msgstr "Няма достатъчно свободно място за изтегляне на прикачения файл."
+
+msgid "activesync_in_error_server_type"
+msgstr "Конфигурираният сървър не е Exchange сървър"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "Устройството не спазва промените в изискванията за сигурността. Свържете се с Вашия администратор."
+
+msgid "activesync_in_pcsuite"
+msgstr "Обърнете внимание, че не е препоръчително да използвате PC пакета за синхронизиране едновременно с Поща към Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Помощникът на Поща към Exchange вече е отворен"
+
+msgid "activesync_li_calendar"
+msgstr "Календар"
+
+msgid "activesync_li_first_sync"
+msgstr "Първоначално синхронизиране"
+
+msgid "activesync_li_messages_back"
+msgstr "Синхронизиране обратно на съобщенията"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Ненатоварен график"
+
+msgid "activesync_li_peak_days"
+msgstr "Натоварени дни"
+
+msgid "activesync_li_peak_end"
+msgstr "Натоварен краен час"
+
+msgid "activesync_li_peak_start"
+msgstr "Натоварен начален час"
+
+msgid "activesync_li_peak_sync"
+msgstr "Натоварен график"
+
+msgid "activesync_li_send_policy"
+msgstr "Когато се изпраща е-поща"
+
+msgid "activesync_nc_certificate"
+msgstr "Приемане на промененото удостоверение? Консултирайте се с администратора на сървъра преди да приемете."
+
+msgid "activesync_nc_delete"
+msgstr "Изтриване на регистрацията на Поща към Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr "Прекъсване на първоначалното синхронизиране?\nНастройките на регистрацията ще бъдет загубени."
+
+msgid "activesync_nc_full_sync"
+msgstr "Сигурни ли сте че искате да спрете синхронизирането?"
+
+msgid "activesync_ti_accepting"
+msgstr "Приемане на поканата"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Календар и задачи"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Променено удостоверение"
+
+msgid "activesync_ti_connection"
+msgstr "Връзка"
+
+msgid "activesync_ti_cpa"
+msgstr "Поща към Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Права за достъп"
+
+msgid "activesync_ti_declining"
+msgstr "Отказване на поканата"
+
+msgid "activesync_ti_details"
+msgstr "Последно синхронизиране: Информация"
+
+msgid "activesync_ti_device_lock"
+msgstr "Промяна на настройките на заключване"
+
+msgid "activesync_ti_email"
+msgstr "Е-поща"
+
+msgid "activesync_ti_first_sync"
+msgstr "Първоначално синхронизиране"
+
+msgid "activesync_ti_full_sync"
+msgstr "Пълно синхронизиране"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Невалидно удостоверение"
+
+msgid "activesync_ti_password"
+msgstr "Защитено с парола"
+
+msgid "activesync_ti_resync"
+msgstr "Ресинхронизиране"
+
+msgid "activesync_ti_settings"
+msgstr "Настройки на Поща към Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Календар и задачи"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Контакти"
+
+msgid "activesync_ti_sync_email"
+msgstr "Е-поща"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "График на синхронизиране"
+
+msgid "activesync_ti_tentatively"
+msgstr "Еднократно приемане на поканата"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Съдържание на синхронизиране"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Права за достъп"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Синхронизиране"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Настройки на сървър"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Начало"
+
+msgid "activesync_va_added"
+msgstr "Добавени"
+
+msgid "activesync_va_all_entries"
+msgstr "Всички записи"
+
+msgid "activesync_va_all_messages"
+msgstr "Всички съобщения"
+
+msgid "activesync_va_always_on"
+msgstr "Винаги включен"
+
+msgid "activesync_va_calendar"
+msgstr "Календар"
+
+msgid "activesync_va_calendar_back"
+msgstr "Синхронизиране на календара назад"
+
+msgid "activesync_va_changed_policy"
+msgstr "Промени в политиката на сигурност"
+
+msgid "activesync_va_complete"
+msgstr "Приключено"
+
+msgid "activesync_va_connected"
+msgstr "Свързано"
+
+msgid "activesync_va_connecting"
+msgstr "Свързване"
+
+msgid "activesync_va_contacts"
+msgstr "Контакти"
+
+msgid "activesync_va_create_new"
+msgstr "Създаване на нов"
+
+msgid "activesync_va_delete_items"
+msgstr "Изтриване на елементи от устройството"
+
+msgid "activesync_va_deleted"
+msgstr "Изтрити"
+
+msgid "activesync_va_device_wins"
+msgstr "Устройството е с предимство"
+
+msgid "activesync_va_disconnected"
+msgstr "Откачен"
+
+msgid "activesync_va_email"
+msgstr "Е-поща"
+
+msgid "activesync_va_error_account_full"
+msgstr "Потребителската регистрация на Exchange сървъра е пълна"
+
+msgid "activesync_va_error_address"
+msgstr "Грешен адрес за Exchange сървър."
+
+msgid "activesync_va_error_certificate"
+msgstr "Невалидно сървърно удостоверение. Проверете времето и датата на устройството или се свържете с администратора на сървъра."
+
+msgid "activesync_va_error_communication"
+msgstr "Грешка в комуникацията с Exchange сървъра."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchage регистрацията е забранена. Достъпът е отказан."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Потребителското място е пълно"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Грешно потребителско име, парола или домейн на Exchange регистрацията."
+
+msgid "activesync_va_error_maintenance"
+msgstr "Exchange сървърът е в профилактика. Услугата за синхронизиране е недостъпна."
+
+msgid "activesync_va_error_no_response"
+msgstr "Exchange сървърът не отговаря. Проверете дали настройките на регистрацията са правилни."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Вътрешна грешка. Премахнете Exchange регистрацията от устройството, рестартирайте го и я дефинирайте отново."
+
+msgid "activesync_va_error_secure"
+msgstr "Грешка. Или Exchange сървърът изисква защитена връзка или регистрацията е забранена."
+
+msgid "activesync_va_error_server"
+msgstr "Грешка в Exchange сървъра"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Не е изпълнена задължителната политика на Exchange сървъра. Достъпът е отказан."
+
+msgid "activesync_va_error_sync"
+msgstr "Неуспешно синхронизиране с Exchange сървъра."
+
+msgid "activesync_va_error_system"
+msgstr "Системна грешка в Exchange сървъра."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange сървърът е недостъпен"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Неподдържана софтуерна версия на Exchange сървъра."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Всеки 12 часа"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Всеки 15 минути"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Всеки 30 минути"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Всеки 4 часа"
+
+msgid "activesync_va_every_day"
+msgstr "Всеки ден"
+
+msgid "activesync_va_every_hour"
+msgstr "Всеки час"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Подготвяне на синхронизирането"
+
+msgid "activesync_va_idle"
+msgstr "Неактивно"
+
+msgid "activesync_va_keep_items"
+msgstr "Запазване на данните от устройството"
+
+msgid "activesync_va_last_sync"
+msgstr "Последно синхронизиране"
+
+msgid "activesync_va_manual"
+msgstr "Ръчно"
+
+msgid "activesync_va_never"
+msgstr "Никога"
+
+msgid "activesync_va_one_day"
+msgstr "1 ден"
+
+msgid "activesync_va_one_month"
+msgstr "1 месец"
+
+msgid "activesync_va_one_week"
+msgstr "1 седмица"
+
+msgid "activesync_va_online"
+msgstr "На линия"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Изпращане при следващото синхронизиране"
+
+msgid "activesync_va_send_immediately"
+msgstr "Незабавно изпращане"
+
+msgid "activesync_va_server_wins"
+msgstr "Сървърът има предимство"
+
+msgid "activesync_va_service_provider"
+msgstr "Поща към Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 месеца"
+
+msgid "activesync_va_status"
+msgstr "Състояние"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Грешка в синхронизиране"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Синхронизирано в %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Синхронизиране"
+
+msgid "activesync_va_sync_failed"
+msgstr "Неуспешно синхронизиране"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Спряно"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Синхронизиране на календар: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Синхронизиране на контакти: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "Синхронизиране на е-поща: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 дена"
+
+msgid "activesync_va_three_months"
+msgstr "3 месеца"
+
+msgid "activesync_va_today"
+msgstr "Днес"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 седмици"
+
+msgid "activesync_va_updated"
+msgstr "Обновени"
