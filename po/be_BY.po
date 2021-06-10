@@ -1,0 +1,514 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2011-12-28 15:47+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Прыманне рызыкі бяспекі"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Пашыраныя налады"
+
+msgid "activesync_bd_continue"
+msgstr "Працягнуць"
+
+msgid "activesync_bd_details"
+msgstr "Інфармацыя"
+
+msgid "activesync_bd_dont_send"
+msgstr "Не пасылаць"
+
+msgid "activesync_bd_edit"
+msgstr "Змяніць адказ"
+
+msgid "activesync_bd_ignore"
+msgstr "Ігнараваць"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Самастойная сінхранізацыя"
+
+msgid "activesync_bd_resync"
+msgstr "Поўная рэсінхранізацыя"
+
+msgid "activesync_bd_security_policy"
+msgstr "Захаванне палітыкі бяспекі"
+
+msgid "activesync_bd_send"
+msgstr "Адпраўка"
+
+msgid "activesync_bd_settings"
+msgstr "Налады"
+
+msgid "activesync_bd_signature"
+msgstr "Подпіс"
+
+msgid "activesync_bd_stop"
+msgstr "Спыніць сінхранізацыю"
+
+msgid "activesync_bv_accept"
+msgstr "Прыняць"
+
+msgid "activesync_bv_decline"
+msgstr "Адхіліць"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Прынятыя:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Адхіленыя:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Усё разам:"
+
+msgid "activesync_bv_remove"
+msgstr "Выдаліць з календара"
+
+msgid "activesync_bv_tentative"
+msgstr "Усё разам"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Прынятыя"
+
+msgid "activesync_fi_account_title"
+msgstr "Назва рахунку"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Дазвол канфліктаў"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Капіяваць зыходную электронную пошту"
+
+msgid "activesync_fi_declined_on"
+msgstr "Адмоўленыя"
+
+msgid "activesync_fi_domain"
+msgstr "Дамэн"
+
+msgid "activesync_fi_email_address"
+msgstr "Адрас электроннай пошты"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Адбітак"
+
+msgid "activesync_fi_invitation"
+msgstr "Запрашэнне"
+
+msgid "activesync_fi_password"
+msgstr "Пароль"
+
+msgid "activesync_fi_port"
+msgstr "Порт"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Бяспечнае злучэнне"
+
+msgid "activesync_fi_serial_no"
+msgstr "Сэрыйны нумар"
+
+msgid "activesync_fi_server"
+msgstr "Сервер"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail For Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "Тэма"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Сінхранізацыя календара і задач"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Сінхранізацыя выкананых задач"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Сінхранізацыя кантактаў"
+
+msgid "activesync_fi_sync_email"
+msgstr "Сінхранізацыя электроннай пошты"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Умоўна прынятыя"
+
+msgid "activesync_fi_username"
+msgstr "Імя карыстальніа"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "Націсніце \"Далей\", каб пачаць сінхранізацыю, або адхіліць новы ўліковы запіс, націснуўшы па-за межамі вакна. Націсніце \"Дадатковыя параметры\", каб змяніць дадатковыя параметры рахунка."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "Адбітак сертыфіката сервера % s змяніўся. Гэта рызыка для бяспекі, звернецеся да адміністратара сервера."
+
+msgid "activesync_ia_code_change"
+msgstr "Код блакавання павінны быць зменены."
+
+msgid "activesync_ia_code_enable"
+msgstr "Аўтаматычная блакіроўка дэвайса павінна быць уключана."
+
+msgid "activesync_ia_code_timeout"
+msgstr "Час аўтаматычнага блакавання павінен быць менш чым % d хвілін"
+
+msgid "activesync_ia_enter_password"
+msgstr "Увядзіце пароль для сертыфіката % s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "Сертыфікат для сервера % s з'яўляецца несапраўдным. Калі сервер давераны, ігнаруйце гэтае папярэджанне."
+
+msgid "activesync_ia_lock_settings"
+msgstr "Сервер Exchange патрабуе ўнясення зменаў у налады блакавання дэвайса."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Майстар налады Mail For Exchange дазваляе ствараць для Mail For Exchange новыя рахункі электроннай пошты, календара, задач і кантактаў вашага дэвайса з серверам Exchange. Націсніце \"Далей\" для працягу."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Немагчыма скасаваць адпраўку"
+
+msgid "activesync_in_error_attachment"
+msgstr "Не хапае памяці для запампоўкі прыкладання."
+
+msgid "activesync_in_error_server_type"
+msgstr "Наладжаны сервер не з'яўляецаа серверам Exchange"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "Дэвайс не адпавядае зменам у патрабаваннях бяспекі. Звярніцеся да адміністратара."
+
+msgid "activesync_in_pcsuite"
+msgstr "Звярніце ўвагу, што не рэкамендуецца выкарыстоўваць сынхранізацыю PC Suite адначасова з Mail For Exchange."
+
+msgid "activesync_in_wizard_open"
+msgstr "Майстар Mail For Exchange ужо адчынены."
+
+msgid "activesync_li_calendar"
+msgstr "Каляндар"
+
+msgid "activesync_li_first_sync"
+msgstr "Першая сінхранізацыя"
+
+msgid "activesync_li_messages_back"
+msgstr "Сінхранізацыя паведамленняў"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Ненапружаны графік"
+
+msgid "activesync_li_peak_days"
+msgstr "Занятыя дні"
+
+msgid "activesync_li_peak_end"
+msgstr "Час заканчэння"
+
+msgid "activesync_li_peak_start"
+msgstr "Час пачатку"
+
+msgid "activesync_li_peak_sync"
+msgstr "Напружаны графік"
+
+msgid "activesync_li_send_policy"
+msgstr "Пры адпраўцы электроннай пошты"
+
+msgid "activesync_nc_certificate"
+msgstr "Прыняць зменены сертыфікат? Звярнецеся да адміністратара сервера, перад тым як прыняць."
+
+msgid "activesync_nc_delete"
+msgstr "Выдаліць рахунак Mail for Exchange?"
+
+msgid "activesync_nc_first_sync"
+msgstr "Скасаваць зыходную сінхранізацыю? Налады ўліковага запісу будуць страчаныя."
+
+msgid "activesync_nc_full_sync"
+msgstr "Вы сапраўды хочаце спыніць сінхранізацыю?"
+
+msgid "activesync_ti_accepting"
+msgstr "Прыняць запрашэнне"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Каляндар і задачы"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Змена сертыфікатаў"
+
+msgid "activesync_ti_connection"
+msgstr "Падлучэнне"
+
+msgid "activesync_ti_cpa"
+msgstr "Mail For Exchange"
+
+msgid "activesync_ti_credentials"
+msgstr "Правы доступу"
+
+msgid "activesync_ti_declining"
+msgstr "Адхіліць запрашэнне"
+
+msgid "activesync_ti_details"
+msgstr "Апошняя сінхранізацыя: Інфармацыя"
+
+msgid "activesync_ti_device_lock"
+msgstr "Змена налад блакавання дэвайса"
+
+msgid "activesync_ti_email"
+msgstr "Электронная пошта"
+
+msgid "activesync_ti_first_sync"
+msgstr "Першая сінхранізацыя"
+
+msgid "activesync_ti_full_sync"
+msgstr "Поўная сінхранізацыя"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Некарэктны сертыфікат"
+
+msgid "activesync_ti_password"
+msgstr "Абаронены паролем"
+
+msgid "activesync_ti_resync"
+msgstr "Рэсінхранізацыя"
+
+msgid "activesync_ti_settings"
+msgstr "Налады Mail For Exchange"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Каляндар і задачы"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Кантакты"
+
+msgid "activesync_ti_sync_email"
+msgstr "Электронная пошта"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Сінхранізацыя графіка"
+
+msgid "activesync_ti_tentatively"
+msgstr "Пасля запрашэння"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Сінхранізацыя зместу"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Правы доступу"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Пачаць сінхранізацыю"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Налады сервера"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Галоўная старонка"
+
+msgid "activesync_va_added"
+msgstr "Дададзеныя"
+
+msgid "activesync_va_all_entries"
+msgstr "Усе запісы"
+
+msgid "activesync_va_all_messages"
+msgstr "Усе паведамленні"
+
+msgid "activesync_va_always_on"
+msgstr "Заўсёды ўключана"
+
+msgid "activesync_va_calendar"
+msgstr "Каляндар"
+
+msgid "activesync_va_calendar_back"
+msgstr "Аднавіць каляндар"
+
+msgid "activesync_va_changed_policy"
+msgstr "Змены ў палітыцы бяспекі"
+
+msgid "activesync_va_complete"
+msgstr "Скончана"
+
+msgid "activesync_va_connected"
+msgstr "Злучана"
+
+msgid "activesync_va_connecting"
+msgstr "Злучэнне"
+
+msgid "activesync_va_contacts"
+msgstr "Кантакты"
+
+msgid "activesync_va_create_new"
+msgstr "Стварыць новы"
+
+msgid "activesync_va_delete_items"
+msgstr "Выдаленне аб'ектаў з дэвайса"
+
+msgid "activesync_va_deleted"
+msgstr "Выдалена"
+
+msgid "activesync_va_device_wins"
+msgstr "Дэвайс мае перавагу"
+
+msgid "activesync_va_disconnected"
+msgstr "Адлучана"
+
+msgid "activesync_va_email"
+msgstr "Электронная пошта"
+
+msgid "activesync_va_error_account_full"
+msgstr "Рахунак сервера Exchange перапоўнены."
+
+msgid "activesync_va_error_address"
+msgstr "Некарэктны адрас хаста для сервера Exchange."
+
+msgid "activesync_va_error_certificate"
+msgstr "Сертыфікат сервера некарэктны. Праверце налады часу або звяжыцеся з адміністратарам сервера."
+
+msgid "activesync_va_error_communication"
+msgstr "Памылка сувязі з серверам Exchange."
+
+msgid "activesync_va_error_disabled"
+msgstr "Рахунак Exchange адключаны. Доступ адмоўлены."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Не хапае памяці."
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Некарэктнае імя карыстальніка, пароль ці дамен для рахунку Exchange."
+
+msgid "activesync_va_error_maintenance"
+msgstr "Сервер Exchange праходзіць тэхнічнае абслугоўванне. Сінхранізацыя з сэрвісам недаступная."
+
+msgid "activesync_va_error_no_response"
+msgstr "Сервер Exchange не адказвае. Пераканайцеся, што налады рахунка карэктныя."
+
+msgid "activesync_va_error_reinstall"
+msgstr "Унутраная памылка. Выдаліце рахунак Exchange, перазагрузіце дэвайс і стварыце зноў."
+
+msgid "activesync_va_error_secure"
+msgstr "Памылка. На серверы Exchange патрабуецца бяспечнае злучэнне ці рэгістрацыя адключана."
+
+msgid "activesync_va_error_server"
+msgstr "Памылка на серверы Exchange"
+
+msgid "activesync_va_error_server_policy"
+msgstr "Няўдача абавязковай палітыкі сервера Exchange. Адмоўлена ў доступе."
+
+msgid "activesync_va_error_sync"
+msgstr "Не атрымалася сінхранізавацца з серверам Exchange."
+
+msgid "activesync_va_error_system"
+msgstr "Сістэмная памылка на серверы Exchange."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Сервер Exchange недаступны"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Непадтрымоўваная версія сервера Exchange."
+
+msgid "activesync_va_every_12_hour"
+msgstr "Кожныя 12 гадзін"
+
+msgid "activesync_va_every_15_mins"
+msgstr "Кожныя 15 хвілін"
+
+msgid "activesync_va_every_30_mins"
+msgstr "Кожныя 30 хвілін"
+
+msgid "activesync_va_every_4_hours"
+msgstr "Кожныя 4 гадзіны"
+
+msgid "activesync_va_every_day"
+msgstr "Кожны дзень"
+
+msgid "activesync_va_every_hour"
+msgstr "Кожную гадзіну"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "Падрыхтоўка сінхранізацыі"
+
+msgid "activesync_va_idle"
+msgstr "Неактыўна"
+
+msgid "activesync_va_keep_items"
+msgstr "Захаванне дадзеных з дэвайса"
+
+msgid "activesync_va_last_sync"
+msgstr "Апошняя сінхранізацыя"
+
+msgid "activesync_va_manual"
+msgstr "Уручную"
+
+msgid "activesync_va_never"
+msgstr "Ніколі"
+
+msgid "activesync_va_one_day"
+msgstr "Дзень"
+
+msgid "activesync_va_one_month"
+msgstr "Месяц"
+
+msgid "activesync_va_one_week"
+msgstr "Тыдзень"
+
+msgid "activesync_va_online"
+msgstr "Онлайн"
+
+msgid "activesync_va_send_at_sync"
+msgstr "Адправіць пры наступнай сінхранізацыі"
+
+msgid "activesync_va_send_immediately"
+msgstr "Адправіць зараз"
+
+msgid "activesync_va_server_wins"
+msgstr "Усе паведамленні"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6 месяцаў"
+
+msgid "activesync_va_status"
+msgstr "Стан"
+
+msgid "activesync_va_status_menu_error"
+msgstr "Памылка сінхранізацыі"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "Апошняя сінхранізацыя % s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "Сінхранізацыя"
+
+msgid "activesync_va_sync_failed"
+msgstr "Не атрымоўваецца сінхранізаваць"
+
+msgid "activesync_va_sync_stopped"
+msgstr "Спынена"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "Сінхранізацыя календара: % d % d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "Сінхранізацыя кантактаў: % d % d"
+
+msgid "activesync_va_syncing_email"
+msgstr "Сінхранізація электроннай пошты: % d % d"
+
+msgid "activesync_va_three_days"
+msgstr "3 дня"
+
+msgid "activesync_va_three_months"
+msgstr "3 месяца"
+
+msgid "activesync_va_today"
+msgstr "Сёння"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 тыдня"
+
+msgid "activesync_va_updated"
+msgstr "Абнаўленне"
