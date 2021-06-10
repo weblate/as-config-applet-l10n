@@ -1,0 +1,513 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2012-05-30 14:29+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "接受安全風險"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "進階設定"
+
+msgid "activesync_bd_continue"
+msgstr "繼續"
+
+msgid "activesync_bd_details"
+msgstr "詳細資料"
+
+msgid "activesync_bd_dont_send"
+msgstr "不要傳送"
+
+msgid "activesync_bd_edit"
+msgstr "編輯回覆"
+
+msgid "activesync_bd_ignore"
+msgstr "略過"
+
+msgid "activesync_bd_manual_sync"
+msgstr "手動同步"
+
+msgid "activesync_bd_resync"
+msgstr "全部同步"
+
+msgid "activesync_bd_security_policy"
+msgstr "符合安全性原則"
+
+msgid "activesync_bd_send"
+msgstr "傳送"
+
+msgid "activesync_bd_settings"
+msgstr "設定"
+
+msgid "activesync_bd_signature"
+msgstr "簽名"
+
+msgid "activesync_bd_stop"
+msgstr "停止同步"
+
+msgid "activesync_bv_accept"
+msgstr "接受"
+
+msgid "activesync_bv_decline"
+msgstr "拒絕"
+
+msgid "activesync_bv_re_accepted"
+msgstr "已接受:"
+
+msgid "activesync_bv_re_declined"
+msgstr "已拒絕:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "暫訂:"
+
+msgid "activesync_bv_remove"
+msgstr "從行事曆移除"
+
+msgid "activesync_bv_tentative"
+msgstr "暫訂"
+
+msgid "activesync_fi_accepted_on"
+msgstr "接受於"
+
+msgid "activesync_fi_account_title"
+msgstr "帳號名稱"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "發生衝突時"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "複製已傳送電子郵件"
+
+msgid "activesync_fi_declined_on"
+msgstr "拒絕於"
+
+msgid "activesync_fi_domain"
+msgstr "網域名稱"
+
+msgid "activesync_fi_email_address"
+msgstr "郵件地址"
+
+msgid "activesync_fi_fingerprint"
+msgstr "指紋"
+
+msgid "activesync_fi_invitation"
+msgstr "會議邀請"
+
+msgid "activesync_fi_password"
+msgstr "密碼"
+
+msgid "activesync_fi_port"
+msgstr "連接埠"
+
+msgid "activesync_fi_secure_connection"
+msgstr "安全連線"
+
+msgid "activesync_fi_serial_no"
+msgstr "序號"
+
+msgid "activesync_fi_server"
+msgstr "伺服器"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mail for Exchange"
+
+msgid "activesync_fi_subject"
+msgstr "主題"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "同步行事曆和待辦事項"
+
+msgid "activesync_fi_sync_completed"
+msgstr "同步完成的"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "同步聯絡人"
+
+msgid "activesync_fi_sync_email"
+msgstr "同步電子郵件"
+
+msgid "activesync_fi_tentative_on"
+msgstr "暫訂接受於"
+
+msgid "activesync_fi_username"
+msgstr "用戶名稱"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "按「下一步」開始同步, 或結束精靈來使用另一帳戶\n\n點擊「進階設定」進入帳號進階設定."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "伺服器 %s 認證的指紋已改變\n這是一個安全性風險, 請連絡系統管理員."
+
+msgid "activesync_ia_code_change"
+msgstr "鎖定碼必需更改"
+
+msgid "activesync_ia_code_enable"
+msgstr "自動裝置鎖必需啟動"
+
+msgid "activesync_ia_code_timeout"
+msgstr "自動裝置鎖逾時必需小於 %d 分鐘. "
+
+msgid "activesync_ia_enter_password"
+msgstr "為認證 %s 輸入密碼"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "伺服器 %s 的憑證無效. 若這是可被信任的伺服器，請忽略這個警告. "
+
+msgid "activesync_ia_lock_settings"
+msgstr "Exchange 伺服器需要更改裝置鎖定設定."
+
+msgid "activesync_ia_wizard_text"
+msgstr "Mail for Exchange 設定精靈能讓你和你的 Exchange 伺服器進行電子郵件, 行事曆, 工作, 連絡人設定\n\n點擊「下一步」繼續"
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "無法取消傳送"
+
+msgid "activesync_in_error_attachment"
+msgstr "沒有足夠的儲存空間下載附件"
+
+msgid "activesync_in_error_server_type"
+msgstr "配置伺服器不是一台Exchange伺服器"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "裝置無法符合安全性原則的更改. 請連絡系統管理員. "
+
+msgid "activesync_in_pcsuite"
+msgstr "請注意，不建議同時使用電腦端套件和Mail For Exchange同步郵件。"
+
+msgid "activesync_in_wizard_open"
+msgstr "Mail for Exchange 設定精靈已經開啟"
+
+msgid "activesync_li_calendar"
+msgstr "行事曆"
+
+msgid "activesync_li_first_sync"
+msgstr "初始同步"
+
+msgid "activesync_li_messages_back"
+msgstr "住回同步訊息"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "離峰同步排程"
+
+msgid "activesync_li_peak_days"
+msgstr "尖峰日"
+
+msgid "activesync_li_peak_end"
+msgstr "尖峰結束時間"
+
+msgid "activesync_li_peak_start"
+msgstr "尖峰開始時間"
+
+msgid "activesync_li_peak_sync"
+msgstr "尖峰同步排程"
+
+msgid "activesync_li_send_policy"
+msgstr "傳送電子郵件"
+
+msgid "activesync_nc_certificate"
+msgstr "接受變更的認證? 接受前請向系統管理員查詢. "
+
+msgid "activesync_nc_delete"
+msgstr "刪除Mail for Exchange 帳號？"
+
+msgid "activesync_nc_first_sync"
+msgstr "取消初始同步?\n帳號設定都將會遺失."
+
+msgid "activesync_nc_full_sync"
+msgstr "您確定要停止同步？"
+
+msgid "activesync_ti_accepting"
+msgstr "接受會議邀請"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "行事曆和待辦事項"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "憑證已變更"
+
+msgid "activesync_ti_connection"
+msgstr "連線"
+
+msgid "activesync_ti_cpa"
+msgstr "Exchange 郵件"
+
+msgid "activesync_ti_credentials"
+msgstr "認證"
+
+msgid "activesync_ti_declining"
+msgstr "拒絕會議邀請"
+
+msgid "activesync_ti_details"
+msgstr "最後同步:詳細"
+
+msgid "activesync_ti_device_lock"
+msgstr "變更裝置鎖定設定"
+
+msgid "activesync_ti_email"
+msgstr "電子郵件"
+
+msgid "activesync_ti_first_sync"
+msgstr "初始同步"
+
+msgid "activesync_ti_full_sync"
+msgstr "完整重新同步"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "無效的憑證"
+
+msgid "activesync_ti_password"
+msgstr "已被密碼保護"
+
+msgid "activesync_ti_resync"
+msgstr "同步"
+
+msgid "activesync_ti_settings"
+msgstr "Exchange 郵件設定"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "行事曆和待辦事項"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "聯絡人"
+
+msgid "activesync_ti_sync_email"
+msgstr "電子郵件"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "同步日程"
+
+msgid "activesync_ti_tentatively"
+msgstr "暫訂接受邀請"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "同步內容"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "憑證"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "啟動同步"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "伺服器設定"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "歡迎!"
+
+msgid "activesync_va_added"
+msgstr "新增"
+
+msgid "activesync_va_all_entries"
+msgstr "所有記錄"
+
+msgid "activesync_va_all_messages"
+msgstr "所有郵件"
+
+msgid "activesync_va_always_on"
+msgstr "永遠連線"
+
+msgid "activesync_va_calendar"
+msgstr "行事曆"
+
+msgid "activesync_va_calendar_back"
+msgstr "往回同步行事曆"
+
+msgid "activesync_va_changed_policy"
+msgstr "安全性原則變更"
+
+msgid "activesync_va_complete"
+msgstr "完成"
+
+msgid "activesync_va_connected"
+msgstr "已連接"
+
+msgid "activesync_va_connecting"
+msgstr "連接中"
+
+msgid "activesync_va_contacts"
+msgstr "聯絡人"
+
+msgid "activesync_va_create_new"
+msgstr "建立新聯絡人"
+
+msgid "activesync_va_delete_items"
+msgstr "在裝置中刪除項目"
+
+msgid "activesync_va_deleted"
+msgstr "刪除"
+
+msgid "activesync_va_device_wins"
+msgstr "手機優先"
+
+msgid "activesync_va_disconnected"
+msgstr "連線中斷"
+
+msgid "activesync_va_email"
+msgstr "電子郵件"
+
+msgid "activesync_va_error_account_full"
+msgstr "Exchange伺服器的用戶帳號已滿."
+
+msgid "activesync_va_error_address"
+msgstr "對Exchange伺服器的主機地址無效."
+
+msgid "activesync_va_error_certificate"
+msgstr "伺服器驗證無效. 檢查設備的時間和日期的設置或聯繫伺服器管理員."
+
+msgid "activesync_va_error_communication"
+msgstr "與Exchange伺服器通訊錯誤."
+
+msgid "activesync_va_error_disabled"
+msgstr "Exchange 帳號被停用, 無法存取"
+
+msgid "activesync_va_error_disk_full"
+msgstr "用戶儲存空間已滿"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "無效的用戶名稱, 密碼或 Exchange 網域。"
+
+msgid "activesync_va_error_maintenance"
+msgstr "Exchange 伺服器正在維護中. 無法進行同步服務"
+
+msgid "activesync_va_error_no_response"
+msgstr "Exchange伺服器沒有回應."
+
+msgid "activesync_va_error_reinstall"
+msgstr "內部錯誤, 從裝置移除 Exchange 帳號, 重新啟動及設定"
+
+msgid "activesync_va_error_secure"
+msgstr "錯誤, Exchange 伺服器要求安全連線或帳號被禁用"
+
+msgid "activesync_va_error_server"
+msgstr "Exchange伺服器錯誤."
+
+msgid "activesync_va_error_server_policy"
+msgstr "強制套用Exchange伺服器的原則失敗.拒絕存取."
+
+msgid "activesync_va_error_sync"
+msgstr "無法與Exchange伺服器同步."
+
+msgid "activesync_va_error_system"
+msgstr "Exchange伺服器錯誤."
+
+msgid "activesync_va_error_unavailable"
+msgstr "Exchange伺服器無法使用."
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "Exchange伺服器不支援該軟體版本."
+
+msgid "activesync_va_every_12_hour"
+msgstr "每12小時"
+
+msgid "activesync_va_every_15_mins"
+msgstr "每15分鐘"
+
+msgid "activesync_va_every_30_mins"
+msgstr "每30分鐘"
+
+msgid "activesync_va_every_4_hours"
+msgstr "每4小時"
+
+msgid "activesync_va_every_day"
+msgstr "每天"
+
+msgid "activesync_va_every_hour"
+msgstr "每小時"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "初始化同步"
+
+msgid "activesync_va_idle"
+msgstr "閒置"
+
+msgid "activesync_va_keep_items"
+msgstr "保留手機項目"
+
+msgid "activesync_va_last_sync"
+msgstr "最後同步"
+
+msgid "activesync_va_manual"
+msgstr "手動"
+
+msgid "activesync_va_never"
+msgstr "從不"
+
+msgid "activesync_va_one_day"
+msgstr "一天"
+
+msgid "activesync_va_one_month"
+msgstr "一月"
+
+msgid "activesync_va_one_week"
+msgstr "一周"
+
+msgid "activesync_va_online"
+msgstr "連線"
+
+msgid "activesync_va_send_at_sync"
+msgstr "在下次同步傳送"
+
+msgid "activesync_va_send_immediately"
+msgstr "立即傳送"
+
+msgid "activesync_va_server_wins"
+msgstr "伺服器優先"
+
+msgid "activesync_va_service_provider"
+msgstr "Mail for Exchange"
+
+msgid "activesync_va_six_months"
+msgstr "6個月"
+
+msgid "activesync_va_status"
+msgstr "狀態"
+
+msgid "activesync_va_status_menu_error"
+msgstr "最後同步失敗"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "最後同步 %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "同步中"
+
+msgid "activesync_va_sync_failed"
+msgstr "同步失敗"
+
+msgid "activesync_va_sync_stopped"
+msgstr "停止"
+
+msgid "activesync_va_syncing_calendar"
+msgstr "同步行事曆: %d/%d"
+
+msgid "activesync_va_syncing_contacts"
+msgstr "同步通訊錄: %d/%d"
+
+msgid "activesync_va_syncing_email"
+msgstr "同步電子郵件: %d/%d"
+
+msgid "activesync_va_three_days"
+msgstr "3 天"
+
+msgid "activesync_va_three_months"
+msgstr "3 個月"
+
+msgid "activesync_va_today"
+msgstr "今天"
+
+msgid "activesync_va_two_weeks"
+msgstr "2周"
+
+msgid "activesync_va_updated"
+msgstr "更新"
