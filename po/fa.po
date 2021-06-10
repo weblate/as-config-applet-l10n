@@ -1,0 +1,514 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2011-11-06 14:36+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "قبول کردن ریسک امنیتی"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "تنظیمات پیشرفته"
+
+msgid "activesync_bd_continue"
+msgstr "ادامه"
+
+msgid "activesync_bd_details"
+msgstr "جزئیات"
+
+msgid "activesync_bd_dont_send"
+msgstr "نفرست"
+
+msgid "activesync_bd_edit"
+msgstr "ویرایش کردن پاسخ"
+
+msgid "activesync_bd_ignore"
+msgstr "نادیده بگیر"
+
+msgid "activesync_bd_manual_sync"
+msgstr "همسان سازی دستی"
+
+msgid "activesync_bd_resync"
+msgstr "همسان سازی کامل"
+
+msgid "activesync_bd_security_policy"
+msgstr "مطابق سیاست امنیتی"
+
+msgid "activesync_bd_send"
+msgstr "ارسال"
+
+msgid "activesync_bd_settings"
+msgstr "تنظیمات"
+
+msgid "activesync_bd_signature"
+msgstr "امضاء"
+
+msgid "activesync_bd_stop"
+msgstr "توقف همسان سازی"
+
+msgid "activesync_bv_accept"
+msgstr "قبول"
+
+msgid "activesync_bv_decline"
+msgstr "رد"
+
+msgid "activesync_bv_re_accepted"
+msgstr ":قبول شد"
+
+msgid "activesync_bv_re_declined"
+msgstr ":رد شد"
+
+msgid "activesync_bv_re_tentative"
+msgstr ":سعی"
+
+msgid "activesync_bv_remove"
+msgstr "پاک کردن از تقویم"
+
+msgid "activesync_bv_tentative"
+msgstr "آزمایشی"
+
+msgid "activesync_fi_accepted_on"
+msgstr "پذیرفته شده "
+
+msgid "activesync_fi_account_title"
+msgstr "عنوان حساب"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "حل ناسازگاری"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "کپی از ایمیل های خروجی"
+
+msgid "activesync_fi_declined_on"
+msgstr "کاهش یافتن "
+
+msgid "activesync_fi_domain"
+msgstr "دامنه"
+
+msgid "activesync_fi_email_address"
+msgstr "آدرس ایمیل"
+
+msgid "activesync_fi_fingerprint"
+msgstr "اثر انگشت"
+
+msgid "activesync_fi_invitation"
+msgstr "دعوت"
+
+msgid "activesync_fi_password"
+msgstr "رمز عبور"
+
+msgid "activesync_fi_port"
+msgstr "پورت"
+
+msgid "activesync_fi_secure_connection"
+msgstr "ارتباط امن"
+
+msgid "activesync_fi_serial_no"
+msgstr "شماره سریال"
+
+msgid "activesync_fi_server"
+msgstr "سرور"
+
+msgid "activesync_fi_status_menu"
+msgstr "ایمیل برای تبادل"
+
+msgid "activesync_fi_subject"
+msgstr "موضوع"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "همسان سازی تقویم و وظایف"
+
+msgid "activesync_fi_sync_completed"
+msgstr "همسان سازی کارهای انجام شده"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "همسان سازی تماس ها"
+
+msgid "activesync_fi_sync_email"
+msgstr "همسان سازی ایمیل"
+
+msgid "activesync_fi_tentative_on"
+msgstr "سعی قبول شد"
+
+msgid "activesync_fi_username"
+msgstr "نام کاربری"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr "برای شروع همسان سازی اولیه ، دکمهء 'بعدی' را فشار دهید یا برای پاک کردن حساب کاربری جدید فضای خارج از کادر را فشار دهید.\n\nبرای انجام تغییرات پیشرفته در حساب کاربری ، از \" تنظیمات پیشرفته \" استفاده نمائید"
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr "تغییر یافته است %s اثر انگشت گواهینامهء سرور .\nاین یک ریسک امنیتی است . لطفا با مدیر سرور مشورت کنید"
+
+msgid "activesync_ia_code_change"
+msgstr "کد قفل دستگاه باید تغییر یابد"
+
+msgid "activesync_ia_code_enable"
+msgstr "قفل اتوماتیک دستگاه باید فعال باشد"
+
+msgid "activesync_ia_code_timeout"
+msgstr "دقیقه باشد %d زمان قفل اتوماتیک دستگاه باید کمتر از"
+
+msgid "activesync_ia_enter_password"
+msgstr "برای کسب گواهینامه رمز عبور را وارد کنید %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr "نا معتبر است اگر سرور قابل اطمینان است ، این اخطار را نادیده بگیرید %s گواهینامه‌ی سرور"
+
+msgid "activesync_ia_lock_settings"
+msgstr "سرور تبادل نیاز به تغییر تنظیمات قفل دستگاه دارد"
+
+msgid "activesync_ia_wizard_text"
+msgstr "نصب تبادل پست به شما اجاره می دهد تا یک حساب ایمیل برای تبادل پست ایجاد کنید . با این کار میتوانید ایمیل ، تقویم ، وظایف و تماس ها را بین دستگاه و سرور تبادل همسان سازی کنید.\n\nبرای ادامه 'بعدی' را انتخاب کنید"
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "ارسال غیر قابل انصراف است"
+
+msgid "activesync_in_error_attachment"
+msgstr ""
+
+msgid "activesync_in_error_server_type"
+msgstr "سرور پیکربندی شده یک سرور تبادل نیست"
+
+msgid "activesync_in_incompatible_policy"
+msgstr "دستگاه موفق تغییر سیاست امنیتی نیست . با مدیریت تماس بگیرید"
+
+msgid "activesync_in_pcsuite"
+msgstr "توجه ! پیشنهاد نمی‌شود از پی‌سی‌سویت برای همسان‌سازی بصورت همزمان با تبادل ایمیل استفاده کنید"
+
+msgid "activesync_in_wizard_open"
+msgstr "سرویس نصب تبادل ایمیل در حال حاضر باز است."
+
+msgid "activesync_li_calendar"
+msgstr "تقویم"
+
+msgid "activesync_li_first_sync"
+msgstr "اولین همسان سازی"
+
+msgid "activesync_li_messages_back"
+msgstr "بازگشت از همسان سازی پیام‌ها"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "برنامه ی تعطیلات"
+
+msgid "activesync_li_peak_days"
+msgstr "روز کاری"
+
+msgid "activesync_li_peak_end"
+msgstr "حداکثر زمان پایان"
+
+msgid "activesync_li_peak_start"
+msgstr "حداکثر زمان شروع"
+
+msgid "activesync_li_peak_sync"
+msgstr "برنامهء روز کاری"
+
+msgid "activesync_li_send_policy"
+msgstr "زمان ارسال پست الکترونیکی"
+
+msgid "activesync_nc_certificate"
+msgstr "قبول گواهینامه‌ی تغییر یافته؟\nقبل از پذیرش با مدیر سرور مشورت کنید "
+
+msgid "activesync_nc_delete"
+msgstr "حساب کاربری ایمیل تبادل حذف شود؟"
+
+msgid "activesync_nc_first_sync"
+msgstr "انصراف از همسان سازی اولیه؟\nتنظیمات حساب از دست خواهد رفت"
+
+msgid "activesync_nc_full_sync"
+msgstr "مطمئن هستید که میخواهید همسان سازی را متوقف کنید؟"
+
+msgid "activesync_ti_accepting"
+msgstr "قبول کردن دعوت"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "تقویم و وظایف"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "گواهینامه عوض شد"
+
+msgid "activesync_ti_connection"
+msgstr "اتصال"
+
+msgid "activesync_ti_cpa"
+msgstr "ایمیل برای تبادل"
+
+msgid "activesync_ti_credentials"
+msgstr "اعتبار نامه"
+
+msgid "activesync_ti_declining"
+msgstr "رد کردن دعوت"
+
+msgid "activesync_ti_details"
+msgstr "آخرین همسان سازی : جزئیات"
+
+msgid "activesync_ti_device_lock"
+msgstr "تغییر تنظیمات قفل دستگاه"
+
+msgid "activesync_ti_email"
+msgstr "پست الکترونیکی"
+
+msgid "activesync_ti_first_sync"
+msgstr "اولین همسان سازی"
+
+msgid "activesync_ti_full_sync"
+msgstr "همسان سازی کامل"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "گواهینامه نامعتبر"
+
+msgid "activesync_ti_password"
+msgstr "محافظت شده بواسطه‌ی رمز عبور"
+
+msgid "activesync_ti_resync"
+msgstr "همسان سازی دوباره"
+
+msgid "activesync_ti_settings"
+msgstr "تنظیمات تبادل ایمیل"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "تقویم و وظایف"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "تماس ها"
+
+msgid "activesync_ti_sync_email"
+msgstr "ایمیل"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "برنامهء همسان سازی"
+
+msgid "activesync_ti_tentatively"
+msgstr "قبول موقتی دعوت"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "محتوای همسان سازی"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "اعتبار نامه"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "شروع همسان سازی"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "تنظیمات سرور"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "خوش آمدید"
+
+msgid "activesync_va_added"
+msgstr "اضافه شد"
+
+msgid "activesync_va_all_entries"
+msgstr "همه جزئیات"
+
+msgid "activesync_va_all_messages"
+msgstr "همهء پیغام ها"
+
+msgid "activesync_va_always_on"
+msgstr "همیشه روشن"
+
+msgid "activesync_va_calendar"
+msgstr "تقویم"
+
+msgid "activesync_va_calendar_back"
+msgstr "بازگشت از همسان سازی تقویم"
+
+msgid "activesync_va_changed_policy"
+msgstr "تغییر در سیاست امنیتی"
+
+msgid "activesync_va_complete"
+msgstr ""
+
+msgid "activesync_va_connected"
+msgstr "ارتباط برقرار شد"
+
+msgid "activesync_va_connecting"
+msgstr ""
+
+msgid "activesync_va_contacts"
+msgstr "تماس ها"
+
+msgid "activesync_va_create_new"
+msgstr "ایجاد"
+
+msgid "activesync_va_delete_items"
+msgstr "حذف آیتم ها از دستگاه"
+
+msgid "activesync_va_deleted"
+msgstr "حذف شد"
+
+msgid "activesync_va_device_wins"
+msgstr "اولویت با دستگاه"
+
+msgid "activesync_va_disconnected"
+msgstr "ارتباط قطع شد"
+
+msgid "activesync_va_email"
+msgstr "ایمیل"
+
+msgid "activesync_va_error_account_full"
+msgstr "حساب کاربری تبادل الکترونیکی پر است"
+
+msgid "activesync_va_error_address"
+msgstr "آدرس هاست برای سرور تبادل ، نامعتبر است"
+
+msgid "activesync_va_error_certificate"
+msgstr "گواهی مرکز نامعتبر است. ساعت و تاریخ دستگاه را چک کنید و یا با مدیر مرکز تماس بگیرید"
+
+msgid "activesync_va_error_communication"
+msgstr "اشکال در برقراری ارتباط با سرور تبادل"
+
+msgid "activesync_va_error_disabled"
+msgstr "حساب تبادل غیرفعال شد . درخواست دسترسی رد شد"
+
+msgid "activesync_va_error_disk_full"
+msgstr "ذخیرهء کاربری کامل است"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "نامعتبر بودن نام کاربری ، رمز عبور یا دامنه برای حساب کاربری تبادل الکترونیکی"
+
+msgid "activesync_va_error_maintenance"
+msgstr "سرور تبادل در حال تعمیر میباشد. امکان همسان سازی نیست"
+
+msgid "activesync_va_error_no_response"
+msgstr "سرور تبادل پاسخ نميدهد . مطمئن شوید که تنظیمات حساب درست باشد"
+
+msgid "activesync_va_error_reinstall"
+msgstr "خطا در سيستم\n حساب کاربري تبادل را از دستگاه حذف کنيد ، دستگاه را مجدد راه‌اندازی و حساب کاربري را از نو ايجاد کنيد"
+
+msgid "activesync_va_error_secure"
+msgstr "خطا\nسرور تبادل نياز به ارتباط امن دارد يا حساب کاربري شما غير فعال است"
+
+msgid "activesync_va_error_server"
+msgstr "اشکال در سرور تبادل"
+
+msgid "activesync_va_error_server_policy"
+msgstr "شکست اجباری سرور تبادل الکترونیکی . امکان دسترسی وجود ندارد"
+
+msgid "activesync_va_error_sync"
+msgstr "قادر به همسان سازی با سرور تبادل نیست"
+
+msgid "activesync_va_error_system"
+msgstr "خطای سیستمی در سرور تبادل"
+
+msgid "activesync_va_error_unavailable"
+msgstr "سرور تبادل در دسترس نیست"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "نسخهء نرم افزاری در سرور تبادل پشتیبانی نمی‌شود"
+
+msgid "activesync_va_every_12_hour"
+msgstr "هر دوازده ساعت"
+
+msgid "activesync_va_every_15_mins"
+msgstr "هر پانزده دقیقه"
+
+msgid "activesync_va_every_30_mins"
+msgstr "هر سی دقیقه"
+
+msgid "activesync_va_every_4_hours"
+msgstr "هر چهار ساعت"
+
+msgid "activesync_va_every_day"
+msgstr "هر روز"
+
+msgid "activesync_va_every_hour"
+msgstr "هر ساعت"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "شروع همسان سازی"
+
+msgid "activesync_va_idle"
+msgstr "بی کاری"
+
+msgid "activesync_va_keep_items"
+msgstr "نگهداری آیتم ها در دستگاه"
+
+msgid "activesync_va_last_sync"
+msgstr "آخرین همسان سازی"
+
+msgid "activesync_va_manual"
+msgstr "دستی"
+
+msgid "activesync_va_never"
+msgstr "هیچ وقت"
+
+msgid "activesync_va_one_day"
+msgstr "یک روز"
+
+msgid "activesync_va_one_month"
+msgstr "یک ماه"
+
+msgid "activesync_va_one_week"
+msgstr "یک هفته"
+
+msgid "activesync_va_online"
+msgstr "آنلاین"
+
+msgid "activesync_va_send_at_sync"
+msgstr "ارسال در همسان سازی بعدی"
+
+msgid "activesync_va_send_immediately"
+msgstr "ارسال فوری"
+
+msgid "activesync_va_server_wins"
+msgstr "اولویت با سرور"
+
+msgid "activesync_va_service_provider"
+msgstr "پست الکترونیکی"
+
+msgid "activesync_va_six_months"
+msgstr "شش ماه"
+
+msgid "activesync_va_status"
+msgstr "وضعیت"
+
+msgid "activesync_va_status_menu_error"
+msgstr "آخرین همسان سازی با مشکل مواجه شد"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "آخرین همسان سازی %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "همسان سازی"
+
+msgid "activesync_va_sync_failed"
+msgstr "همسان سازی با مشکل مواجه شد"
+
+msgid "activesync_va_sync_stopped"
+msgstr "متوقف شد"
+
+msgid "activesync_va_syncing_calendar"
+msgstr ""
+
+msgid "activesync_va_syncing_contacts"
+msgstr ""
+
+msgid "activesync_va_syncing_email"
+msgstr ""
+
+msgid "activesync_va_three_days"
+msgstr "سه روز"
+
+msgid "activesync_va_three_months"
+msgstr "سه ماه"
+
+msgid "activesync_va_today"
+msgstr "امروز"
+
+msgid "activesync_va_two_weeks"
+msgstr "دو هفته"
+
+msgid "activesync_va_updated"
+msgstr "آپدیت شد"
