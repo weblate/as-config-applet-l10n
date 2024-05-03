@@ -1,525 +1,493 @@
-# 
-# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
-"issues/list\n"
-"POT-Creation-Date: 2009.10.19 16:14+0300\n"
-"PO-Revision-Date: 2022-08-15 07:15+0000\n"
-"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"maemo-leste/as-config-applet-l10n/zh_Hans/>\n"
-"Language: zh_CN\n"
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 msgid "activesync_bd_accept_risk"
-msgstr "接受安全风险"
+msgstr ""
 
 msgid "activesync_bd_advanced_settings"
-msgstr "高级设置"
+msgstr ""
 
 msgid "activesync_bd_continue"
-msgstr "继续"
+msgstr ""
 
 msgid "activesync_bd_details"
-msgstr "详细信息"
+msgstr ""
 
 msgid "activesync_bd_dont_send"
-msgstr "不要传送"
+msgstr ""
 
 msgid "activesync_bd_edit"
-msgstr "编辑回复"
+msgstr ""
 
 msgid "activesync_bd_ignore"
-msgstr "略过"
+msgstr ""
 
 msgid "activesync_bd_manual_sync"
-msgstr "手动同步"
+msgstr ""
 
 msgid "activesync_bd_resync"
-msgstr "全部同步"
+msgstr ""
 
 msgid "activesync_bd_security_policy"
-msgstr "符合安全性原则"
+msgstr ""
 
 msgid "activesync_bd_send"
-msgstr "传送"
+msgstr ""
 
 msgid "activesync_bd_settings"
-msgstr "设置"
+msgstr ""
 
 msgid "activesync_bd_signature"
-msgstr "签名"
+msgstr ""
 
 msgid "activesync_bd_stop"
-msgstr "停止同步"
+msgstr ""
 
 msgid "activesync_bv_accept"
-msgstr "接受"
+msgstr ""
 
 msgid "activesync_bv_decline"
-msgstr "拒绝"
+msgstr ""
 
 msgid "activesync_bv_re_accepted"
-msgstr "已接受:"
+msgstr ""
 
 msgid "activesync_bv_re_declined"
-msgstr "已拒绝:"
+msgstr ""
 
 msgid "activesync_bv_re_tentative"
-msgstr "暂订:"
+msgstr ""
 
 msgid "activesync_bv_remove"
-msgstr "从日历中移除"
+msgstr ""
 
 msgid "activesync_bv_tentative"
-msgstr "暂订"
+msgstr ""
 
 msgid "activesync_fi_accepted_on"
-msgstr "接受于"
+msgstr ""
 
 msgid "activesync_fi_account_title"
-msgstr "账户名称"
+msgstr ""
 
 msgid "activesync_fi_conflict_resolution"
-msgstr "解决冲突"
+msgstr ""
 
 msgid "activesync_fi_copy_outgoing_emails"
-msgstr "复制已发电子邮件"
+msgstr ""
 
 msgid "activesync_fi_declined_on"
-msgstr "拒绝于"
+msgstr ""
 
 msgid "activesync_fi_domain"
-msgstr "域名"
+msgstr ""
 
 msgid "activesync_fi_email_address"
-msgstr "邮件地址"
+msgstr ""
 
 msgid "activesync_fi_fingerprint"
-msgstr "指纹码"
+msgstr ""
 
 msgid "activesync_fi_invitation"
-msgstr "会议邀请"
+msgstr ""
 
 msgid "activesync_fi_password"
-msgstr "密码"
+msgstr ""
 
 msgid "activesync_fi_port"
-msgstr "端口"
+msgstr ""
 
 msgid "activesync_fi_secure_connection"
-msgstr "安全连接"
+msgstr ""
 
 msgid "activesync_fi_serial_no"
-msgstr "序号"
+msgstr ""
 
 msgid "activesync_fi_server"
-msgstr "服务器"
+msgstr ""
 
 msgid "activesync_fi_status_menu"
-msgstr "Exchange 邮件"
+msgstr ""
 
 msgid "activesync_fi_subject"
-msgstr "主题"
+msgstr ""
 
 msgid "activesync_fi_sync_calendar"
-msgstr "同步日历和任务"
+msgstr ""
 
 msgid "activesync_fi_sync_completed"
-msgstr "同步完成的任务"
+msgstr ""
 
 msgid "activesync_fi_sync_contacts"
-msgstr "同步联系人"
+msgstr ""
 
 msgid "activesync_fi_sync_email"
-msgstr "同步电子邮件"
+msgstr ""
 
 msgid "activesync_fi_tentative_on"
-msgstr "暂订接受于"
+msgstr ""
 
 msgid "activesync_fi_username"
-msgstr "用户名"
+msgstr ""
 
 msgid "activesync_fi_wizard_finish_text"
 msgstr ""
-"按“下一步”开始同步或放弃向导使用另外新账户.\n"
-"\n"
-"按“高级设置”进入账户高级设置."
 
 msgid "activesync_ia_changed_fingerprint"
 msgstr ""
-"服务器 %s 的证书指纹已改变。\n"
-"这是一个安全性风险, 请联系系统管理员"
 
 msgid "activesync_ia_code_change"
-msgstr "锁定码必需更改。"
+msgstr ""
 
 msgid "activesync_ia_code_enable"
-msgstr "自动装置锁必需启动。"
+msgstr ""
 
 msgid "activesync_ia_code_timeout"
-msgstr "自动装置锁逾时必需小于 %d 分钟."
+msgstr ""
 
 msgid "activesync_ia_enter_password"
-msgstr "为证书 %s 输入密码"
+msgstr ""
 
 msgid "activesync_ia_invalid_certificate"
-msgstr "服务器%s 的认证无效. 若这是可被信任的服务器，请忽略这个警告."
+msgstr ""
 
 msgid "activesync_ia_lock_settings"
-msgstr "Exchange 服务器需要更改装置锁定设定."
+msgstr ""
 
 msgid "activesync_ia_wizard_text"
 msgstr ""
-"Mail for Exchange 向导能让你对你的 Exchange "
-"服务器进行电子邮件,日历,工作,联系人进行设定。\n"
-"\n"
-"点击“下一步”继续。"
 
 msgid "activesync_ib_cannot_cancel_sending"
-msgstr "无法取消传送"
-
-msgid "activesync_in_error_attachment"
-msgstr "没有足够的存储空间下载附件"
+msgstr ""
 
 msgid "activesync_in_error_server_type"
-msgstr "配置服务器不是一个Exchange服务器"
+msgstr ""
 
 msgid "activesync_in_incompatible_policy"
-msgstr "装置无法符合安全性原则的更改. 请连络系统管理员."
+msgstr ""
 
 msgid "activesync_in_pcsuite"
-msgstr "请注意,不建议同时使用PC套件和Exchange同步邮件."
+msgstr ""
 
 msgid "activesync_in_wizard_open"
-msgstr "Exchange邮件向导已经打开"
+msgstr ""
 
 msgid "activesync_li_calendar"
-msgstr "日历"
+msgstr ""
 
 msgid "activesync_li_first_sync"
-msgstr "第一次同步"
+msgstr ""
 
 msgid "activesync_li_messages_back"
-msgstr "返回同步信息"
+msgstr ""
 
 msgid "activesync_li_offpeak_sync"
-msgstr "非高峰时间"
+msgstr ""
 
 msgid "activesync_li_peak_days"
-msgstr "繁忙日期"
+msgstr ""
 
 msgid "activesync_li_peak_end"
-msgstr "高峰结束时间"
+msgstr ""
 
 msgid "activesync_li_peak_start"
-msgstr "开始时间"
+msgstr ""
 
 msgid "activesync_li_peak_sync"
-msgstr "峰值时间"
+msgstr ""
 
 msgid "activesync_li_send_policy"
-msgstr "发送电子邮件"
+msgstr ""
 
 msgid "activesync_nc_certificate"
-msgstr "接受变更的证书? 接受前请向系统管理员查询."
+msgstr ""
 
 msgid "activesync_nc_delete"
-msgstr "删除Exchange账户?"
+msgstr ""
 
 msgid "activesync_nc_first_sync"
-msgstr "取消初始同步?\n帐号设置都将丢失."
+msgstr ""
 
 msgid "activesync_nc_full_sync"
-msgstr "您确定要停止同步?"
+msgstr ""
 
 msgid "activesync_ti_accepting"
-msgstr "接受会议邀请"
+msgstr ""
 
 msgid "activesync_ti_calendar_tasks"
-msgstr "日历和任务"
+msgstr ""
 
 msgid "activesync_ti_changed_certificate"
-msgstr "证书已变更"
+msgstr ""
 
 msgid "activesync_ti_connection"
-msgstr "连接"
+msgstr ""
 
 msgid "activesync_ti_cpa"
-msgstr "Exchange 邮件"
+msgstr ""
 
 msgid "activesync_ti_credentials"
-msgstr "证书"
+msgstr ""
 
 msgid "activesync_ti_declining"
-msgstr "拒绝会议邀请"
+msgstr ""
 
 msgid "activesync_ti_details"
-msgstr "最后同步:详细"
+msgstr ""
 
 msgid "activesync_ti_device_lock"
-msgstr "变更装置锁定设定"
+msgstr ""
 
 msgid "activesync_ti_email"
-msgstr "电子邮件"
+msgstr ""
 
 msgid "activesync_ti_first_sync"
-msgstr "第一次同步"
+msgstr ""
 
 msgid "activesync_ti_full_sync"
-msgstr "完全同步"
+msgstr ""
 
 msgid "activesync_ti_invalid_certificate"
-msgstr "无效的证书"
+msgstr ""
 
 msgid "activesync_ti_password"
-msgstr "已被密码保护"
+msgstr ""
 
 msgid "activesync_ti_resync"
-msgstr "同步"
+msgstr ""
 
 msgid "activesync_ti_settings"
-msgstr "Exchange 邮件设置"
+msgstr ""
 
 msgid "activesync_ti_sync_calendar"
-msgstr "日历和任务"
+msgstr ""
 
 msgid "activesync_ti_sync_contacts"
-msgstr "联系人"
+msgstr ""
 
 msgid "activesync_ti_sync_email"
-msgstr "电子邮件"
+msgstr ""
 
 msgid "activesync_ti_sync_schedule"
-msgstr "同步日程"
+msgstr ""
 
 msgid "activesync_ti_tentatively"
-msgstr "暂订接受邀请"
+msgstr ""
 
 msgid "activesync_ti_wizard_content_settings"
-msgstr "同步内容"
+msgstr ""
 
 msgid "activesync_ti_wizard_credentials"
-msgstr "证书"
+msgstr ""
 
 msgid "activesync_ti_wizard_finish"
-msgstr "启动同步"
+msgstr ""
 
 msgid "activesync_ti_wizard_server_settings"
-msgstr "服务器设置"
+msgstr ""
 
 msgid "activesync_ti_wizard_welcome"
-msgstr "欢迎"
+msgstr ""
 
 msgid "activesync_va_added"
-msgstr "新增"
+msgstr ""
 
 msgid "activesync_va_all_entries"
-msgstr "所有记录"
+msgstr ""
 
 msgid "activesync_va_all_messages"
-msgstr "所有邮件"
+msgstr ""
 
 msgid "activesync_va_always_on"
-msgstr "总是在线"
+msgstr ""
 
 msgid "activesync_va_calendar"
-msgstr "日历"
+msgstr ""
 
 msgid "activesync_va_calendar_back"
-msgstr "返回同步日历"
+msgstr ""
 
 msgid "activesync_va_changed_policy"
-msgstr "安全性原则变更"
-
-msgid "activesync_va_complete"
-msgstr "完成"
+msgstr ""
 
 msgid "activesync_va_connected"
-msgstr "已连接"
-
-msgid "activesync_va_connecting"
-msgstr "连接中"
+msgstr ""
 
 msgid "activesync_va_contacts"
-msgstr "联系人"
+msgstr ""
 
 msgid "activesync_va_create_new"
-msgstr "创建新联系人"
+msgstr ""
 
 msgid "activesync_va_delete_items"
-msgstr "在设备中删除项目"
+msgstr ""
 
 msgid "activesync_va_deleted"
-msgstr "删除"
+msgstr ""
 
 msgid "activesync_va_device_wins"
-msgstr "设备网络需要优先"
+msgstr ""
 
 msgid "activesync_va_disconnected"
-msgstr "未连接"
+msgstr ""
 
 msgid "activesync_va_email"
-msgstr "电子邮件"
+msgstr ""
 
 msgid "activesync_va_error_account_full"
-msgstr "Exchange服务器的用户账户已满."
+msgstr ""
 
 msgid "activesync_va_error_address"
-msgstr "Exchange服务器的主机地址无效."
+msgstr ""
 
 msgid "activesync_va_error_certificate"
-msgstr "服务器验证无效. 检查设备的时间和日期的设置或联系服务器管理员."
+msgstr ""
 
 msgid "activesync_va_error_communication"
-msgstr "与Exchange服务器通讯错误."
+msgstr ""
 
 msgid "activesync_va_error_disabled"
-msgstr "外部账户被停用,拒绝访问."
+msgstr ""
 
 msgid "activesync_va_error_disk_full"
-msgstr "用户存储空间已满"
+msgstr ""
 
 msgid "activesync_va_error_invalid_credentials"
-msgstr "无效的用户名,密码或外部账户."
+msgstr ""
 
 msgid "activesync_va_error_maintenance"
-msgstr "Exchange 服务器正在维护中。同步服务不可用。"
+msgstr ""
 
 msgid "activesync_va_error_no_response"
-msgstr "Exchange服务器没有响应."
+msgstr ""
 
 msgid "activesync_va_error_reinstall"
-msgstr "内部错误, 从设备中移除 Exchange 帐号, 重新启动设备然后重新设置。"
+msgstr ""
 
 msgid "activesync_va_error_secure"
-msgstr "错误.Exchange服务器要求安全连接或账户被禁用."
+msgstr ""
 
 msgid "activesync_va_error_server"
-msgstr "Exchange 服务器发生错误。"
+msgstr ""
 
 msgid "activesync_va_error_server_policy"
-msgstr "强制性Exchange服务器的政策失败,拒绝访问."
+msgstr ""
 
 msgid "activesync_va_error_sync"
-msgstr "无法与Exchange服务器同步."
+msgstr ""
 
 msgid "activesync_va_error_system"
-msgstr "Exchange服务器错误."
+msgstr ""
 
 msgid "activesync_va_error_unavailable"
-msgstr "Exchange 服务器不可用。"
+msgstr ""
 
 msgid "activesync_va_error_unsupported_version"
-msgstr "Exchange服务器不支持该软件版本."
+msgstr ""
 
 msgid "activesync_va_every_12_hour"
-msgstr "每12小时"
+msgstr ""
 
 msgid "activesync_va_every_15_mins"
-msgstr "每15分钟"
+msgstr ""
 
 msgid "activesync_va_every_30_mins"
-msgstr "每30分钟"
+msgstr ""
 
 msgid "activesync_va_every_4_hours"
-msgstr "每4小时"
+msgstr ""
 
 msgid "activesync_va_every_day"
-msgstr "每天"
+msgstr ""
 
 msgid "activesync_va_every_hour"
-msgstr "每小时"
+msgstr ""
 
 msgid "activesync_va_full_sync_starting"
-msgstr "初始化同步"
+msgstr ""
 
 msgid "activesync_va_idle"
-msgstr "空闲时"
+msgstr ""
 
 msgid "activesync_va_keep_items"
-msgstr "保留本地项目"
+msgstr ""
 
 msgid "activesync_va_last_sync"
-msgstr "最后同步"
+msgstr ""
 
 msgid "activesync_va_manual"
-msgstr "手动"
+msgstr ""
 
 msgid "activesync_va_never"
-msgstr "从不"
+msgstr ""
 
 msgid "activesync_va_one_day"
-msgstr "一天"
+msgstr ""
 
 msgid "activesync_va_one_month"
-msgstr "一月"
+msgstr ""
 
 msgid "activesync_va_one_week"
-msgstr "一周"
+msgstr ""
 
 msgid "activesync_va_online"
-msgstr "在线"
+msgstr ""
 
 msgid "activesync_va_send_at_sync"
-msgstr "在下次同步传送"
+msgstr ""
 
 msgid "activesync_va_send_immediately"
-msgstr "立即发送"
+msgstr ""
 
 msgid "activesync_va_server_wins"
-msgstr "服务器优先"
+msgstr ""
 
 msgid "activesync_va_service_provider"
-msgstr "Exchange 邮件"
+msgstr ""
 
 msgid "activesync_va_six_months"
-msgstr "6个月"
+msgstr ""
 
 msgid "activesync_va_status"
-msgstr "状态"
+msgstr ""
 
 msgid "activesync_va_status_menu_error"
-msgstr "最后同步失败"
+msgstr ""
 
 msgid "activesync_va_status_menu_last_sync"
-msgstr "最后同步 %s"
+msgstr ""
 
 msgid "activesync_va_status_menu_synchronizing"
-msgstr "同步中"
+msgstr ""
 
 msgid "activesync_va_sync_failed"
-msgstr "同步失败"
+msgstr ""
 
 msgid "activesync_va_sync_stopped"
-msgstr "停止"
-
-msgid "activesync_va_syncing_calendar"
-msgstr "同步日历项: %d/%d"
-
-msgid "activesync_va_syncing_contacts"
-msgstr "同步联系人: %d/%d"
-
-msgid "activesync_va_syncing_email"
-msgstr "同步电子邮箱: %d/%d"
+msgstr ""
 
 msgid "activesync_va_three_days"
-msgstr "3 天"
+msgstr ""
 
 msgid "activesync_va_three_months"
-msgstr "3 个月"
+msgstr ""
 
 msgid "activesync_va_today"
-msgstr "今天"
+msgstr ""
 
 msgid "activesync_va_two_weeks"
-msgstr "2周"
+msgstr ""
 
 msgid "activesync_va_updated"
-msgstr "更新"
+msgstr ""
