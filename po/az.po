@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2024-06-24 07:09+0000\n"
+"Last-Translator: Mehrab Poladov <thepoladov@protonmail.com>\n"
+"Language-Team: Azerbaijani <https://hosted.weblate.org/projects/maemo-leste/"
+"as-config-applet-l10n/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6-rc\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Təhlükəsizlik riskini qəbul edin"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Qabaqcıl parametrlər"
+
+msgid "activesync_bd_continue"
+msgstr "Davam et"
+
+msgid "activesync_bd_details"
+msgstr "Təfərrüatlar"
+
+msgid "activesync_bd_dont_send"
+msgstr "Göndərməyin"
+
+msgid "activesync_bd_edit"
+msgstr "Cavab redaktə edin"
+
+msgid "activesync_bd_ignore"
+msgstr "Yoxsay"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Əl ilə sinxronizasiya"
+
+msgid "activesync_bd_resync"
+msgstr "Tam sinxronizasiya"
+
+msgid "activesync_bd_security_policy"
+msgstr "Təhlükəsizlik siyasətinə əməl edin"
+
+msgid "activesync_bd_send"
+msgstr "Göndər"
+
+msgid "activesync_bd_settings"
+msgstr ""
+
+msgid "activesync_bd_signature"
+msgstr ""
+
+msgid "activesync_bd_stop"
+msgstr ""
+
+msgid "activesync_bv_accept"
+msgstr ""
+
+msgid "activesync_bv_decline"
+msgstr ""
+
+msgid "activesync_bv_re_accepted"
+msgstr ""
+
+msgid "activesync_bv_re_declined"
+msgstr ""
+
+msgid "activesync_bv_re_tentative"
+msgstr ""
+
+msgid "activesync_bv_remove"
+msgstr ""
+
+msgid "activesync_bv_tentative"
+msgstr ""
+
+msgid "activesync_fi_accepted_on"
+msgstr ""
+
+msgid "activesync_fi_account_title"
+msgstr ""
+
+msgid "activesync_fi_conflict_resolution"
+msgstr ""
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr ""
+
+msgid "activesync_fi_declined_on"
+msgstr ""
+
+msgid "activesync_fi_domain"
+msgstr ""
+
+msgid "activesync_fi_email_address"
+msgstr ""
+
+msgid "activesync_fi_fingerprint"
+msgstr ""
+
+msgid "activesync_fi_invitation"
+msgstr ""
+
+msgid "activesync_fi_password"
+msgstr ""
+
+msgid "activesync_fi_port"
+msgstr ""
+
+msgid "activesync_fi_secure_connection"
+msgstr ""
+
+msgid "activesync_fi_serial_no"
+msgstr ""
+
+msgid "activesync_fi_server"
+msgstr ""
+
+msgid "activesync_fi_status_menu"
+msgstr ""
+
+msgid "activesync_fi_subject"
+msgstr ""
+
+msgid "activesync_fi_sync_calendar"
+msgstr ""
+
+msgid "activesync_fi_sync_completed"
+msgstr ""
+
+msgid "activesync_fi_sync_contacts"
+msgstr ""
+
+msgid "activesync_fi_sync_email"
+msgstr ""
+
+msgid "activesync_fi_tentative_on"
+msgstr ""
+
+msgid "activesync_fi_username"
+msgstr ""
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+
+msgid "activesync_ia_code_change"
+msgstr ""
+
+msgid "activesync_ia_code_enable"
+msgstr ""
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+
+msgid "activesync_ia_enter_password"
+msgstr ""
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+
+msgid "activesync_ia_lock_settings"
+msgstr ""
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr ""
+
+msgid "activesync_in_error_server_type"
+msgstr ""
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+
+msgid "activesync_in_wizard_open"
+msgstr ""
+
+msgid "activesync_li_calendar"
+msgstr ""
+
+msgid "activesync_li_first_sync"
+msgstr ""
+
+msgid "activesync_li_messages_back"
+msgstr ""
+
+msgid "activesync_li_offpeak_sync"
+msgstr ""
+
+msgid "activesync_li_peak_days"
+msgstr ""
+
+msgid "activesync_li_peak_end"
+msgstr ""
+
+msgid "activesync_li_peak_start"
+msgstr ""
+
+msgid "activesync_li_peak_sync"
+msgstr ""
+
+msgid "activesync_li_send_policy"
+msgstr ""
+
+msgid "activesync_nc_certificate"
+msgstr ""
+
+msgid "activesync_nc_delete"
+msgstr ""
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+
+msgid "activesync_nc_full_sync"
+msgstr ""
+
+msgid "activesync_ti_accepting"
+msgstr ""
+
+msgid "activesync_ti_calendar_tasks"
+msgstr ""
+
+msgid "activesync_ti_changed_certificate"
+msgstr ""
+
+msgid "activesync_ti_connection"
+msgstr ""
+
+msgid "activesync_ti_cpa"
+msgstr ""
+
+msgid "activesync_ti_credentials"
+msgstr ""
+
+msgid "activesync_ti_declining"
+msgstr ""
+
+msgid "activesync_ti_details"
+msgstr ""
+
+msgid "activesync_ti_device_lock"
+msgstr ""
+
+msgid "activesync_ti_email"
+msgstr ""
+
+msgid "activesync_ti_first_sync"
+msgstr ""
+
+msgid "activesync_ti_full_sync"
+msgstr ""
+
+msgid "activesync_ti_invalid_certificate"
+msgstr ""
+
+msgid "activesync_ti_password"
+msgstr ""
+
+msgid "activesync_ti_resync"
+msgstr ""
+
+msgid "activesync_ti_settings"
+msgstr ""
+
+msgid "activesync_ti_sync_calendar"
+msgstr ""
+
+msgid "activesync_ti_sync_contacts"
+msgstr ""
+
+msgid "activesync_ti_sync_email"
+msgstr ""
+
+msgid "activesync_ti_sync_schedule"
+msgstr ""
+
+msgid "activesync_ti_tentatively"
+msgstr ""
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr ""
+
+msgid "activesync_ti_wizard_credentials"
+msgstr ""
+
+msgid "activesync_ti_wizard_finish"
+msgstr ""
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr ""
+
+msgid "activesync_ti_wizard_welcome"
+msgstr ""
+
+msgid "activesync_va_added"
+msgstr ""
+
+msgid "activesync_va_all_entries"
+msgstr ""
+
+msgid "activesync_va_all_messages"
+msgstr ""
+
+msgid "activesync_va_always_on"
+msgstr ""
+
+msgid "activesync_va_calendar"
+msgstr ""
+
+msgid "activesync_va_calendar_back"
+msgstr ""
+
+msgid "activesync_va_changed_policy"
+msgstr ""
+
+msgid "activesync_va_connected"
+msgstr ""
+
+msgid "activesync_va_contacts"
+msgstr ""
+
+msgid "activesync_va_create_new"
+msgstr ""
+
+msgid "activesync_va_delete_items"
+msgstr ""
+
+msgid "activesync_va_deleted"
+msgstr ""
+
+msgid "activesync_va_device_wins"
+msgstr ""
+
+msgid "activesync_va_disconnected"
+msgstr ""
+
+msgid "activesync_va_email"
+msgstr ""
+
+msgid "activesync_va_error_account_full"
+msgstr ""
+
+msgid "activesync_va_error_address"
+msgstr ""
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+
+msgid "activesync_va_error_communication"
+msgstr ""
+
+msgid "activesync_va_error_disabled"
+msgstr ""
+
+msgid "activesync_va_error_disk_full"
+msgstr ""
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr ""
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+
+msgid "activesync_va_error_secure"
+msgstr ""
+
+msgid "activesync_va_error_server"
+msgstr ""
+
+msgid "activesync_va_error_server_policy"
+msgstr ""
+
+msgid "activesync_va_error_sync"
+msgstr ""
+
+msgid "activesync_va_error_system"
+msgstr ""
+
+msgid "activesync_va_error_unavailable"
+msgstr ""
+
+msgid "activesync_va_error_unsupported_version"
+msgstr ""
+
+msgid "activesync_va_every_12_hour"
+msgstr ""
+
+msgid "activesync_va_every_15_mins"
+msgstr ""
+
+msgid "activesync_va_every_30_mins"
+msgstr ""
+
+msgid "activesync_va_every_4_hours"
+msgstr ""
+
+msgid "activesync_va_every_day"
+msgstr ""
+
+msgid "activesync_va_every_hour"
+msgstr ""
+
+msgid "activesync_va_full_sync_starting"
+msgstr ""
+
+msgid "activesync_va_idle"
+msgstr ""
+
+msgid "activesync_va_keep_items"
+msgstr ""
+
+msgid "activesync_va_last_sync"
+msgstr ""
+
+msgid "activesync_va_manual"
+msgstr ""
+
+msgid "activesync_va_never"
+msgstr ""
+
+msgid "activesync_va_one_day"
+msgstr ""
+
+msgid "activesync_va_one_month"
+msgstr ""
+
+msgid "activesync_va_one_week"
+msgstr ""
+
+msgid "activesync_va_online"
+msgstr ""
+
+msgid "activesync_va_send_at_sync"
+msgstr ""
+
+msgid "activesync_va_send_immediately"
+msgstr ""
+
+msgid "activesync_va_server_wins"
+msgstr ""
+
+msgid "activesync_va_service_provider"
+msgstr ""
+
+msgid "activesync_va_six_months"
+msgstr ""
+
+msgid "activesync_va_status"
+msgstr ""
+
+msgid "activesync_va_status_menu_error"
+msgstr ""
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr ""
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr ""
+
+msgid "activesync_va_sync_failed"
+msgstr ""
+
+msgid "activesync_va_sync_stopped"
+msgstr ""
+
+msgid "activesync_va_three_days"
+msgstr ""
+
+msgid "activesync_va_three_months"
+msgstr ""
+
+msgid "activesync_va_today"
+msgstr ""
+
+msgid "activesync_va_two_weeks"
+msgstr ""
+
+msgid "activesync_va_updated"
+msgstr ""
