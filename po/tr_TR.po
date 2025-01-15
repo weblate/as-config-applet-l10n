@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: as-config-applet 20091019161422\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.10.19 09:50+0300\n"
-"PO-Revision-Date: 2021-05-26 12:32+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "as-config-applet-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 msgid "activesync_bd_accept_risk"
 msgstr "Güvenlik riskini kabul et"
@@ -36,10 +36,10 @@ msgid "activesync_bd_ignore"
 msgstr "Yoksay"
 
 msgid "activesync_bd_manual_sync"
-msgstr "Elle senkronla"
+msgstr "Elle eşitle"
 
 msgid "activesync_bd_resync"
-msgstr "Tam senkronizasyon"
+msgstr "Tamamını yeniden eşitle"
 
 msgid "activesync_bd_security_policy"
 msgstr "Güvenlik politikasına uy"
@@ -54,7 +54,7 @@ msgid "activesync_bd_signature"
 msgstr "İmza"
 
 msgid "activesync_bd_stop"
-msgstr "Senkronizasyonu durdur"
+msgstr "Eşitlemeyi durdur"
 
 msgid "activesync_bv_accept"
 msgstr "Kabul et"
@@ -126,16 +126,16 @@ msgid "activesync_fi_subject"
 msgstr "Konu"
 
 msgid "activesync_fi_sync_calendar"
-msgstr "Takvim ve görevleri senkronla"
+msgstr "Takvim ve görevleri eşitle"
 
 msgid "activesync_fi_sync_completed"
-msgstr "Tamamlanmış görevleri senkronla"
+msgstr "Tamamlanan görevleri eşitle"
 
 msgid "activesync_fi_sync_contacts"
-msgstr "Kişileri senkronla"
+msgstr "Kişileri eşitle"
 
 msgid "activesync_fi_sync_email"
-msgstr "E-postaları senkronla"
+msgstr "E-postaları eşitle"
 
 msgid "activesync_fi_tentative_on"
 msgstr "Geçici kabul edildi"
@@ -148,7 +148,8 @@ msgstr "Kullanıcı adı"
 
 msgid "activesync_fi_wizard_finish_text"
 msgstr ""
-"İlk senkronizasyon için 'Sonraki' tuşuna veya çıkmak için sihirbazın dışına basın.\n"
+"İlk eşitleme için 'Sonraki' tuşuna veya çıkmak için sihirbazın dışına basın."
+"\n"
 "\n"
 "Gelişmiş hesap ayarları için 'Gelişmiş ayarlar' tıklayın."
 
@@ -161,10 +162,10 @@ msgid "activesync_ia_code_change"
 msgstr "Kilit kodu mutlaka değiştirilmeli."
 
 msgid "activesync_ia_code_enable"
-msgstr "Otomatik cihaz kilidi mutlaka aktifleştirilmeli."
+msgstr "Otomatik aygıt kilidi etkinleştirilmeli."
 
 msgid "activesync_ia_code_timeout"
-msgstr "Otomatik cihaz kilidi zaman aşımı %d dakikadan az olmalı."
+msgstr "Otomatik aygıt kilidi zaman aşımı %d dakikadan az olmalı."
 
 msgid "activesync_ia_enter_password"
 msgstr "%s sertifika için parolayı girin"
@@ -175,11 +176,13 @@ msgstr ""
 "yoksayın."
 
 msgid "activesync_ia_lock_settings"
-msgstr "Exchange sunucusu cihaz kilit ayarlarında değişiklik gerektiriyor."
+msgstr "Exchange sunucusu aygıt kilit ayarlarında değişiklik gerektiriyor."
 
 msgid "activesync_ia_wizard_text"
 msgstr ""
-"Mail for Exchange kurulum sihirbazı cihazınız ve Exchange sunucusu arasında e-posta, takvim, görev ve kişi senkronizasyonları için Mail for Exchange hesabı tanımlama olanağı sağlar. \n"
+"Mail for Exchange kurulum sihirbazı aygıtınız ve Exchange sunucusu arasında "
+"e-posta, takvim, görev ve kişi eşitlemeleri için Mail for Exchange hesabı "
+"tanımlama olanağı sağlar. \n"
 "\n"
 "Devam için 'Sonraki' tıklayın."
 
@@ -197,11 +200,13 @@ msgstr "Ayarlanan sunucu Exchange sunucusu değil"
 
 msgid "activesync_in_incompatible_policy"
 msgstr ""
-"Cihaz güvenlik politikası değişikliklerine uymuyor. Sistem yöneticinize "
+"Aygıt güvenlik politikası değişikliklerine uymuyor. Sistem yöneticinize "
 "ulaşın."
 
 msgid "activesync_in_pcsuite"
-msgstr "Mail for Exchange ile PC Suite senkronizasyonunun aynı anda yapılması önerilmemektedir."
+msgstr ""
+"Mail for Exchange ile PC Suite eşitlemesinin aynı anda yapılması "
+"önerilmemektedir."
 
 msgid "activesync_in_wizard_open"
 msgstr "Mail for Exchange sihirbazı zaten açık"
@@ -210,10 +215,10 @@ msgid "activesync_li_calendar"
 msgstr "Takvim"
 
 msgid "activesync_li_first_sync"
-msgstr "İlk senkronizasyon"
+msgstr "İlk eşitleme"
 
 msgid "activesync_li_messages_back"
-msgstr "Mesajları geri senkronla"
+msgstr "Mesajları geri eşitle"
 
 msgid "activesync_li_offpeak_sync"
 msgstr "Yoğun-olmayan zamanlama"
@@ -242,11 +247,11 @@ msgstr "Mail for Exchange hesabı silinsin mi?"
 
 msgid "activesync_nc_first_sync"
 msgstr ""
-"İlk senkronizasyon iptal edilsin mi?\n"
-" Hesap ayarları kaybedilecek."
+"İlk eşitleme iptal edilsin mi?\n"
+"Hesap ayarları kaybedilecek."
 
 msgid "activesync_nc_full_sync"
-msgstr "Senkronizasyonu durdurmak istediğinize emin misiniz?"
+msgstr "Eşitlemeyi durdurmak istediğinize emin misiniz?"
 
 msgid "activesync_ti_accepting"
 msgstr "Daveti kabul et"
@@ -270,19 +275,19 @@ msgid "activesync_ti_declining"
 msgstr "Daveti reddet"
 
 msgid "activesync_ti_details"
-msgstr "Son senkronizasyon: Detaylar"
+msgstr "Son eşitleme: Ayrıntılar"
 
 msgid "activesync_ti_device_lock"
-msgstr "Cihaz kilit ayarlarını değiştir"
+msgstr "Aygıt kilit ayarlarını değiştir"
 
 msgid "activesync_ti_email"
 msgstr "E-posta"
 
 msgid "activesync_ti_first_sync"
-msgstr "İlk senkronizasyon"
+msgstr "İlk eşitleme"
 
 msgid "activesync_ti_full_sync"
-msgstr "Tam senkronizasyon"
+msgstr "Tam eşitleme"
 
 msgid "activesync_ti_invalid_certificate"
 msgstr "Geçersiz sertifika"
@@ -291,7 +296,7 @@ msgid "activesync_ti_password"
 msgstr "Parola korumalı"
 
 msgid "activesync_ti_resync"
-msgstr "Tekrar senkronizasyon"
+msgstr "Yeniden eşitleme"
 
 msgid "activesync_ti_settings"
 msgstr "Mail for Exchange ayarları"
@@ -306,19 +311,19 @@ msgid "activesync_ti_sync_email"
 msgstr "E-posta"
 
 msgid "activesync_ti_sync_schedule"
-msgstr "Senkron çizelgesi"
+msgstr "Eşitleme çizelgesi"
 
 msgid "activesync_ti_tentatively"
 msgstr "Daveti geçici kabul et"
 
 msgid "activesync_ti_wizard_content_settings"
-msgstr "Senkronizasyon içeriği"
+msgstr "Eşitleme içeriği"
 
 msgid "activesync_ti_wizard_credentials"
 msgstr "Kayıtlar"
 
 msgid "activesync_ti_wizard_finish"
-msgstr "Senkronizasyona başla"
+msgstr "Eşitlemeyi başlat"
 
 msgid "activesync_ti_wizard_server_settings"
 msgstr "Sunucu ayarları"
@@ -342,7 +347,7 @@ msgid "activesync_va_calendar"
 msgstr "Takvim"
 
 msgid "activesync_va_calendar_back"
-msgstr "Takvimi geri senkronla"
+msgstr "Takvimi geri eşitle"
 
 msgid "activesync_va_changed_policy"
 msgstr "Güvenlik politikasında değişiklik"
@@ -363,13 +368,13 @@ msgid "activesync_va_create_new"
 msgstr "Yeni oluştur"
 
 msgid "activesync_va_delete_items"
-msgstr "Cihazdaki öğeleri sil"
+msgstr "Aygıttaki ögeleri sil"
 
 msgid "activesync_va_deleted"
 msgstr "Silindi"
 
 msgid "activesync_va_device_wins"
-msgstr "Cihaz önceliği alır"
+msgstr "Aygıt önceliği alır"
 
 msgid "activesync_va_disconnected"
 msgstr "Bağlantı kesildi"
@@ -384,7 +389,9 @@ msgid "activesync_va_error_address"
 msgstr "Exchange sunucusu host adresi geçersiz."
 
 msgid "activesync_va_error_certificate"
-msgstr "Sunucu sertifikası geçersiz. Cihazın tarih ve zaman ayarlarını kontrol edin veya sunucu yöneticisiyle irtibata geçin."
+msgstr ""
+"Sunucu sertifikası geçersiz. Aygıtın tarih ve zaman ayarlarını gözden "
+"geçirin veya sunucu yöneticisiyle irtibata geçin."
 
 msgid "activesync_va_error_communication"
 msgstr "Exchange sunucusuyla iletişim hatası."
@@ -399,15 +406,15 @@ msgid "activesync_va_error_invalid_credentials"
 msgstr "Exchange hesabı için geçersiz kullanıcı adı, parola veya alanadı."
 
 msgid "activesync_va_error_maintenance"
-msgstr ""
-"Exchange sunucusu bakıma giriyor. Senkronizasyon servisi "
-"hizmet dışı.."
+msgstr "Exchange sunucusu bakıma giriyor. Eşitleme hizmeti kullanılamıyor."
 
 msgid "activesync_va_error_no_response"
 msgstr "Exchange sunucusu cevap vermiyor."
 
 msgid "activesync_va_error_reinstall"
-msgstr "İç hata. Exchange hesabını cihazdan silin, cihazı yeniden başlatın ve tekrar ayarlayın."
+msgstr ""
+"İç hata. Exchange hesabını aygıttan silin, aygıtı yeniden başlatın ve tekrar "
+"ayarlayın."
 
 msgid "activesync_va_error_secure"
 msgstr "Hata. Exchange sunucusu güvenli bağlantı gerektiriyor veya hesap devre dışı."
@@ -419,7 +426,7 @@ msgid "activesync_va_error_server_policy"
 msgstr "Zorunlu Exchange sunucu politikası başarısız oldu. Erişim reddedildi."
 
 msgid "activesync_va_error_sync"
-msgstr "Exchange sunucusuyla senkronlanamıyor."
+msgstr "Exchange sunucusuyla eşitlenemiyor."
 
 msgid "activesync_va_error_system"
 msgstr "Exchange sunucusunda sistem hatası."
@@ -449,16 +456,16 @@ msgid "activesync_va_every_hour"
 msgstr "Her saat"
 
 msgid "activesync_va_full_sync_starting"
-msgstr "Senkronizasyon başlatılıyor"
+msgstr "Eşitleme başlatılıyor"
 
 msgid "activesync_va_idle"
 msgstr "Boşta"
 
 msgid "activesync_va_keep_items"
-msgstr "Öğeleri cihazda sakla"
+msgstr "Ögeleri aygıtta sakla"
 
 msgid "activesync_va_last_sync"
-msgstr "Son senkronizasyon"
+msgstr "Son eşitleme"
 
 msgid "activesync_va_manual"
 msgstr "Elle"
@@ -479,7 +486,7 @@ msgid "activesync_va_online"
 msgstr "Çevrimiçi"
 
 msgid "activesync_va_send_at_sync"
-msgstr "Bir sonraki senkronizasyonda gönder"
+msgstr "Bir sonraki eşitlemede gönder"
 
 msgid "activesync_va_send_immediately"
 msgstr "Hemen gönder"
@@ -497,16 +504,16 @@ msgid "activesync_va_status"
 msgstr "Durum"
 
 msgid "activesync_va_status_menu_error"
-msgstr "Son senkronizasyon başarısız"
+msgstr "Son eşitleme başarısız"
 
 msgid "activesync_va_status_menu_last_sync"
 msgstr "Son eşzamanlama %s"
 
 msgid "activesync_va_status_menu_synchronizing"
-msgstr "Senkronlanıyor"
+msgstr "Eşitleniyor"
 
 msgid "activesync_va_sync_failed"
-msgstr "Senkronizasyon başarısız"
+msgstr "Eşitleme başarısız"
 
 msgid "activesync_va_sync_stopped"
 msgstr "Durduruldu"
