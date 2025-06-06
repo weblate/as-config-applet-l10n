@@ -4,16 +4,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.10.19 16:14+0300\n"
-"PO-Revision-Date: 2011-11-06 14:36+0000\n"
-"Last-Translator: jeco <maemosoft@yahoo.com>\n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2024-12-29 11:00+0000\n"
+"Last-Translator: سعید <hjdicks@riseup.net>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/maemo-leste/"
+"as-config-applet-l10n/fa/>\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fa\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "activesync_bd_accept_risk"
 msgstr "قبول کردن ریسک امنیتی"
@@ -64,13 +67,13 @@ msgid "activesync_bv_decline"
 msgstr "رد"
 
 msgid "activesync_bv_re_accepted"
-msgstr ":قبول شد"
+msgstr "قبول شد:"
 
 msgid "activesync_bv_re_declined"
-msgstr ":رد شد"
+msgstr "رد شد:"
 
 msgid "activesync_bv_re_tentative"
-msgstr ":سعی"
+msgstr "سعی:"
 
 msgid "activesync_bv_remove"
 msgstr "پاک کردن از تقویم"
@@ -79,7 +82,7 @@ msgid "activesync_bv_tentative"
 msgstr "آزمایشی"
 
 msgid "activesync_fi_accepted_on"
-msgstr "پذیرفته شده "
+msgstr "پذیرفته شده"
 
 msgid "activesync_fi_account_title"
 msgstr "عنوان حساب"
@@ -91,7 +94,7 @@ msgid "activesync_fi_copy_outgoing_emails"
 msgstr "کپی از ایمیل های خروجی"
 
 msgid "activesync_fi_declined_on"
-msgstr "کاهش یافتن "
+msgstr "رد شده در"
 
 msgid "activesync_fi_domain"
 msgstr "دامنه"
@@ -145,31 +148,43 @@ msgid "activesync_fi_username"
 msgstr "نام کاربری"
 
 msgid "activesync_fi_wizard_finish_text"
-msgstr "برای شروع همسان سازی اولیه ، دکمهء 'بعدی' را فشار دهید یا برای پاک کردن حساب کاربری جدید فضای خارج از کادر را فشار دهید.\n\nبرای انجام تغییرات پیشرفته در حساب کاربری ، از \" تنظیمات پیشرفته \" استفاده نمائید"
+msgstr ""
+"برای شروع همسان سازی اولیه ، دکمهء 'بعدی' را فشار دهید یا برای پاک کردن حساب "
+"کاربری جدید فضای خارج از کادر را فشار دهید.\n"
+"\n"
+"برای انجام تغییرات پیشرفته در حساب کاربری ، از «تنظیمات پیشرفته» استفاده "
+"نمائید."
 
 msgid "activesync_ia_changed_fingerprint"
 msgstr "تغییر یافته است %s اثر انگشت گواهینامهء سرور .\nاین یک ریسک امنیتی است . لطفا با مدیر سرور مشورت کنید"
 
 msgid "activesync_ia_code_change"
-msgstr "کد قفل دستگاه باید تغییر یابد"
+msgstr "کد قفل دستگاه باید تغییر یابد."
 
 msgid "activesync_ia_code_enable"
-msgstr "قفل اتوماتیک دستگاه باید فعال باشد"
+msgstr "قفل اتوماتیک دستگاه باید فعال باشد."
 
 msgid "activesync_ia_code_timeout"
-msgstr "دقیقه باشد %d زمان قفل اتوماتیک دستگاه باید کمتر از"
+msgstr "زمان قفل خودکار دستگاه باید کمتر از %d دقیقه باشد."
 
 msgid "activesync_ia_enter_password"
 msgstr "برای کسب گواهینامه رمز عبور را وارد کنید %s"
 
 msgid "activesync_ia_invalid_certificate"
-msgstr "نا معتبر است اگر سرور قابل اطمینان است ، این اخطار را نادیده بگیرید %s گواهینامه‌ی سرور"
+msgstr ""
+"گواهینامه سرور %s نامعتبر است، اگر سرور قابل اطمینان است، این اخطار را "
+"نادیده بگیرید."
 
 msgid "activesync_ia_lock_settings"
-msgstr "سرور تبادل نیاز به تغییر تنظیمات قفل دستگاه دارد"
+msgstr "سرور Exchange نیاز به تغییر تنظیمات قفل دستگاه دارد."
 
 msgid "activesync_ia_wizard_text"
-msgstr "نصب تبادل پست به شما اجاره می دهد تا یک حساب ایمیل برای تبادل پست ایجاد کنید . با این کار میتوانید ایمیل ، تقویم ، وظایف و تماس ها را بین دستگاه و سرور تبادل همسان سازی کنید.\n\nبرای ادامه 'بعدی' را انتخاب کنید"
+msgstr ""
+"نصاب ایمیل Exchange به شما اجاره می دهد تا یک حساب ایمیل برای تبادل پست "
+"ایجاد کنید . با این کار میتوانید ایمیل ، تقویم ، وظایف و تماس ها را بین "
+"دستگاه و سرور تبادل همسان سازی کنید.\n"
+"\n"
+"برای ادامه 'بعدی' را انتخاب کنید."
 
 msgid "activesync_ib_cannot_cancel_sending"
 msgstr "ارسال غیر قابل انصراف است"
@@ -181,13 +196,15 @@ msgid "activesync_in_error_server_type"
 msgstr "سرور پیکربندی شده یک سرور تبادل نیست"
 
 msgid "activesync_in_incompatible_policy"
-msgstr "دستگاه موفق تغییر سیاست امنیتی نیست . با مدیریت تماس بگیرید"
+msgstr "دستگاه سازگار با تغییر سیاست امنیتی نیست. با مدیریت تماس بگیرید."
 
 msgid "activesync_in_pcsuite"
-msgstr "توجه ! پیشنهاد نمی‌شود از پی‌سی‌سویت برای همسان‌سازی بصورت همزمان با تبادل ایمیل استفاده کنید"
+msgstr ""
+"توجه! پیشنهاد نمی‌شود از پی‌سی‌سویت برای همسان‌سازی بصورت همزمان با تبادل ایمیل "
+"استفاده کنید."
 
 msgid "activesync_in_wizard_open"
-msgstr "سرویس نصب تبادل ایمیل در حال حاضر باز است."
+msgstr "سرویس ایمیل Exchange ایمیل در حال حاضر باز است"
 
 msgid "activesync_li_calendar"
 msgstr "تقویم"
@@ -217,13 +234,15 @@ msgid "activesync_li_send_policy"
 msgstr "زمان ارسال پست الکترونیکی"
 
 msgid "activesync_nc_certificate"
-msgstr "قبول گواهینامه‌ی تغییر یافته؟\nقبل از پذیرش با مدیر سرور مشورت کنید "
+msgstr "قبول گواهینامه‌ی تغییر یافته؟ قبل از پذیرش با مدیر سرور مشورت کنید."
 
 msgid "activesync_nc_delete"
 msgstr "حساب کاربری ایمیل تبادل حذف شود؟"
 
 msgid "activesync_nc_first_sync"
-msgstr "انصراف از همسان سازی اولیه؟\nتنظیمات حساب از دست خواهد رفت"
+msgstr ""
+"انصراف از همسان سازی اولیه؟\n"
+"تنظیمات حساب از دست خواهد رفت."
 
 msgid "activesync_nc_full_sync"
 msgstr "مطمئن هستید که میخواهید همسان سازی را متوقف کنید؟"
@@ -358,55 +377,60 @@ msgid "activesync_va_email"
 msgstr "ایمیل"
 
 msgid "activesync_va_error_account_full"
-msgstr "حساب کاربری تبادل الکترونیکی پر است"
+msgstr "حساب کاربری Exchange پر است."
 
 msgid "activesync_va_error_address"
-msgstr "آدرس هاست برای سرور تبادل ، نامعتبر است"
+msgstr "آدرس هاست برای سرور تبادل، نامعتبر است."
 
 msgid "activesync_va_error_certificate"
-msgstr "گواهی مرکز نامعتبر است. ساعت و تاریخ دستگاه را چک کنید و یا با مدیر مرکز تماس بگیرید"
+msgstr ""
+"گواهی مرکز نامعتبر است. ساعت و تاریخ دستگاه را چک کنید و یا با مدیر سیستم "
+"تماس بگیرید."
 
 msgid "activesync_va_error_communication"
-msgstr "اشکال در برقراری ارتباط با سرور تبادل"
+msgstr "اشکال در برقراری ارتباط با سرور تبادل."
 
 msgid "activesync_va_error_disabled"
-msgstr "حساب تبادل غیرفعال شد . درخواست دسترسی رد شد"
+msgstr "حساب تبادل غیرفعال شد. درخواست دسترسی رد شد."
 
 msgid "activesync_va_error_disk_full"
 msgstr "ذخیرهء کاربری کامل است"
 
 msgid "activesync_va_error_invalid_credentials"
-msgstr "نامعتبر بودن نام کاربری ، رمز عبور یا دامنه برای حساب کاربری تبادل الکترونیکی"
+msgstr "نامعتبر بودن نام کاربری ، رمز عبور یا دامنه برای حساب کاربری Exchange ."
 
 msgid "activesync_va_error_maintenance"
-msgstr "سرور تبادل در حال تعمیر میباشد. امکان همسان سازی نیست"
+msgstr "سرور تبادل در حال تعمیر میباشد. امکان همسان سازی نیست."
 
 msgid "activesync_va_error_no_response"
-msgstr "سرور تبادل پاسخ نميدهد . مطمئن شوید که تنظیمات حساب درست باشد"
+msgstr "سرور Exchange پاسخ نميدهد. مطمئن شوید که تنظیمات حساب درست باشد."
 
 msgid "activesync_va_error_reinstall"
-msgstr "خطا در سيستم\n حساب کاربري تبادل را از دستگاه حذف کنيد ، دستگاه را مجدد راه‌اندازی و حساب کاربري را از نو ايجاد کنيد"
+msgstr ""
+"خطا در سيستم حساب کاربری Exchange را از دستگاه حذف کنيد، دستگاه را مجدد راه‌"
+"اندازی و حساب کاربری را از نو ايجاد کنيد."
 
 msgid "activesync_va_error_secure"
-msgstr "خطا\nسرور تبادل نياز به ارتباط امن دارد يا حساب کاربري شما غير فعال است"
+msgstr ""
+"خطا. سرور Exchange نياز به ارتباط امن دارد يا حساب کاربری شما غير فعال است."
 
 msgid "activesync_va_error_server"
 msgstr "اشکال در سرور تبادل"
 
 msgid "activesync_va_error_server_policy"
-msgstr "شکست اجباری سرور تبادل الکترونیکی . امکان دسترسی وجود ندارد"
+msgstr "سیاست اجباری سرور Exchange شکست خورد. امکان دسترسی وجود ندارد."
 
 msgid "activesync_va_error_sync"
-msgstr "قادر به همسان سازی با سرور تبادل نیست"
+msgstr "ناتوان در همسان سازی با سرور Exchange."
 
 msgid "activesync_va_error_system"
-msgstr "خطای سیستمی در سرور تبادل"
+msgstr "خطای سیستمی در سرور Exchange."
 
 msgid "activesync_va_error_unavailable"
 msgstr "سرور تبادل در دسترس نیست"
 
 msgid "activesync_va_error_unsupported_version"
-msgstr "نسخهء نرم افزاری در سرور تبادل پشتیبانی نمی‌شود"
+msgstr "نسخه نرم افزاری در سرور Exchange پشتیبانی نمی‌شود."
 
 msgid "activesync_va_every_12_hour"
 msgstr "هر دوازده ساعت"
