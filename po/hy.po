@@ -3,146 +3,157 @@ msgstr ""
 "Project-Id-Version: as-config-applet 20100208121231\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
-"PO-Revision-Date: 2010.02.08 12:12+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-08-29 19:09+0000\n"
+"Last-Translator: norayr tanakian <norayr@arnet.am>\n"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/maemo-leste/"
+"as-config-applet-l10n/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.7.1-dev\n"
 
 msgid "activesync_bd_accept_risk"
-msgstr ""
+msgstr "Հաստատել անվտանգութեան ռիսկը"
 
+#, fuzzy
 msgid "activesync_bd_advanced_settings"
-msgstr ""
+msgstr "Առաջադէմ կարգաւորումներ"
 
 msgid "activesync_bd_continue"
-msgstr ""
+msgstr "Շարունակել"
 
 msgid "activesync_bd_details"
-msgstr ""
+msgstr "Մանրամասներ"
 
 msgid "activesync_bd_dont_send"
-msgstr ""
+msgstr "Չուղարկել"
 
 msgid "activesync_bd_edit"
-msgstr ""
+msgstr "Խմբագրել պատասխանը"
 
 msgid "activesync_bd_ignore"
-msgstr ""
+msgstr "Արհամարհել"
 
+#, fuzzy
 msgid "activesync_bd_manual_sync"
-msgstr ""
+msgstr "Համաժամանակել ձեռքով"
 
 msgid "activesync_bd_resync"
-msgstr ""
+msgstr "Ամբողջական համաժամանակում"
 
+#, fuzzy
 msgid "activesync_bd_security_policy"
-msgstr ""
+msgstr "Համաձայնել  գաղտնիութեան ապահովագրի հետ"
 
 msgid "activesync_bd_send"
-msgstr ""
+msgstr "Ուղարկել"
 
 msgid "activesync_bd_settings"
-msgstr ""
+msgstr "Կարգաւորումներ"
 
 msgid "activesync_bd_signature"
-msgstr ""
+msgstr "Ստորագրութիւն"
 
+#, fuzzy
 msgid "activesync_bd_stop"
-msgstr ""
+msgstr "Դադարեցնել համաժամանակելը"
 
 msgid "activesync_bv_accept"
-msgstr ""
+msgstr "Ընդունել"
 
 msgid "activesync_bv_decline"
-msgstr ""
+msgstr "Մերժել"
 
 msgid "activesync_bv_re_accepted"
-msgstr ""
+msgstr "Ընդունուած է՝"
 
 msgid "activesync_bv_re_declined"
-msgstr ""
+msgstr "Մերժուած է՝"
 
 msgid "activesync_bv_re_tentative"
-msgstr ""
+msgstr "Փորձնական՝"
 
 msgid "activesync_bv_remove"
-msgstr ""
+msgstr "Հեռացնել օրացոյցից"
 
 msgid "activesync_bv_tentative"
-msgstr ""
+msgstr "Փորձնական"
 
 msgid "activesync_fi_accepted_on"
-msgstr ""
+msgstr "Ընդունուած է՝"
 
 msgid "activesync_fi_account_title"
-msgstr ""
+msgstr "Հաշուի վերնագիր"
 
 msgid "activesync_fi_conflict_resolution"
-msgstr ""
+msgstr "Կոնֆլիկտի լուծում"
 
 msgid "activesync_fi_copy_outgoing_emails"
-msgstr ""
+msgstr "Պատճէնել յղուող իմակները"
 
 msgid "activesync_fi_declined_on"
-msgstr ""
+msgstr "Մերժուած է՝"
 
 msgid "activesync_fi_domain"
-msgstr ""
+msgstr "Տիրոյթ"
 
 msgid "activesync_fi_email_address"
-msgstr ""
+msgstr "Էլ․ փոստի հասցէ"
 
 msgid "activesync_fi_fingerprint"
-msgstr ""
+msgstr "Մատնահետք"
 
 msgid "activesync_fi_invitation"
-msgstr ""
+msgstr "Հրաւէր"
 
 msgid "activesync_fi_password"
-msgstr ""
+msgstr "Ծածկագիր"
 
 msgid "activesync_fi_port"
-msgstr ""
+msgstr "Պորտ"
 
 msgid "activesync_fi_secure_connection"
-msgstr ""
+msgstr "Գաղտնի միացում"
 
 msgid "activesync_fi_serial_no"
-msgstr ""
+msgstr "Յաջորդական համար"
 
 msgid "activesync_fi_server"
-msgstr ""
+msgstr "Սպասարկիչ"
 
 msgid "activesync_fi_status_menu"
-msgstr ""
+msgstr "Exchange֊ի Փոստարկղ"
 
 msgid "activesync_fi_subject"
-msgstr ""
+msgstr "Թեմա"
 
+#, fuzzy
 msgid "activesync_fi_sync_calendar"
-msgstr ""
+msgstr "Համաժամանակել օրացոյցն ու առաջադրանքները"
 
 msgid "activesync_fi_sync_completed"
-msgstr ""
+msgstr "Համաժամանակել աւարտուած առաջադրանքները"
 
 msgid "activesync_fi_sync_contacts"
-msgstr ""
+msgstr "Համաժամանակել կապերը"
 
 msgid "activesync_fi_sync_email"
-msgstr ""
+msgstr "Համաժամանակել էլ․ փոստը"
 
 msgid "activesync_fi_tentative_on"
-msgstr ""
+msgstr "Փորձնական ընդունուած է՝"
 
 msgid "activesync_fi_username"
-msgstr ""
+msgstr "Օգտանուն"
 
 msgid "activesync_fi_wizard_finish_text"
 msgstr ""
+"Սեղմէք «Յաջորդը»՝ համաժամանակումը մեկնարկելու համար կամ հրաժարուէք նոր հաշիւ "
+"ստեղծելուց սեղմելով այս ուղէվարի տիրոյթից դուրս սեղմելով։\n"
+"Սեղմէք «Առաջադէմ կարգաւորումներ»՝ հաշուի առաջադէմ կարգաւորումներ փոխելու "
+"համար։"
 
 msgid "activesync_ia_changed_fingerprint"
 msgstr ""
