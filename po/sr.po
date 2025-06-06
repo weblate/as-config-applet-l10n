@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2025-06-06 10:01+0000\n"
+"Last-Translator: Fifty Dinar <srbaizoki4@tuta.io>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/maemo-leste/"
+"as-config-applet-l10n/sr/>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.12-dev\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "Prihvati bezbednosni rizik"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "Napredna podešavanja"
+
+msgid "activesync_bd_continue"
+msgstr "Nastavi"
+
+msgid "activesync_bd_details"
+msgstr "Detalji"
+
+msgid "activesync_bd_dont_send"
+msgstr "Ne šalji"
+
+msgid "activesync_bd_edit"
+msgstr "Izmeni odgovor"
+
+msgid "activesync_bd_ignore"
+msgstr "Zanemari"
+
+msgid "activesync_bd_manual_sync"
+msgstr "Sinhronizuj ručno"
+
+msgid "activesync_bd_resync"
+msgstr "Puna resinhronizacija"
+
+msgid "activesync_bd_security_policy"
+msgstr "Složi se sa bezbednosnom politikom"
+
+msgid "activesync_bd_send"
+msgstr "Pošalji"
+
+msgid "activesync_bd_settings"
+msgstr "Podešavanja"
+
+msgid "activesync_bd_signature"
+msgstr "Potpis"
+
+msgid "activesync_bd_stop"
+msgstr "Prekini sinhronizaciju"
+
+msgid "activesync_bv_accept"
+msgstr "Prihvati"
+
+msgid "activesync_bv_decline"
+msgstr "Odbij"
+
+msgid "activesync_bv_re_accepted"
+msgstr "Prihvaćeno:"
+
+msgid "activesync_bv_re_declined"
+msgstr "Odbijeno:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "Privremeno:"
+
+msgid "activesync_bv_remove"
+msgstr "Obriši iz kalendara"
+
+msgid "activesync_bv_tentative"
+msgstr "Privremeno"
+
+msgid "activesync_fi_accepted_on"
+msgstr "Prihvaćeno na"
+
+msgid "activesync_fi_account_title"
+msgstr "Naslov profila"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "Rezolucija konflikta"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "Kopiraj odlazne imejlove"
+
+msgid "activesync_fi_declined_on"
+msgstr "Odbijeno na"
+
+msgid "activesync_fi_domain"
+msgstr "Domen"
+
+msgid "activesync_fi_email_address"
+msgstr "Imejl adresa"
+
+msgid "activesync_fi_fingerprint"
+msgstr "Otisak prsta"
+
+msgid "activesync_fi_invitation"
+msgstr "Pozivnica"
+
+msgid "activesync_fi_password"
+msgstr "Šifra"
+
+msgid "activesync_fi_port"
+msgstr "Port"
+
+msgid "activesync_fi_secure_connection"
+msgstr "Bezbedna konekcija"
+
+msgid "activesync_fi_serial_no"
+msgstr "Serijski broj"
+
+msgid "activesync_fi_server"
+msgstr "Server"
+
+msgid "activesync_fi_status_menu"
+msgstr "Mejl za Razmenu"
+
+msgid "activesync_fi_subject"
+msgstr "Subjekt"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "Sinhronizuj kalendar i zadatke"
+
+msgid "activesync_fi_sync_completed"
+msgstr "Sinhronizuj završene zadatke"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "Sinhronizuj kontakte"
+
+msgid "activesync_fi_sync_email"
+msgstr "Sinhronizuj imejlove"
+
+msgid "activesync_fi_tentative_on"
+msgstr "Okvirno prihvaćeno na"
+
+msgid "activesync_fi_username"
+msgstr "Korisničko ime"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"Dodirni 'Dalje' da započneš početnu sinhronizaciju ili odbaci novi nalog "
+"dodirivanjem van ovog setup-a.\n"
+"\n"
+"Dodirni 'Napredna podešavanja' da izmeniš napredna podešavanja naloga."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"Otisak prsta servera %s sertifikat se promenio.\n"
+"Ovo je bezbednosni rizik, molim da se posavetuješ sa administratorom servera"
+
+msgid "activesync_ia_code_change"
+msgstr "Kȏd za zaključavanje mora biti promenjen."
+
+msgid "activesync_ia_code_enable"
+msgstr "Automatsko zaključavanje uređaja mora biti uključeno."
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+"Vremensko ograničenje za automatsko zaključavanje uređaja mora biti manje od "
+"%d minuta."
+
+msgid "activesync_ia_enter_password"
+msgstr "Unesi šifru za sertifikat %s"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"Sertifikat za server %s je nevažeći. Ako je server od poverenja, zanemari "
+"ovo upozorenje."
+
+msgid "activesync_ia_lock_settings"
+msgstr ""
+"Server za Razmenu zahteva promene u podešavanjima za zaključavanje uređaja."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"Setup Mejla za Razmenu ti omogućava da odrediš nalog Mejla za Razmenu za "
+"sinhronizaciju imejla, kalendara, zadataka i kontakata između tvog uređaja i "
+"servera za Razmenu\n"
+"\n"
+"Dodirni 'Dalje' da nastaviš."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "Ne mogu da otkažem slanje"
+
+msgid "activesync_in_error_server_type"
+msgstr "Podešeni server nije server za Razmenu"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"Uređaj nije usaglašen sa promenom bezbednosne politike. Posavetuj se sa "
+"tvojim administratorom."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"Uzmi u obzir da nije preporučena istovremena PC Suite sinhronizacija sa "
+"Mejlom za Razmenu."
+
+msgid "activesync_in_wizard_open"
+msgstr "Setup Mejla za Razmenu je već otvoren"
+
+msgid "activesync_li_calendar"
+msgstr "Kalendar"
+
+msgid "activesync_li_first_sync"
+msgstr "Prva sinhronizacija"
+
+msgid "activesync_li_messages_back"
+msgstr "Sinhronizuj poruke nazad"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "Raspored van vrhunca"
+
+msgid "activesync_li_peak_days"
+msgstr "Dani vrhunca"
+
+msgid "activesync_li_peak_end"
+msgstr "Krajnje vreme vrhunca"
+
+msgid "activesync_li_peak_start"
+msgstr "Početno vreme vrhunca"
+
+msgid "activesync_li_peak_sync"
+msgstr "Raspored vrhunca"
+
+msgid "activesync_li_send_policy"
+msgstr "Kada se šalje imejl"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"Prihvati promenjen sertifikat? Posavetuj se sa administratorom servera pre "
+"prihvatanja."
+
+msgid "activesync_nc_delete"
+msgstr "Obriši nalog Mejla za Razmenu?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"Otkaži početnu sinhronizaciju?\n"
+"Setup za nalog će biti izgubljen."
+
+msgid "activesync_nc_full_sync"
+msgstr "Da li si siguran da želiš da prekineš sinhronizaciju?"
+
+msgid "activesync_ti_accepting"
+msgstr "Prihvati pozivnicu"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "Kalendar i zadaci"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "Promenjen sertifikat"
+
+msgid "activesync_ti_connection"
+msgstr "Povezanost"
+
+msgid "activesync_ti_cpa"
+msgstr "Mejl za Razmenu"
+
+msgid "activesync_ti_credentials"
+msgstr "Akreditivi"
+
+msgid "activesync_ti_declining"
+msgstr "Odbij pozivnicu"
+
+msgid "activesync_ti_details"
+msgstr "Poslednja sinhronizacija: Detalji"
+
+msgid "activesync_ti_device_lock"
+msgstr "Promeni podešavanja za zaključavanje uređaja"
+
+msgid "activesync_ti_email"
+msgstr "Imejl"
+
+msgid "activesync_ti_first_sync"
+msgstr "Prva sinhronizacija"
+
+msgid "activesync_ti_full_sync"
+msgstr "Puna sinhronizacija"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "Nevažeći sertifikat"
+
+msgid "activesync_ti_password"
+msgstr "Zaštićeno šifrom"
+
+msgid "activesync_ti_resync"
+msgstr "Resinhronizacija"
+
+msgid "activesync_ti_settings"
+msgstr "Podešavanje Mejla za Razmenu"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "Kalendar i zadaci"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "Kontakti"
+
+msgid "activesync_ti_sync_email"
+msgstr "Imejl"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "Raspored sinhronizovanja"
+
+msgid "activesync_ti_tentatively"
+msgstr "Privremeno prihvati pozivnicu"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "Sadržaj sinhronizacije"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "Akreditivi"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "Započni sinhronizaciju"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "Podešavanje servera"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "Dobrodošli"
+
+msgid "activesync_va_added"
+msgstr "Dodano"
+
+msgid "activesync_va_all_entries"
+msgstr "Svi unosi"
+
+msgid "activesync_va_all_messages"
+msgstr "Sve poruke"
+
+msgid "activesync_va_always_on"
+msgstr "Uvek uključeno"
+
+msgid "activesync_va_calendar"
+msgstr "Kalendar"
+
+msgid "activesync_va_calendar_back"
+msgstr "Sinhronizuj kalendar nazad"
+
+msgid "activesync_va_changed_policy"
+msgstr "Promena u bezbednosnoj politici"
+
+msgid "activesync_va_connected"
+msgstr "Povezano"
+
+msgid "activesync_va_contacts"
+msgstr "Kontakti"
+
+msgid "activesync_va_create_new"
+msgstr "Napravi novo"
+
+msgid "activesync_va_delete_items"
+msgstr "Obriši stavke na uređaju"
+
+msgid "activesync_va_deleted"
+msgstr "Obrisano"
+
+msgid "activesync_va_device_wins"
+msgstr "Uređaj ima prednost"
+
+msgid "activesync_va_disconnected"
+msgstr "Nepovezano"
+
+msgid "activesync_va_email"
+msgstr "Imejl"
+
+msgid "activesync_va_error_account_full"
+msgstr "Nalog Servera za Razmenu je pun."
+
+msgid "activesync_va_error_address"
+msgstr "Nevažeća host adresa servera za Razmenu."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"Sertifikat servera je nevažeći. Proveri datum i vreme na uređaju ili se "
+"posavetuj sa administratorom servera."
+
+msgid "activesync_va_error_communication"
+msgstr "Greška u komunikaciji sa serverom Razmene."
+
+msgid "activesync_va_error_disabled"
+msgstr "Nalog za Razmenu je isključen. Pristup odbijen."
+
+msgid "activesync_va_error_disk_full"
+msgstr "Korisnički memorijski prostor pun"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "Nevažeće korisničko ime, šifra ili domen za nalog Razmene."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+
+msgid "activesync_va_error_secure"
+msgstr ""
+
+msgid "activesync_va_error_server"
+msgstr ""
+
+msgid "activesync_va_error_server_policy"
+msgstr ""
+
+msgid "activesync_va_error_sync"
+msgstr ""
+
+msgid "activesync_va_error_system"
+msgstr ""
+
+msgid "activesync_va_error_unavailable"
+msgstr ""
+
+msgid "activesync_va_error_unsupported_version"
+msgstr ""
+
+msgid "activesync_va_every_12_hour"
+msgstr ""
+
+msgid "activesync_va_every_15_mins"
+msgstr ""
+
+msgid "activesync_va_every_30_mins"
+msgstr ""
+
+msgid "activesync_va_every_4_hours"
+msgstr ""
+
+msgid "activesync_va_every_day"
+msgstr ""
+
+msgid "activesync_va_every_hour"
+msgstr ""
+
+msgid "activesync_va_full_sync_starting"
+msgstr ""
+
+msgid "activesync_va_idle"
+msgstr ""
+
+msgid "activesync_va_keep_items"
+msgstr ""
+
+msgid "activesync_va_last_sync"
+msgstr ""
+
+msgid "activesync_va_manual"
+msgstr ""
+
+msgid "activesync_va_never"
+msgstr ""
+
+msgid "activesync_va_one_day"
+msgstr ""
+
+msgid "activesync_va_one_month"
+msgstr ""
+
+msgid "activesync_va_one_week"
+msgstr ""
+
+msgid "activesync_va_online"
+msgstr ""
+
+msgid "activesync_va_send_at_sync"
+msgstr ""
+
+msgid "activesync_va_send_immediately"
+msgstr ""
+
+msgid "activesync_va_server_wins"
+msgstr ""
+
+msgid "activesync_va_service_provider"
+msgstr ""
+
+msgid "activesync_va_six_months"
+msgstr ""
+
+msgid "activesync_va_status"
+msgstr ""
+
+msgid "activesync_va_status_menu_error"
+msgstr ""
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr ""
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr ""
+
+msgid "activesync_va_sync_failed"
+msgstr ""
+
+msgid "activesync_va_sync_stopped"
+msgstr ""
+
+msgid "activesync_va_three_days"
+msgstr ""
+
+msgid "activesync_va_three_months"
+msgstr ""
+
+msgid "activesync_va_today"
+msgstr ""
+
+msgid "activesync_va_two_weeks"
+msgstr ""
+
+msgid "activesync_va_updated"
+msgstr ""
