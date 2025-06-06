@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: as-config-applet 20100208121231\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2025-01-15 01:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"as-config-applet-l10n/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
+
+msgid "activesync_bd_accept_risk"
+msgstr "பாதுகாப்பு அபாயத்தை ஏற்றுக்கொள்ளுங்கள்"
+
+msgid "activesync_bd_advanced_settings"
+msgstr "மேம்பட்ட அமைப்புகள்"
+
+msgid "activesync_bd_continue"
+msgstr "தொடரவும்"
+
+msgid "activesync_bd_details"
+msgstr "விவரங்கள்"
+
+msgid "activesync_bd_dont_send"
+msgstr "அனுப்ப வேண்டாம்"
+
+msgid "activesync_bd_edit"
+msgstr "பதிலைத் திருத்தவும்"
+
+msgid "activesync_bd_ignore"
+msgstr "புறக்கணிக்கவும்"
+
+msgid "activesync_bd_manual_sync"
+msgstr "கைமுறையாக ஒத்திசைக்கவும்"
+
+msgid "activesync_bd_resync"
+msgstr "முழு மறு ஒத்திசைவு"
+
+msgid "activesync_bd_security_policy"
+msgstr "பாதுகாப்புக் கொள்கைக்கு இணங்க"
+
+msgid "activesync_bd_send"
+msgstr "அனுப்பு"
+
+msgid "activesync_bd_settings"
+msgstr "அமைப்புகள்"
+
+msgid "activesync_bd_signature"
+msgstr "கையொப்பம்"
+
+msgid "activesync_bd_stop"
+msgstr "ஒத்திசைவை நிறுத்துங்கள்"
+
+msgid "activesync_bv_accept"
+msgstr "ஏற்றுக்கொள்"
+
+msgid "activesync_bv_decline"
+msgstr "வீழ்ச்சி"
+
+msgid "activesync_bv_re_accepted"
+msgstr "ஏற்றுக்கொள்ளப்பட்டது:"
+
+msgid "activesync_bv_re_declined"
+msgstr "மறுக்கப்பட்டது:"
+
+msgid "activesync_bv_re_tentative"
+msgstr "தற்காலிக:"
+
+msgid "activesync_bv_remove"
+msgstr "காலெண்டரிலிருந்து அகற்று"
+
+msgid "activesync_bv_tentative"
+msgstr "தற்காலிக"
+
+msgid "activesync_fi_accepted_on"
+msgstr "ஏற்றுக்கொள்ளப்பட்டது"
+
+msgid "activesync_fi_account_title"
+msgstr "கணக்கு தலைப்பு"
+
+msgid "activesync_fi_conflict_resolution"
+msgstr "மோதல் தீர்வு"
+
+msgid "activesync_fi_copy_outgoing_emails"
+msgstr "வெளிச்செல்லும் மின்னஞ்சல்களை நகலெடுக்கவும்"
+
+msgid "activesync_fi_declined_on"
+msgstr "மறுக்கப்பட்டது"
+
+msgid "activesync_fi_domain"
+msgstr "டொமைன்"
+
+msgid "activesync_fi_email_address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+msgid "activesync_fi_fingerprint"
+msgstr "கைரேகை"
+
+msgid "activesync_fi_invitation"
+msgstr "அழைப்பு"
+
+msgid "activesync_fi_password"
+msgstr "கடவுச்சொல்"
+
+msgid "activesync_fi_port"
+msgstr "துறைமுகம்"
+
+msgid "activesync_fi_secure_connection"
+msgstr "பாதுகாப்பான இணைப்பு"
+
+msgid "activesync_fi_serial_no"
+msgstr "வரிசை எண்"
+
+msgid "activesync_fi_server"
+msgstr "சேவையகம்"
+
+msgid "activesync_fi_status_menu"
+msgstr "பரிமாற்றத்திற்கான அஞ்சல்"
+
+msgid "activesync_fi_subject"
+msgstr "பொருள்"
+
+msgid "activesync_fi_sync_calendar"
+msgstr "காலெண்டர் மற்றும் பணிகளை ஒத்திசைக்கவும்"
+
+msgid "activesync_fi_sync_completed"
+msgstr "நிறைவு செய்யப்பட்ட பணிகளை ஒத்திசைக்கவும்"
+
+msgid "activesync_fi_sync_contacts"
+msgstr "தொடர்புகளை ஒத்திசைக்கவும்"
+
+msgid "activesync_fi_sync_email"
+msgstr "மின்னஞ்சலை ஒத்திசைக்கவும்"
+
+msgid "activesync_fi_tentative_on"
+msgstr "தற்காலிகமாக ஏற்றுக்கொள்ளப்பட்டது"
+
+msgid "activesync_fi_username"
+msgstr "பயனர் பெயர்"
+
+msgid "activesync_fi_wizard_finish_text"
+msgstr ""
+"ஆரம்ப ஒத்திசைவைத் தொடங்க 'அடுத்து' என்பதைத் தட்டவும் அல்லது வழிகாட்டிக்கு வெளியே தட்டுவதன் "
+"மூலம் புதிய கணக்கை நிராகரிக்கவும்.\n"
+"\n"
+" மேம்பட்ட கணக்கு அமைப்புகளை மாற்ற 'மேம்பட்ட அமைப்புகள்' தட்டவும்."
+
+msgid "activesync_ia_changed_fingerprint"
+msgstr ""
+"சேவையக %s சான்றிதழின் கைரேகை மாறிவிட்டது.\n"
+" இது ஒரு பாதுகாப்பு இடர், தயவுசெய்து சேவையக நிர்வாகியை அணுகவும்"
+
+msgid "activesync_ia_code_change"
+msgstr "பூட்டு குறியீடு மாற்றப்பட வேண்டும்."
+
+msgid "activesync_ia_code_enable"
+msgstr "தானியங்கி சாதன பூட்டு இயக்கப்பட வேண்டும்."
+
+msgid "activesync_ia_code_timeout"
+msgstr ""
+"தானியங்கி சாதன பூட்டு நேரம் முடிந்தது %d நிமிடங்களுக்கும் குறைவாக இருக்க வேண்டும்."
+
+msgid "activesync_ia_enter_password"
+msgstr "சான்றிதழ் %s க்கு கடவுச்சொல்லை உள்ளிடவும்"
+
+msgid "activesync_ia_invalid_certificate"
+msgstr ""
+"சேவையக %s க்கான சான்றிதழ் தவறானது. சேவையகம் நம்பப்பட்டால், இந்த எச்சரிக்கையை "
+"புறக்கணிக்கவும்."
+
+msgid "activesync_ia_lock_settings"
+msgstr "பரிமாற்ற சேவையகத்திற்கு சாதன பூட்டு அமைப்புகளில் மாற்றங்கள் தேவை."
+
+msgid "activesync_ia_wizard_text"
+msgstr ""
+"பரிமாற்ற அமைவு வழிகாட்டி அஞ்சல் உங்கள் சாதனத்திற்கும் பரிமாற்ற சேவையகத்திற்கும் இடையில் "
+"மின்னஞ்சல், காலெண்டர், பணி மற்றும் தொடர்பு ஒத்திசைவு ஆகியவற்றிற்கான பரிமாற்றக் கணக்குக்கான "
+"அஞ்சலை வரையறுக்க உங்களை அனுமதிக்கிறது.\n"
+"\n"
+" தொடர 'அடுத்து' தட்டவும்."
+
+msgid "activesync_ib_cannot_cancel_sending"
+msgstr "அனுப்புதலை ரத்து செய்ய முடியவில்லை"
+
+msgid "activesync_in_error_server_type"
+msgstr "கட்டமைக்கப்பட்ட சேவையகம் பரிமாற்ற சேவையகம் அல்ல"
+
+msgid "activesync_in_incompatible_policy"
+msgstr ""
+"சாதனம் பாதுகாப்பு கொள்கை மாற்றத்திற்கு இணங்காது. உங்கள் நிர்வாகியைத் தொடர்பு கொள்ளுங்கள்."
+
+msgid "activesync_in_pcsuite"
+msgstr ""
+"பரிமாற்றத்திற்கான அஞ்சலுடன் ஒரே நேரத்தில் பிசி சூட் ஒத்திசைவைப் பயன்படுத்த "
+"பரிந்துரைக்கப்படவில்லை என்பதை நினைவில் கொள்க."
+
+msgid "activesync_in_wizard_open"
+msgstr "பரிமாற்ற வழிகாட்டி ஏற்கனவே திறந்திருக்கும் அஞ்சல்"
+
+msgid "activesync_li_calendar"
+msgstr "நாட்காட்டி"
+
+msgid "activesync_li_first_sync"
+msgstr "முதல் ஒத்திசைவு"
+
+msgid "activesync_li_messages_back"
+msgstr "செய்திகளை மீண்டும் ஒத்திசைக்கவும்"
+
+msgid "activesync_li_offpeak_sync"
+msgstr "ஆஃப்-பீக் அட்டவணை"
+
+msgid "activesync_li_peak_days"
+msgstr "உச்ச நாட்கள்"
+
+msgid "activesync_li_peak_end"
+msgstr "உச்ச இறுதி நேரம்"
+
+msgid "activesync_li_peak_start"
+msgstr "உச்ச தொடக்க நேரம்"
+
+msgid "activesync_li_peak_sync"
+msgstr "உச்ச அட்டவணை"
+
+msgid "activesync_li_send_policy"
+msgstr "மின்னஞ்சல் அனுப்பும்போது"
+
+msgid "activesync_nc_certificate"
+msgstr ""
+"மாற்றப்பட்ட சான்றிதழை ஏற்றுக்கொள்கிறீர்களா? ஏற்றுக்கொள்வதற்கு முன் சேவையக நிர்வாகியை "
+"அணுகவும்."
+
+msgid "activesync_nc_delete"
+msgstr "பரிமாற்றக் கணக்கிற்கான அஞ்சலை நீக்கவா?"
+
+msgid "activesync_nc_first_sync"
+msgstr ""
+"ஆரம்ப ஒத்திசைவை ரத்து செய்யவா?\n"
+" கணக்கு அமைவு இழக்கப்படும்."
+
+msgid "activesync_nc_full_sync"
+msgstr "ஒத்திசைவை நிறுத்த விரும்புகிறீர்களா?"
+
+msgid "activesync_ti_accepting"
+msgstr "அழைப்பை ஏற்றுக்கொள்ளுங்கள்"
+
+msgid "activesync_ti_calendar_tasks"
+msgstr "காலண்டர் மற்றும் பணிகள்"
+
+msgid "activesync_ti_changed_certificate"
+msgstr "மாற்றப்பட்ட சான்றிதழ்"
+
+msgid "activesync_ti_connection"
+msgstr "இணைப்பு"
+
+msgid "activesync_ti_cpa"
+msgstr "பரிமாற்றத்திற்கான அஞ்சல்"
+
+msgid "activesync_ti_credentials"
+msgstr "நற்சான்றிதழ்கள்"
+
+msgid "activesync_ti_declining"
+msgstr "அழைப்பை நிராகரிக்கவும்"
+
+msgid "activesync_ti_details"
+msgstr "கடைசி ஒத்திசைவு: விவரங்கள்"
+
+msgid "activesync_ti_device_lock"
+msgstr "சாதன பூட்டு அமைப்புகளை மாற்றவும்"
+
+msgid "activesync_ti_email"
+msgstr "மின்னஞ்சல்"
+
+msgid "activesync_ti_first_sync"
+msgstr "முதல் ஒத்திசைவு"
+
+msgid "activesync_ti_full_sync"
+msgstr "முழு ஒத்திசைவு"
+
+msgid "activesync_ti_invalid_certificate"
+msgstr "தவறான சான்றிதழ்"
+
+msgid "activesync_ti_password"
+msgstr "கடவுச்சொல் பாதுகாக்கப்பட்டது"
+
+msgid "activesync_ti_resync"
+msgstr "மறு ஒத்திசைவு"
+
+msgid "activesync_ti_settings"
+msgstr "பரிமாற்ற அமைப்புகளுக்கான அஞ்சல்"
+
+msgid "activesync_ti_sync_calendar"
+msgstr "காலண்டர் மற்றும் பணிகள்"
+
+msgid "activesync_ti_sync_contacts"
+msgstr "தொடர்புகள்"
+
+msgid "activesync_ti_sync_email"
+msgstr "மின்னஞ்சல்"
+
+msgid "activesync_ti_sync_schedule"
+msgstr "ஒத்திசைவு அட்டவணை"
+
+msgid "activesync_ti_tentatively"
+msgstr "தற்காலிகமாக அழைப்பை ஏற்றுக்கொள்ளுங்கள்"
+
+msgid "activesync_ti_wizard_content_settings"
+msgstr "ஒத்திசைவு உள்ளடக்கம்"
+
+msgid "activesync_ti_wizard_credentials"
+msgstr "நற்சான்றிதழ்கள்"
+
+msgid "activesync_ti_wizard_finish"
+msgstr "ஒத்திசைவைத் தொடங்கவும்"
+
+msgid "activesync_ti_wizard_server_settings"
+msgstr "சேவையக அமைப்புகள்"
+
+msgid "activesync_ti_wizard_welcome"
+msgstr "வரவேற்கிறோம்"
+
+msgid "activesync_va_added"
+msgstr "சேர்க்கப்பட்டது"
+
+msgid "activesync_va_all_entries"
+msgstr "அனைத்து உள்ளீடுகளும்"
+
+msgid "activesync_va_all_messages"
+msgstr "அனைத்து செய்திகளும்"
+
+msgid "activesync_va_always_on"
+msgstr "எப்போதும் இயக்கவும்"
+
+msgid "activesync_va_calendar"
+msgstr "நாட்காட்டி"
+
+msgid "activesync_va_calendar_back"
+msgstr "காலெண்டரை மீண்டும் ஒத்திசைக்கவும்"
+
+msgid "activesync_va_changed_policy"
+msgstr "பாதுகாப்புக் கொள்கையில் மாற்றம்"
+
+msgid "activesync_va_connected"
+msgstr "இணைக்கப்பட்டுள்ளது"
+
+msgid "activesync_va_contacts"
+msgstr "தொடர்புகள்"
+
+msgid "activesync_va_create_new"
+msgstr "புதியதை உருவாக்கவும்"
+
+msgid "activesync_va_delete_items"
+msgstr "சாதனத்தில் உருப்படிகளை நீக்கு"
+
+msgid "activesync_va_deleted"
+msgstr "நீக்கப்பட்டது"
+
+msgid "activesync_va_device_wins"
+msgstr "சாதனம் முன்னுரிமை எடுக்கும்"
+
+msgid "activesync_va_disconnected"
+msgstr "துண்டிக்கப்பட்டது"
+
+msgid "activesync_va_email"
+msgstr "மின்னஞ்சல்"
+
+msgid "activesync_va_error_account_full"
+msgstr "பரிமாற்ற சேவையக பயனர் கணக்கு நிரம்பியுள்ளது."
+
+msgid "activesync_va_error_address"
+msgstr "பரிமாற்ற சேவையகத்திற்கான தவறான புரவலன் முகவரி."
+
+msgid "activesync_va_error_certificate"
+msgstr ""
+"சேவையக சான்றிதழ் தவறானது. சாதன நேரம் மற்றும் தேதி அமைப்புகளை சரிபார்க்கவும் அல்லது சேவை"
+"யக நிர்வாகியை தொடர்பு கொள்ளவும்."
+
+msgid "activesync_va_error_communication"
+msgstr "பரிமாற்ற சேவையகத்துடன் தொடர்புகொள்வதில் பிழை."
+
+msgid "activesync_va_error_disabled"
+msgstr "பரிமாற்றக் கணக்கு முடக்கப்பட்டது. அணுகல் மறுக்கப்பட்டது."
+
+msgid "activesync_va_error_disk_full"
+msgstr "பயனர் சேமிப்பு நிரம்பியுள்ளது"
+
+msgid "activesync_va_error_invalid_credentials"
+msgstr "பரிமாற்றக் கணக்கிற்கான தவறான பயனர் பெயர், கடவுச்சொல் அல்லது டொமைன்."
+
+msgid "activesync_va_error_maintenance"
+msgstr ""
+"பரிமாற்ற சேவையகம் பராமரிப்புக்கு உட்பட்டுள்ளது. ஒத்திசைவு பணி கிடைக்கவில்லை."
+
+msgid "activesync_va_error_no_response"
+msgstr ""
+"பரிமாற்ற சேவையகம் பதிலளிக்கவில்லை. கணக்கு அமைப்புகள் சரியானவை என்பதை சரிபார்க்கவும்."
+
+msgid "activesync_va_error_reinstall"
+msgstr ""
+"உள் பிழை. சாதனத்திலிருந்து பரிமாற்றக் கணக்கை அகற்று, சாதனத்தை மறுதொடக்கம் செய்து மீண்டும் "
+"அமைக்கவும்."
+
+msgid "activesync_va_error_secure"
+msgstr ""
+"பிழை. பரிமாற்ற சேவையகத்திற்கு பாதுகாப்பான இணைப்பு தேவைப்படுகிறது அல்லது கணக்கு "
+"முடக்கப்பட்டுள்ளது."
+
+msgid "activesync_va_error_server"
+msgstr "பரிமாற்ற சேவையகத்தில் பிழை"
+
+msgid "activesync_va_error_server_policy"
+msgstr "கட்டாய பரிமாற்ற சேவையக கொள்கை தோல்வியடைந்தது. அணுகல் மறுக்கப்பட்டது."
+
+msgid "activesync_va_error_sync"
+msgstr "பரிமாற்ற சேவையகத்துடன் ஒத்திசைக்க முடியவில்லை."
+
+msgid "activesync_va_error_system"
+msgstr "பரிமாற்ற சேவையகத்தில் கணினி பிழை."
+
+msgid "activesync_va_error_unavailable"
+msgstr "பரிமாற்ற சேவையகம் கிடைக்கவில்லை"
+
+msgid "activesync_va_error_unsupported_version"
+msgstr "பரிமாற்ற சேவையகத்தில் ஆதரிக்கப்படாத மென்பொருள் பதிப்பு."
+
+msgid "activesync_va_every_12_hour"
+msgstr "ஒவ்வொரு 12 மணி நேரமும்"
+
+msgid "activesync_va_every_15_mins"
+msgstr "ஒவ்வொரு 15 நிமிடங்களுக்கும்"
+
+msgid "activesync_va_every_30_mins"
+msgstr "ஒவ்வொரு 30 நிமிடங்களுக்கும்"
+
+msgid "activesync_va_every_4_hours"
+msgstr "ஒவ்வொரு 4 மணி நேரமும்"
+
+msgid "activesync_va_every_day"
+msgstr "தினமும்"
+
+msgid "activesync_va_every_hour"
+msgstr "ஒவ்வொரு மணி நேரமும்"
+
+msgid "activesync_va_full_sync_starting"
+msgstr "ஒத்திசைவைத் தொடங்குதல்"
+
+msgid "activesync_va_idle"
+msgstr "நிலையிக்கம்"
+
+msgid "activesync_va_keep_items"
+msgstr "சாதனத்தில் உருப்படிகளை வைத்திருங்கள்"
+
+msgid "activesync_va_last_sync"
+msgstr "கடைசியாக ஒத்திசைவு"
+
+msgid "activesync_va_manual"
+msgstr "கையேடு"
+
+msgid "activesync_va_never"
+msgstr "ஒருபோதும்"
+
+msgid "activesync_va_one_day"
+msgstr "1 நாள்"
+
+msgid "activesync_va_one_month"
+msgstr "1 மாதம்"
+
+msgid "activesync_va_one_week"
+msgstr "1 வாரம்"
+
+msgid "activesync_va_online"
+msgstr "ஆன்லைனில்"
+
+msgid "activesync_va_send_at_sync"
+msgstr "அடுத்த ஒத்திசைவில் அனுப்பவும்"
+
+msgid "activesync_va_send_immediately"
+msgstr "உடனடியாக அனுப்புங்கள்"
+
+msgid "activesync_va_server_wins"
+msgstr "சேவையகம் முன்னுரிமை எடுக்கும்"
+
+msgid "activesync_va_service_provider"
+msgstr "பரிமாற்றத்திற்கான அஞ்சல்"
+
+msgid "activesync_va_six_months"
+msgstr "6 மாதங்கள்"
+
+msgid "activesync_va_status"
+msgstr "நிலை"
+
+msgid "activesync_va_status_menu_error"
+msgstr "கடைசியாக ஒத்திசைவு தோல்வியடைந்தது"
+
+msgid "activesync_va_status_menu_last_sync"
+msgstr "கடைசி ஒத்திசைவு %s"
+
+msgid "activesync_va_status_menu_synchronizing"
+msgstr "ஒத்திசைவு"
+
+msgid "activesync_va_sync_failed"
+msgstr "ஒத்திசைவு தோல்வியடைந்தது"
+
+msgid "activesync_va_sync_stopped"
+msgstr "நிறுத்தப்பட்டது"
+
+msgid "activesync_va_three_days"
+msgstr "3 நாட்கள்"
+
+msgid "activesync_va_three_months"
+msgstr "3 மாதங்கள்"
+
+msgid "activesync_va_today"
+msgstr "இன்று"
+
+msgid "activesync_va_two_weeks"
+msgstr "2 வாரங்கள்"
+
+msgid "activesync_va_updated"
+msgstr "புதுப்பிக்கப்பட்டது"
